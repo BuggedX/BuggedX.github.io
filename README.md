@@ -79,7 +79,7 @@
 
 5) **Půlork**  
 - Jazyk navíc: orkština  
-- Mohutný: \+1 k hodům na útok a zranění zblízka a \+1 na zranění zblízka
+- Mohutný: \+1 k hodům na útok a zranění zblízka a \+1 inventářový slot.
 
 6) **Půlčík**  
 - Kradmý: jednou za den se můžeš zneviditelnit až po dobu 3 kol *(útočení a kouzla ti zruší neviditelnost)*.  
