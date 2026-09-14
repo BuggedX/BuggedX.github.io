@@ -184,26 +184,26 @@
 
 #### **Výbava**:
 *(každá z těchto věcí zabírá jeden inventářový slot).*
-- **Bola**: 2 zl *(zamotání nohou)*  
-- **Křesadlo**: ½ zl *(rutinní rozdělání)*  
-- **Láhev**: ½ zl *(prázdná)*  
-- **Lano** *(20m)*: 1 zl *(konopné)*  
-- **Lucerna**: 5 zl *(2x dosvit, na petrolej)*  
-- **Lůj** *(sklenička)*: ½ zl *(lubrikant)*  
-- **Past na medvědy**: 5 zl *(chyceni k6)*  
-- **Petrolej** *(baňka)*: ½ zl *(hořlavé)*  
-- **Páčidlo**: ½ zl *(výhody k páčení)*  
-- **Pochodeň**: ½ zl *(3ks na táborák)*  
-- **Potraviny** *(3 porce)*: ½ zl  
-- **Síť**: ½ zl *(k polapení tvora)*  
-- **Stan**: 10 zl *(2m2, pro dvě osoby)*  
-- **Šípy** *(toulec, 20ks)*: 1 zl  
-- **Šplhací hák**: 1 zl. *(k lanu)*  
-- **Tyč** *(3m, skládací)*: ½ zl  
-- **Zrcátko**: 10 zl  
+- **Bola**: 2 zl *(zamotání nohou)*
+- **Křesadlo**: ½ zl *(rutinní rozdělání)*
+- **Láhev**: ½ zl *(prázdná)*
+- **Lano** *(20m)*: 1 zl *(konopné)*
+- **Lucerna**: 5 zl *(2x dosvit, na petrolej)*
+- **Lůj** *(sklenička)*: ½ zl *(lubrikant)*
+- **Past na medvědy**: 5 zl *(chyceni k6)*
+- **Petrolej** *(baňka)*: ½ zl *(hořlavé)*
+- **Páčidlo**: ½ zl *(výhody k páčení)*
+- **Pochodeň**: ½ zl *(3ks na táborák)*
+- **Potraviny** *(3 porce)*: ½ zl
+- **Síť**: ½ zl *(k polapení tvora)*
+- **Stan**: 10 zl *(2m2, pro dvě osoby)*
+- **Šípy** *(toulec, 20ks)*: 1 zl
+- **Šplhací hák**: 1 zl. *(k lanu)*
+- **Tyč** *(3m, skládací)*: ½ zl
+- **Zrcátko**: 10 zl
 - **Železné hřeby** *(10ks)*: 1 zl *(s okem)*
 
-- **Mince:** prvních 100 zlatých mincí je k nošení zdarma, každý další započatý pytel *(100 zl)* je za jeden inventářový slot
+- Mince: prvních 100 zlatých mincí je k nošení zdarma, každý další započatý pytel *(100 zl)* je za jeden inventářový slot
 
 #### **Magická výbava**:
 *(zabírá jeden slot)*.
