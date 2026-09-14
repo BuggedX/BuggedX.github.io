@@ -122,7 +122,6 @@
 - Drobný: vejdeš se na těsná místa, ⅙ že jsi převlečený a domestikovaný goblin.
 
 ### Povolání
-
 #### 1) **Válečník**  
 - **Mistrovství se zbraní:** vyber si zbraň a přičti 1+½ tvé úrovně k hodům na útok a zranění při používání této zbraně *(zaokrouhleno dolů)*.  
 - **Kuráž:** máš výhodu na hody na sílu a obratnost u manévrů, překonání protivníka a uhnutí nebezpečí.
@@ -259,7 +258,7 @@
 - Oř *(kůň)*: 50 zl *(unese 15 slotů, jezdec zabírá 10 slotů)*
 - Létající Oř *(obří vážka)*: 500 zl *(unese 15 slotů, výcvik)*
 
-## Temné stíny \- kouzla třída 1 (T1, OB11)
+## Kouzla třída 1 (T1, OB11)
 *Kouzelníci pouze kouzelnické hůlky a svitky, kněží pouze kněžské hůlky a svitky, bardi smí využívat všechny hůlky a svitky.*  
 
 #### **Kouzelnická kouzla T1**:  
