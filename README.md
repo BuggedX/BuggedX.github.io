@@ -61,47 +61,47 @@
 
 #### Rasy:
 
-1) **Člověk**  
+1. **Člověk**  
 - Jazyk navíc: vyber si navíc jeden obyčejný jazyk.  
 - Ambiciózní: jeden extra talent navíc na 1\. úrovni.
 
-2) **Půlelf**  
+2. **Půlelf**  
 - Jazyk navíc: elfština.  
 - Přizpůsobivý: při získání talentu si hoď dvakrát a vyber si.
 
-3) **Elf**  
+3. **Elf**  
 - Jazyk navíc: elfština a sylvánština.  
 - Prozíravý: \+1 k hodům na útok na dálku a nebo k ověření seslání kouzla.
 
-4) **Trpaslík**  
+4. **Trpaslík**  
 - Jazyk navíc: trpasličtina.  
 - Statný: \+2 životy na 1\. úrovni a výhoda při hodu na životy za úrovně.
 
-5) **Půlork**  
+5. **Půlork**  
 - Jazyk navíc: orkština  
 - Mohutný: \+1 k hodům na útok a zranění zblízka a \+1 inventářový slot.
 
-6) **Půlčík**  
+6. **Půlčík**  
 - Kradmý: jednou za den se můžeš zneviditelnit až po dobu 3 kol *(útočení a kouzla ti zruší neviditelnost)*.  
 - Drobný: vejdeš se na těsná místa, ⅙ že jsi převlečený a domestikovaný goblin.
 
 ### Povolání
-povolání
-#### 1) **Válečník**  
+
+#### 1. **Válečník**  
 - **Mistrovství se zbraní:** vyber si zbraň a přičti 1+½ tvé úrovně k hodům na útok a zranění při používání této zbraně *(zaokrouhleno dolů)*.  
 - **Kuráž:** máš výhodu na hody na sílu a obratnost u manévrů, překonání protivníka a uhnutí nebezpečí.
 - **Nosič:** odolnost ti přidává navíc inventářové pole.
 - **Životy:** k10 za každou úroveň.
 - **Vybavení:** všechny obyčejné zbraně, zbroje a štíty.
 - **Talent*(k10)*:** **1-3**: *\[+1 k síle, obratnosti a nebo odolnosti\]*, **4-5**: *\[+1 k TZ při nošení zbroje\]*, **6**: *\[při umírání se zvedneš s 1 ŽV, jednou za odpočinek\]*, **7**: *\[+3 inventářové sloty\]*, **8**: *\[odražení jednoho útoku, jednou za odpočinek\]* **9**: *\[další mistrovství se zbraní\]*, **10**: *\[jedna mistrovská zbraň se stane smrtící, krituje při 19-20 na kostce (přehoď duplikát, pokud nemáš volnou mistrovskou zbraň)\]*.
-#### 2) **Hraničář**  
+#### 2. **Hraničář**  
 - **Bylinkářství:** hoď na inteligenci k vytvoření bylinného přípravku, neúspěšné pokusy vyžadují odpočinek před dalším pokusem *(každý přípravek se vyčerpává zvlášť)*. Přípravek musí být použit do 5 kol od vytvoření.
 - **Bylinné přípravky:** mast *\[vyléčí 1 život, OB11\]*, budič *\[pouze na sebe, výhoda na útoky na 5 kol, OB12\]*, nátěr *\[výhoda k zranění proti určitému typu nepřítele na 5 kol, OB13\]*, protijed *\[vyléčí jednu otravu, OB14\]*, hojivé léčivo *\[jako lektvar léčení (+1k6 žv úr1+, \+2k8 úr4+, \+3k10 úr7+), OB15\]*.
 - **Zálesák:** výhoda na hody na navigaci, stopování, přežití v divočině, divoká zvířata a plížení.
 - **Životy:** k8 za každou úroveň.
 - **Vybavení:** lehké/střední zbroje, hraničářské zbraně.
 - **Talent*(k8)*:** **1-2**: *\[+1 k síle a nebo obratnosti\],* **3-4**: *\[+1 k moudrosti a nebo inteligenci\]*, **5-6**: *\[+1 k útoku a zranění na blízko a nebo na dálku\]*, **7**: *\[získáš výhodu na vytvoření jednoho typu bylinného přípravku\],* **8**: *\[vyber si zbraň, budeš s ní způsobovat zranění k12\]*.
-#### 3) **Kněz**  
+#### 3. **Kněz**  
 - **Božstvo:** vyber si božstvo a svatý symbol *(symbol je zdarma k nošení)*.
 - **Jazyk navíc:** vyber si jeden vzácný jazyk.
 - **Extra kouzlo:** od božstva dostáváš extra kouzlo.
@@ -109,14 +109,14 @@ povolání
 - **Životy:** k6 za každou úroveň.
 - **Vybavení:** všechny zbroje a štíty, kněžské zbraně.
 - **Talent*(k6)*:** **1-2**: *\[+1 k modifikátoru síly, odolnosti a nebo moudrosti\]*, **3**: *\[+1 k hodům na útok\]*, **4**: *\[+1 k sesílání kouzel\],* **5**: *\[výhoda na kouzlo, které znáš\]*. **6**: *\[při použití štěstí, přidej \+k6 (přehoď duplikát)\]*.
-#### 4) **Kouzelník**  
+#### 4. **Kouzelník**  
 - **Jazyky navíc:** vyber si 2 obecné a 2 vzácné.
 - **Kouzla:** vyber si tři kouzelnická kouzla třídy 1, sesílání přes inteligenci, při hodu 1 dojde k nehodě.
 - **Kouzla navíc:** můžeš prostudovat kouzelný svitek kouzelnického kouzla, inteligence obtížnost 15, při úspěchu se permanentně naučíš toto kouzlo nad rámec limitu, svitek je při pokusu vždy zničen.
 - **Životy:** k4 za každou úroveň.
 - **Vybavení:** pouze dýky a hole.
 - **Talent*(k4)*:** **1**: *\[+1 k modifikátoru inteligence, pokud jsi na max, tak dostaneš \+1 k seslání kouzla\]*,  **2**: *\[vyber si navíc jedno další kouzlo z třídy, kterou standardně znáš\]*, **3**: *\[výhoda na seslání jednoho známého kouzla\]*, **4**: *\[vyrobíš náhodný magický předmět (nejčastěji hůlka, určuje vypravěč)\]*.
-#### 5) **Bard**  
+#### 5. **Bard**  
 - **Magický amatér:** můžeš používat všechny svitky a hůlky, seslání přes charisma, při hodu 1 způsobíš kouzelnickou nehodu.
 - **Inspirace:** hoď charisma OB12, jeden blízký cíl získá inspiraci *(\+k6 k hodům s k20)*, při neúspěchu vyčerpání. Každý max jedna kostka inspirace.
 - **Fascinující hudba:** charisma OB12 *(soustředění, 5 kol)*, vybrané blízké cíle mají nevýhody na hody k20 a musí ověřit soustředění. Při neúspěchu vyčerpání. Máš u sebe hudební nástroj *(zdarma k nošení)*.
@@ -125,7 +125,7 @@ povolání
 - **Životy:** k6 za každou úroveň.
 - **Vybavení:** lehké a střední zbroje, bardské zbraně.
 - **Talent*(k6)*:** **1-2**: *\[+1 k libovolné vlastnosti\]*, **3**: *\[+3 k hodům při oddechu\]*, **4**: *\[+1 k útokům a nebo \+1 k seslání kouzel\]* **5**: *\[získáš zvláštního následovníka\]*, **6**: *\[inspirace je OB9 (přehoď duplikát)\]*.
-#### 6) **Zloděj**  
+#### 6. **Zloděj**  
 - **Skrytý útok:** přidej 1+½ tvé úrovně kostek zranění k hodům na zranění proti bytosti, která o tvém útoku neví *(zaokrouhlení dolů, skrývej se v boji)*.
 - **Zlodějské nástroje:** umíš používat a máš u sebe vždy zlodějské náčiní *(zdarma k nošení)*.
 - **Zlodějina:** máš výhody na hody na lezení, skrývání, převleky, vybírání kapes, otevírání zámků, hledání a zneškodňování pastí.
@@ -138,44 +138,44 @@ povolání
 #### **Zbraně**:
 *\[zbraň, cena, dosah, kostka poškození, vlastnosti\], seřazeno podle ceny. Zabírá jeden a nebo více inventářových slotů.*
 
-1) **Obouručák**: 12 zl, na dosah, k12, \[2R, 2 sloty\].  
-2) **Katana**: 12 zl, na dosah, k8, \[2R, F\].  
-3) **Bastard**: 10 zl, na dosah, k8/k10, \[V, 2 sloty\].  
-4) **Velká sekera**: 10 zl, na dosah, k8/k10, \[V, 2 sloty\].  
-5) **Halapartna**: 10 zl, 2\*na dosah, k10, \[2R, 2 sloty\].  
-6) **Válečné kladivo**: 10 zl, na dosah, k10, \[2R\].  
-7) **Řemdih**: 8 zl, na dosah, k8.  
-8) **Rapír**: 8 zl, na dosah, k6, \[F\].  
-9) **Kuš**: 8 zl, daleko, k6, \[2R, N\].  
-10) **Dlouhý luk**: 8 zl, daleko, k8 \[2R\].  
-11) **Meč**: 6 zl, k6.  
-12) **Krátký luk**: 6 zl, daleko, k4, \[2R\].  
-13) **Palcát**: 6 zl, na dosah, k6.  
-14) **Sekyrka**: 3 zl, na dosah/blízko, k6, \[Vrh\].  
-15) **Dýka**: 1 zl, na dosah/blízko, k4, \[F, Vrh\].  
-16) **Kopí**: 1 zl, na dosah/blízko, k6, \[Vrh\].  
-17) **Kyj**: ½ zl, na dosah, k4.  
-18) **Hůl**: ½ zl, na dosah, k4, \[2R\].  
-19) **Prak**: ½ zl, daleko, k4, \[N\].  
-20) **Oštěp**: ½ zl, daleko, k4, \[Vrh\].
+1. **Obouručák**: 12 zl, na dosah, k12, \[2R, 2 sloty\].  
+2. **Katana**: 12 zl, na dosah, k8, \[2R, F\].  
+3. **Bastard**: 10 zl, na dosah, k8/k10, \[V, 2 sloty\].  
+4. **Velká sekera**: 10 zl, na dosah, k8/k10, \[V, 2 sloty\].  
+5. **Halapartna**: 10 zl, 2\*na dosah, k10, \[2R, 2 sloty\].  
+6. **Válečné kladivo**: 10 zl, na dosah, k10, \[2R\].  
+7. **Řemdih**: 8 zl, na dosah, k8.  
+8. **Rapír**: 8 zl, na dosah, k6, \[F\].  
+9. **Kuš**: 8 zl, daleko, k6, \[2R, N\].  
+10. **Dlouhý luk**: 8 zl, daleko, k8 \[2R\].  
+11. **Meč**: 6 zl, k6.  
+12. **Krátký luk**: 6 zl, daleko, k4, \[2R\].  
+13. **Palcát**: 6 zl, na dosah, k6.  
+14. **Sekyrka**: 3 zl, na dosah/blízko, k6, \[Vrh\].  
+15. **Dýka**: 1 zl, na dosah/blízko, k4, \[F, Vrh\].  
+16. **Kopí**: 1 zl, na dosah/blízko, k6, \[Vrh\].  
+17. **Kyj**: ½ zl, na dosah, k4.  
+18. **Hůl**: ½ zl, na dosah, k4, \[2R\].  
+19. **Prak**: ½ zl, daleko, k4, \[N\].  
+20. **Oštěp**: ½ zl, daleko, k4, \[Vrh\].
 
 **2R:** obouruční, **V:** verzatilní *(jednoruční/obouruční)*, **F:** finesa *(můžeš dělat útoky přes obratnost)*, **Vrh:** vrhací *(na dálku přes sílu nebo obratnost)*, **N:** nabíjecí *(nabití zabere celý pohyb)*.
 
 #### **Zdatnost dle povolání**:
-1) **Válečník**: všechny zbraně, zbroje a štíty.  
-2) **Hraničář**: bastard, dlouhý luk, kuš, meč, krátký luk, dýka, kopí, hůl a lehké/střední zbroje.  
-3) **Kněz**: válečné kladivo, kuš, meč, palcát, sekyrka, dýka, kyj, hůl a všechny zbroje a štíty.  
-4) **Kouzelník**: dýka, hůl.  
-5) **Bard**: rapír, kuš, meč, krátký luk, palcát, kyj, hůl, prak a lehké/střední zbroje.  
-6) **Zloděj**: rapír, kuš, meč, krátký luk, kyj, prak a lehké zbroje.
+1. **Válečník**: všechny zbraně, zbroje a štíty.  
+2. **Hraničář**: bastard, dlouhý luk, kuš, meč, krátký luk, dýka, kopí, hůl a lehké/střední zbroje.  
+3. **Kněz**: válečné kladivo, kuš, meč, palcát, sekyrka, dýka, kyj, hůl a všechny zbroje a štíty.  
+4. **Kouzelník**: dýka, hůl.  
+5. **Bard**: rapír, kuš, meč, krátký luk, palcát, kyj, hůl, prak a lehké/střední zbroje.  
+6. **Zloděj**: rapír, kuš, meč, krátký luk, kyj, prak a lehké zbroje.
 
 #### **Zbroje**: 
 *\[zbroj, cena, sloty, třída zbroje, vlastnosti\].*
 
-1) **Lehká zbroj**: 10 zl, 1 slot, TZ11+obraznost *(např.: kožená zbroj)*
-2) **Střední zbroj**: 60 zl, 2 sloty, TZ13+obratnost, nevýhody na plížení a plavání *(např.: kroužková zbroj)*
-3) **Těžká zbroj**: 130 zl, 3 sloty, TZ15, nevýhody na plížení a nelze plavat. *(např.: plátová zbroj)*
-4) **Štít**: 10 zl, 1 slot, \+2 TZ, zabírá jeden slot, musí být držen v jedné ruce aby poskytoval bonus k TZ
+1. **Lehká zbroj**: 10 zl, 1 slot, TZ11+obraznost *(např.: kožená zbroj)*
+2. **Střední zbroj**: 60 zl, 2 sloty, TZ13+obratnost, nevýhody na plížení a plavání *(např.: kroužková zbroj)*
+3. **Těžká zbroj**: 130 zl, 3 sloty, TZ15, nevýhody na plížení a nelze plavat. *(např.: plátová zbroj)*
+4. **Štít**: 10 zl, 1 slot, \+2 TZ, zabírá jeden slot, musí být držen v jedné ruce aby poskytoval bonus k TZ
 
 #### **Výbava**:
 *(každá z těchto věcí zabírá jeden inventářový slot).*
