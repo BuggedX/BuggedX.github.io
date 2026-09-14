@@ -1,42 +1,6 @@
 # Temné stíny
 *Odlehčené D&D*.
 
-## Co je známé o rozštěpeném království?
-
-* Před tisícem let vládla na území království dračí říše, která se rozpadla v zničující civilní válce draků. Teplokrevné rasy se během chaosu osvobodily a vytvořily svobodné království.
-* V království jsou nejpočetnější lidé, po nich následují trpaslíci a pak elfové. Ostatní rasy jsou početně zanedbatelné. Zelenokožci *(orkové a goblini)* nejsou v civilizovaných městech vítáni.
-* Království je obklopeno nehostinnými ledovými pustinami na severu, pouštěmi a horami na západě, divokou džunglí na jihu a inkoustovým mořem na východě.
-* Před pár lety za podivných okolností zemřel král a nyní místo něho vládne jeho manželka, královna Ivara Rudovlasá, která se snaží sjednotit království pod její železnou pěstí. Na jihu se proti ní začíná formovat aliance rebelů.
-* Trpasličí radikální separatisté *(Ocelová kladiva)* se pokoušeli o oddělení trpasličích měst od zbytku království, ale byli poraženi královskou armádou.
-* Pomalu se začínají rozvíjet metody střelného prachu, parních strojů a vzducholodí, které kombinují magii a technologii.
-* Život mimo civilizovaná města je nebezpečný, na cestách číhají bandité a divočinou se potulují zlá monstra. Velké části království jsou stále neprobádané.
-* Magie je nepředvídatelná a obyčejní lidé nemají důvěru v čaroděje, nepovedená kouzla tě mohou spálit na prach.
-* Bohové jsou nepřítomni a obvykle se nevměšují do záležitostí smrtelníků. Jen pár divných kněží stále dokáže využít jejich božskou sílu. 
-* Je šest známých božstev: 
-	1) **Svaté světlo** *(Z, spravedlnost a čest, lidé)*.
-	2) **Architektka osudu** *(Z, zákon a pořádek)*.
-	3) **Matka příroda** *(N, příroda a počasí, elfové)*. 
-	4) **Strážce vědění** *(N, magie a znalosti, mágové)*. 
-	5) **Velký plenitel** *(Ch, síla a válka, barbaři)*.
-	6) **Temná vědma** *(Ch, ambice a tajemství, čarodějky)*. 
-	*Ostatní božstva byla kdysi dávno za jejich hříchy svržena do zapomnění.*
-* Na světě je také nespočet démonů, nadpřirozených sil a bytostí, kterým se obecně říká patroni. Patroni se nerovnají v jejich síle opravdovým bohům, zato jsou aktivnější a rádi propůjčují svou moc smrtelníkům výměnou za služby a oběti.
-
-### Civilizace
-1. **Králova Brána**: hlavní velkoměsto království, populace zhruba 75 tisíc. Leží na chladném severním okraji království, je sevřené mezi kamenitým pobřežím inkoustového moře a rezavou řekou, ze které jsou vyvedené kanály protékající městem. Velkoměsto je rozděleno na tři hlavní části: bohatá *chrámová a vznešená čtvrť*, pracující *loděnická a řemeslná čtvrť* a chudé *slumy a rybárny*.
-2. **Myrkos**: zalesněný autonomní elfí ostrov, populace 50 tisíc převážně elfů. Je známý alchymii, akademii magie a ochočeným obřím hmyzem.
-3. **Thén**: chladné konzervativní trpasličí město na severozápadě království. Populace zhruba 25 tisíc, jsou zde slévárny, sklárny a strojírny.
-4. **Tórek**: exotické západní město, populace zhruba 15 tisíc, je zde vyhlášený bazar a obchodují zde kočovné karavany ze západních pouští.
-5. **Železný Most**: okupované trpasličí město, populace 12 tisíc, zpracování dřeva a textilu, dříve vzducholodě, je zde královský vojenský protektorát.
-6. **Roghbád**: znečištěné vzdorující trpasličí město hluboko v horách, 7 tisíc trpaslíků, výroba střelného prachu a zbraní.
-7. **Temnovody**: bezzákonné město vyvrhelů v bažinách, populace 6 tisíc, černý trh a okultismus.
-8. **Čestná Kotlina**: pulčické městečko, populace 5 tisíc, geotermální skleníky s zeleninou a ovocem.
-9. **Galena**: lesní městys, populace 3 tisíce, obklopeno divokým lesem, lov zvěřiny a zpracování kožešin.
-10. **Bílá Tvrz**: sídlo aliance svobodných rebelů, stanové městečko přeživších ze Skalvinu a misionářů Teragnis. Celková populace zhruba 2 a půl tisíce.
-11. **Ostelín**: chatrčová osada goblinů na mokřadovém pobřeží inkoustového moře, populace zhruba 2 tisíce, ilegální obchod, drogy a hazard.
-12. **Vort**: osamělá vesnice na jihu, populace zhruba jeden tisíc, malebné kopce s ovcemi, těží se zde dřevěné uhlí z blízkého spáleného lesa.
-13. **Skalvinský kráter**: zničené agrární město, populace bývalá 20 tisíc lidí, byla zde odpálena magitechnická bomba kvůli démonickému portálu pod městem. Nyní zde zůstává regiment *(500)* elfích hraničářů.
-
 ## Přehled pravidel
 - Každá postava ve svém kole může udělat akci a pohyb.
 - Akce může být například: útok, seslání kouzla, sprint *(další pohyb)*, použití předmětu, manévr a nebo kombinace drobných akcí.
