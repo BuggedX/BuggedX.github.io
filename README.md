@@ -86,6 +86,7 @@
 - Drobný: vejdeš se na těsná místa, ⅙ že jsi převlečený a domestikovaný goblin.
 
 ### Povolání
+
 #### 1) **Válečník**  
 - **Mistrovství se zbraní:** vyber si zbraň a přičti 1+½ tvé úrovně k hodům na útok a zranění při používání této zbraně *(zaokrouhleno dolů)*.  
 - **Kuráž:** máš výhodu na hody na sílu a obratnost u manévrů, překonání protivníka a uhnutí nebezpečí.
@@ -136,6 +137,7 @@
 
 #### **Zbraně**:
 *\[zbraň, cena, dosah, kostka poškození, vlastnosti\], seřazeno podle ceny. Zabírá jeden a nebo více inventářových slotů.*
+
 1) **Obouručák**: 12 zl, na dosah, k12, \[2R, 2 sloty\].  
 2) **Katana**: 12 zl, na dosah, k8, \[2R, F\].  
 3) **Bastard**: 10 zl, na dosah, k8/k10, \[V, 2 sloty\].  
