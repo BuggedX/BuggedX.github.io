@@ -86,7 +86,7 @@
 - Drobný: vejdeš se na těsná místa, ⅙ že jsi převlečený a domestikovaný goblin.
 
 ### Povolání
-
+povolání
 #### 1) **Válečník**  
 - **Mistrovství se zbraní:** vyber si zbraň a přičti 1+½ tvé úrovně k hodům na útok a zranění při používání této zbraně *(zaokrouhleno dolů)*.  
 - **Kuráž:** máš výhodu na hody na sílu a obratnost u manévrů, překonání protivníka a uhnutí nebezpečí.
@@ -171,6 +171,7 @@
 
 #### **Zbroje**: 
 *\[zbroj, cena, sloty, třída zbroje, vlastnosti\].*
+
 1) **Lehká zbroj**: 10 zl, 1 slot, TZ11+obraznost *(např.: kožená zbroj)*
 2) **Střední zbroj**: 60 zl, 2 sloty, TZ13+obratnost, nevýhody na plížení a plavání *(např.: kroužková zbroj)*
 3) **Těžká zbroj**: 130 zl, 3 sloty, TZ15, nevýhody na plížení a nelze plavat. *(např.: plátová zbroj)*
