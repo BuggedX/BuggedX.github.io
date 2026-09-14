@@ -94,6 +94,7 @@
 - **Životy:** k10 za každou úroveň.
 - **Vybavení:** všechny obyčejné zbraně, zbroje a štíty.
 - **Talent*(k10)*:** **1-3**: *\[+1 k síle, obratnosti a nebo odolnosti\]*, **4-5**: *\[+1 k TZ při nošení zbroje\]*, **6**: *\[při umírání se zvedneš s 1 ŽV, jednou za odpočinek\]*, **7**: *\[+3 inventářové sloty\]*, **8**: *\[odražení jednoho útoku, jednou za odpočinek\]* **9**: *\[další mistrovství se zbraní\]*, **10**: *\[jedna mistrovská zbraň se stane smrtící, krituje při 19-20 na kostce (přehoď duplikát, pokud nemáš volnou mistrovskou zbraň)\]*.
+
 #### 2. **Hraničář**  
 - **Bylinkářství:** hoď na inteligenci k vytvoření bylinného přípravku, neúspěšné pokusy vyžadují odpočinek před dalším pokusem *(každý přípravek se vyčerpává zvlášť)*. Přípravek musí být použit do 5 kol od vytvoření.
 - **Bylinné přípravky:** mast *\[vyléčí 1 život, OB11\]*, budič *\[pouze na sebe, výhoda na útoky na 5 kol, OB12\]*, nátěr *\[výhoda k zranění proti určitému typu nepřítele na 5 kol, OB13\]*, protijed *\[vyléčí jednu otravu, OB14\]*, hojivé léčivo *\[jako lektvar léčení (+1k6 žv úr1+, \+2k8 úr4+, \+3k10 úr7+), OB15\]*.
@@ -101,6 +102,7 @@
 - **Životy:** k8 za každou úroveň.
 - **Vybavení:** lehké/střední zbroje, hraničářské zbraně.
 - **Talent*(k8)*:** **1-2**: *\[+1 k síle a nebo obratnosti\],* **3-4**: *\[+1 k moudrosti a nebo inteligenci\]*, **5-6**: *\[+1 k útoku a zranění na blízko a nebo na dálku\]*, **7**: *\[získáš výhodu na vytvoření jednoho typu bylinného přípravku\],* **8**: *\[vyber si zbraň, budeš s ní způsobovat zranění k12\]*.
+
 #### 3. **Kněz**  
 - **Božstvo:** vyber si božstvo a svatý symbol *(symbol je zdarma k nošení)*.
 - **Jazyk navíc:** vyber si jeden vzácný jazyk.
@@ -109,6 +111,7 @@
 - **Životy:** k6 za každou úroveň.
 - **Vybavení:** všechny zbroje a štíty, kněžské zbraně.
 - **Talent*(k6)*:** **1-2**: *\[+1 k modifikátoru síly, odolnosti a nebo moudrosti\]*, **3**: *\[+1 k hodům na útok\]*, **4**: *\[+1 k sesílání kouzel\],* **5**: *\[výhoda na kouzlo, které znáš\]*. **6**: *\[při použití štěstí, přidej \+k6 (přehoď duplikát)\]*.
+
 #### 4. **Kouzelník**  
 - **Jazyky navíc:** vyber si 2 obecné a 2 vzácné.
 - **Kouzla:** vyber si tři kouzelnická kouzla třídy 1, sesílání přes inteligenci, při hodu 1 dojde k nehodě.
@@ -116,6 +119,7 @@
 - **Životy:** k4 za každou úroveň.
 - **Vybavení:** pouze dýky a hole.
 - **Talent*(k4)*:** **1**: *\[+1 k modifikátoru inteligence, pokud jsi na max, tak dostaneš \+1 k seslání kouzla\]*,  **2**: *\[vyber si navíc jedno další kouzlo z třídy, kterou standardně znáš\]*, **3**: *\[výhoda na seslání jednoho známého kouzla\]*, **4**: *\[vyrobíš náhodný magický předmět (nejčastěji hůlka, určuje vypravěč)\]*.
+
 #### 5. **Bard**  
 - **Magický amatér:** můžeš používat všechny svitky a hůlky, seslání přes charisma, při hodu 1 způsobíš kouzelnickou nehodu.
 - **Inspirace:** hoď charisma OB12, jeden blízký cíl získá inspiraci *(\+k6 k hodům s k20)*, při neúspěchu vyčerpání. Každý max jedna kostka inspirace.
@@ -125,6 +129,7 @@
 - **Životy:** k6 za každou úroveň.
 - **Vybavení:** lehké a střední zbroje, bardské zbraně.
 - **Talent*(k6)*:** **1-2**: *\[+1 k libovolné vlastnosti\]*, **3**: *\[+3 k hodům při oddechu\]*, **4**: *\[+1 k útokům a nebo \+1 k seslání kouzel\]* **5**: *\[získáš zvláštního následovníka\]*, **6**: *\[inspirace je OB9 (přehoď duplikát)\]*.
+
 #### 6. **Zloděj**  
 - **Skrytý útok:** přidej 1+½ tvé úrovně kostek zranění k hodům na zranění proti bytosti, která o tvém útoku neví *(zaokrouhlení dolů, skrývej se v boji)*.
 - **Zlodějské nástroje:** umíš používat a máš u sebe vždy zlodějské náčiní *(zdarma k nošení)*.
