@@ -139,6 +139,7 @@
 - **Talent*(k6)*:** **1-2**: *\[+1 k modifikátoru síly, obratnosti nebo charisma\]*, **3**: *\[+1 k útokům\]*, **4**: *\[zákeřný útok má \+kostku navíc\]* **5**: *\[vyhneš se útoku a nebo prozrazení, jednou za odpočinek\]*, **6**: *\[výhody na iniciativu (přehoď duplikát)\]*.
 
 ## Vybavení
+- Mince: prvních 100 zlatých mincí je k nošení zdarma, každý další započatý pytel *(100 zl)* je za jeden inventářový slot
 
 #### **Zbraně**:
 *\[zbraň, cena, dosah, kostka poškození, vlastnosti\], seřazeno podle ceny. Zabírá jeden a nebo více inventářových slotů.*
@@ -201,9 +202,7 @@
 - **Šplhací hák**: 1 zl. *(k lanu)*
 - **Tyč** *(3m, skládací)*: ½ zl
 - **Zrcátko**: 10 zl
-- **Železné hřeby** *(10ks)*: 1 zl *(s okem)*
-
-- Mince: prvních 100 zlatých mincí je k nošení zdarma, každý další započatý pytel *(100 zl)* je za jeden inventářový slot
+- **Železné hřeby** *(10ks)*: 1 zl *(s okem)* 
 
 #### **Magická výbava**:
 *(zabírá jeden slot)*.
@@ -241,17 +240,17 @@
 - **Mágova zbroj**: \[10 kol, na sebe\], průhledná vrstva energie chrání tvé tělo, tvá TZ je 14 (18 při kritickém úspěchu).  
 - **Očarování osoby**: \[k8 dní, blízko\], jeden blízký humanoid úrovně 2 a nižší, k tobě bude přátelský po k8 dní nebo dokud mu ty a nebo tví spojenci neublíží. Po skončení si je cíl vědom toho, že byl očarován.  
 - **Pomalý pád**: \[okamžité *(reakce na pád)*, na sebe\], rychlost tvého pádu se okamžitě zpomalí, dokud bezpečně nepřistaneš.  
-- **Poplach**: \[1 den, na dotek\], dotkni se předmětu a po dobu trvání budeš vědět, pokud se k němu přiblíží nechtěný tvor.  
+- **Poplach**: \[1 den, na dosah\], dotkni se předmětu a po dobu trvání budeš vědět, pokud se k němu přiblíží nechtěný tvor.  
 - **Spánek**: \[okamžité, blízko\], živí tvorové v blízké oblasti okamžitě usnou pokud jsou úrovně 2 a nižší. Probudí se pokud jsou zraněni a nebo je s nimi zatřeseno.  
-- **Světlo**: \[30 minut, na dotek\], jeden předmět začne svítit jasným světlem na blízkou vzdálenost.  
+- **Světlo**: \[30 minut, na dosah\], jeden předmět začne svítit jasným světlem na blízkou vzdálenost.  
 
 ##### **Extra volitelná kouzelnická kouzla dle přesvědčení T1:** 
 *(Zákonný, Neutrální, Chaotický)*  
-- *Z*: **Zapečetit**: \[10 kol, na dotek\], nakreslíš glyf na jedny zavřené dveře, bránu, poklop, víko atd., po dobu trvání nelze otevřít.
+- *Z*: **Zapečetit**: \[10 kol, na dosah\], nakreslíš glyf na jedny zavřené dveře, bránu, poklop, víko atd., po dobu trvání nelze otevřít.
 - *Z*: **Ochranný štít**: \[5 kol, na sebe\], proti jednomu libovolnému útoku si můžeš přidat \+5 TZ, pak skončí.
 - *N*: **Vzduch**: \[10 kol, na sebe\], vzduchová bublina kolem hlavy ti umožňuje dýchat v nehostinných podmínkách.
-- *N*: **Oxidace**: \[okamžitě, na dotek\], neživý předmět až do velikosti koně zestárne o k100 let.
-- *Ch*: **Nemrtvost**: \[soustředění, na dotek\], ostatky povstanou jako umrlec TZ: 10, ŽV: 5, útk \+1 k4, pak se rozpadnou na prach.
+- *N*: **Oxidace**: \[okamžitě, na dosah\], neživý předmět až do velikosti koně zestárne o k100 let.
+- *Ch*: **Nemrtvost**: \[soustředění, na dosah\], ostatky povstanou jako umrlec TZ: 10, ŽV: 5, útk \+1 k4, pak se rozpadnou na prach.
 - *Ch*: **Temnota**: \[okamžitě, blízko\], vrhneš temnou energii na cíl, ten dostane k4 magického poškození a na jedno kolo oslepne.
 
 ##### **Kouzelnické nehody k6 T1-T2:**
@@ -267,12 +266,12 @@
 - **Odvrácení nemrtvých**: \[okamžitě, blízko\], pomocí svého svatého symbolu odvrátíš nemrtvé, nemrví tvorové v blízkosti si musí ověřit charisma *(OB je rovná tvému hodu na seslání kouzla)*, jinak utečou. Pokud je nemrtvý rovné a nebo nižší úrovně než jsi ty a selže o více jak 10 bodů, je okamžitě zničen.
 - **Ochrana před nadpřirozeným**: \[soustředění, blízko\], démoni/víly/nemrtví mají proti cíli nevýhody na útok a kouzla, nemůžou cíl posednout. Pokud je kouzlo sesláno na již posednutý cíl, nadpřirozená bytost musí znovu ověřit posednutí.
 - **Svatá zbraň**: \[5 kol, blízko\], požehnáš jedné zbrani, zbraň se stane \+1 magickou *(+1 k útoku a zranění)*.
-- **Světlo**: \[30 minut, na dotek\], jeden předmět začne svítit jasným světlem na blízkou vzdálenost.
+- **Světlo**: \[30 minut, na dosah\], jeden předmět začne svítit jasným světlem na blízkou vzdálenost.
 - **Štít víry**: \[5 kol, na sebe\], obklopí tě božská energie, po dobu trvání získáš \+2 TZ.
 ##### **Extra kněžská kouzla od božstva T1**:  
-- *Svaté světlo*: **Odhodlání**: \[5 kol, na dotek\], \+k6 dočasných životů navíc nad normální maximální limit životů.
-- *Architektka osudu*: **Pravdivý úder**: \[5 kol, blízko\], jeden příští útok cíle, který by minul se místo toho stane zásahem.
-- *Matka příroda*: **Trny**: \[5 kol, na dotek\], trny na cíli dávají k4 zranění útočníkovi, který zasáhne nositele trnů útokem zblízka.
+- *Svaté světlo*: **Odhodlání**: \[5 kol, na dosah\], \+k6 dočasných životů navíc nad normální maximální limit životů.
+- *Architektka osudu*: **Pravdivý úder**: \[5 kol, na dosah\], jeden příští útok cíle, který by minul se místo toho stane zásahem.
+- *Matka příroda*: **Trny**: \[5 kol, na dosah\], trny na cíli dávají k4 zranění útočníkovi, který zasáhne nositele trnů útokem zblízka.
 - *Strážce vědění*: **Detekce magie**: \[soustředění, blízko\], cítíš přítomnost blízké magie, po dvou kolech rozeznáš obecné vlastnosti.
-- *Velký plenitel*: **Probuzení vzteku**: \[5 kol, blízko\], \+k4 útok a poškození zblízka, výhody na sílu, musí útočit jinak kouzlo končí.
+- *Velký plenitel*: **Probuzení vzteku**: \[5 kol, na dosah\], \+k4 útok a poškození zblízka, výhody na sílu, musí útočit jinak kouzlo končí.
 - *Temná vědma*: **Tajnovize**: \[soustředění, na sebe\], dokud je aktivní, tak vidíš neviditelné a skryté věci. Nefunguje přes tmu a zdi.
