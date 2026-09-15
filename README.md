@@ -229,8 +229,10 @@
 - Oř *(kůň)*: 50 zl *(unese 15 slotů, jezdec zabírá 10 slotů)*
 - Létající Oř *(obří vážka)*: 500 zl *(unese 15 slotů, výcvik)*
 
-## Kouzla třída 1 (T1, OB11)
-*Kouzelníci pouze kouzelnické hůlky a svitky, kněží pouze kněžské hůlky a svitky, bardi smí využívat všechny hůlky a svitky.*  
+## Kouzla
+*Kouzelníci pouze kouzelnické hůlky a svitky, kněží pouze kněžské hůlky a svitky, bardi smí využívat všechny hůlky a svitky.* 
+
+### Kouzla třída 1 (T1, OB11)
 
 #### **Kouzelnická kouzla T1**:  
 - **Detekce magie**: \[soustředění, blízko\], cítíš přítomnost blízké magie, po dvou kolech rozeznáš obecné vlastnosti.  
@@ -261,6 +263,21 @@
 5. **Horror**: 3 kola křičíš v prastarém jazyku *(nelze kouzlit)*, upoutáváš nechtěnou pozornost.
 6. **Nestabilní vedení**: nevýhody na seslání kouzel na 10 kol.
 
+##### **Tabulka vyzkoumaných kouzel kouzelníka *(kouzla naučené z svitků se nepočítají do limitu z tabulky)*:**
+
+| Úroveň | T1 | T2 | T3 | T4 | T5 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **1\.** | 3 | . | . | . | . |
+| **2\.** | 4 | . | . | . | . |
+| **3\.** | 4 | 1 | . | . | . |
+| **4\.** | 4 | 2 | . | . | . |
+| **5\.** | 4 | 2 | 1 | . | . |
+| **6\.** | 4 | 3 | 2 | . | . |
+| **7\.** | 4 | 3 | 2 | 1 | . |
+| **8\.** | 4 | 4 | 2 | 2 | . |
+| **9\.** | 4 | 4 | 3 | 2 | 1 |
+| **10\.** | 4 | 4 | 4 | 2 | 2 |
+
 #### **Kněžská kouzla T1**:  
 - **Léčba zranění**: \[okamžitě, na dotek\], dotkneš se tvora a ten si okamžitě obnoví životy v hodnotě (1+½ tvé úrovně)\*k6.
 - **Odvrácení nemrtvých**: \[okamžitě, blízko\], pomocí svého svatého symbolu odvrátíš nemrtvé, nemrví tvorové v blízkosti si musí ověřit charisma *(OB je rovná tvému hodu na seslání kouzla)*, jinak utečou. Pokud je nemrtvý rovné a nebo nižší úrovně než jsi ty a selže o více jak 10 bodů, je okamžitě zničen.
@@ -277,7 +294,22 @@
 - *Velký plenitel*: **Probuzení vzteku**: \[5 kol, na dosah\], \+k4 útok a poškození zblízka, výhody na sílu, musí útočit jinak kouzlo končí.
 - *Temná vědma*: **Tajnovize**: \[soustředění, na sebe\], dokud je aktivní, tak vidíš neviditelné a skryté věci. Nefunguje přes tmu a zdi.
 
-## Kouzla třída 2 (T2, OB12)
+##### **Tabulka známých kouzel kněze *(+ex je extra kouzlo od vybraného božstva, nepočítá se do limitu)*:**
+
+| Úroveň | T1 | T2 | T3 | T4 | T5 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **1\.** | 2 (+exT1) | . | . | . | . |
+| **2\.** | 3 | . | . | . | . |
+| **3\.** | 3 | 1 (+exT2) | . | . | . |
+| **4\.** | 3 | 2 | . | . | . |
+| **5\.** | 3 | 2 | 1  (+exT3) | . | . |
+| **6\.** | 3 | 2 | 2 | . | . |
+| **7\.** | 3 | 3 | 2 | 1 (+exT4) | . |
+| **8\.** | 3 | 3 | 2 | 2 | . |
+| **9\.** | 3 | 3 | 2 | 2 | 1 (+exT5) |
+| **10\.** | 3 | 3 | 3 | 2 | 2 |
+
+### Kouzla třída 2 (T2, OB12)
 
 #### **Kouzelnická kouzla T2**:  
 \- **Čtení myšlenek**: \[soustředění, blízko\], nakoukneš do mysli tvora, kterého vidíš v dosahu. Každé kolo zjistíš aktuální myšlenky, tvor si ve svém tahu hodí na moudrost vs hod seslání kouzla, při úspěchu si uvědomí tvou přítomnost v mysli a kouzlo končí.  
@@ -300,21 +332,6 @@
 \- Ch: **Agonie**: \[soustředění, daleko\], tvor kterého vidíš, úrovně 5 a nižší je přemožen agonizující bolestí. Cíl musí v jeho tahu uspět v odolnosti vs hod kouzla *(poslední soustředění)*, při neúspěchu se nemůže pohybovat ani dělat žádné akce.   
 \- Ch: **Fantom**: \[okamžité, blízko\], v mysli tvora úrovně 3 a nižší vytvoříš iluze jeho nejtemnějších nočních můr, cíl musí okamžitě ověřit svou morálku, při neúspěchu uteče nebo se vzdá *(OB15 moudrost)*.
 
-##### **Tabulka vyzkoumaných kouzel kouzelníka *(kouzla naučené z svitků se nepočítají do limitu z tabulky)*:**
-
-| Úroveň | T1 | T2 | T3 | T4 | T5 |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **1\.** | 3 | . | . | . | . |
-| **2\.** | 4 | . | . | . | . |
-| **3\.** | 4 | 1 | . | . | . |
-| **4\.** | 4 | 2 | . | . | . |
-| **5\.** | 4 | 2 | 1 | . | . |
-| **6\.** | 4 | 3 | 2 | . | . |
-| **7\.** | 4 | 3 | 2 | 1 | . |
-| **8\.** | 4 | 4 | 2 | 2 | . |
-| **9\.** | 4 | 4 | 3 | 2 | 1 |
-| **10\.** | 4 | 4 | 4 | 2 | 2 |
-
 #### **Kněžská kouzla T2**:  
 \- **Očišťující zbraň**: \[5 kol, na dosah\], zbraň které se dotkneš je opletená svatým plamenem, dává \+k6 magického poškození.  
 \- **Pohled pravdy**: \[soustředění, blízko\], zaměříš svůj svatý pohled na tvora, který pak nemůže vědomě vyslovit lež.  
@@ -322,25 +339,11 @@
 \- **Hluchota a slepota**: \[soustředění, blízko\], jeden tvor je senzoricky deprivován, nevýhody na akce využívající chybějící smysly.  
 \- **Věštba**: \[okamžité, na sebe\], zeptej se vypravěče na jednu otázku. Vypravěč odpoví, jestli akce povede k “blahobytu” nebo “bídě”.  
 \- **Ztrestání**: \[okamžité, blízko\], sešleš svaté plameny, aby potrestali tvora v dosahu, k6 magického poškození.  
+
 ##### **Extra kněžská kouzla od božstva T2**:  
 \- *Svaté světlo*: **Vysvěcení**: \[soustředění, blízko\], blízká oblast je posvěcena, nadpřirozené bytosti *(démoni/víly/nemrtví)* úrovně 4 a nižší jsou z oblasti vypuzení na nejbližší volné místo a nemohou do oblasti po dobu trvání vstoupit.  
 \- *Architektka osudu*: **Klid**: \[5 kol, blízko\], uklidníš agresi a nepřátelství vybraných žíjících tvorů v blízkosti, úrovně 4 a nižší. Po dobu trvání tvorové neútočí na tebe a tvé spojence. Kouzlo končí pokusem o napadení tvorů. Po skončení se tvorové vrátí zpět do původního emočního rozpoložení.  
 \- *Matka příroda*: **Pavoučí šplh**: \[soustředění, na sebe\], tvé končetiny se dokáží libovolně přilepit k jakémukoliv terénu a umožňují ti pohyb po stěnách a stropech, stejně tak jednoduše, jako kdyby to byla obyčejná podlaha.  
 \- *Strážce vědění*: **Kryptografie**: \[okamžitě, na dosah\], zašifruješ a nebo odšifruješ svitek nebo text, tebou zašifrovaný text přečteš jen ty.  
-\- *Velký plenitel*: **Obětina**: \[okamžitě, na dotek\], obětuješ bezbranného tvora úrovně 2 a vyšší svému bohu. Ty a nebo vybraný spojenec dostanete kostku božské inspirace k6, tuto kostku lze přidat k navýšení hodu k20 *(Každý max jedna kostka božské inspirace).*  
+\- *Velký plenitel*: **Obětina**: \[okamžitě, na dosah\], obětuješ bezbranného tvora úrovně 2 a vyšší svému bohu. Ty a nebo vybraný spojenec dostanete kostku božské inspirace k6, tuto kostku lze přidat k navýšení hodu k20 *(Každý max jedna kostka božské inspirace).*  
 \- *Temná vědma*: **Extrakce tajemství**: \[okamžitě, na dosah\], dotknutý tvor je přinucen ti vyzradit jeho nejhlubší tajemství, které ještě neznáš.
-
-##### **Tabulka známých kouzel kněze *(+ex je extra kouzlo od vybraného božstva, nepočítá se do limitu)*:**
-
-| Úroveň | T1 | T2 | T3 | T4 | T5 |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **1\.** | 2 (+exT1) | . | . | . | . |
-| **2\.** | 3 | . | . | . | . |
-| **3\.** | 3 | 1 (+exT2) | . | . | . |
-| **4\.** | 3 | 2 | . | . | . |
-| **5\.** | 3 | 2 | 1  (+exT3) | . | . |
-| **6\.** | 3 | 2 | 2 | . | . |
-| **7\.** | 3 | 3 | 2 | 1 (+exT4) | . |
-| **8\.** | 3 | 3 | 2 | 2 | . |
-| **9\.** | 3 | 3 | 2 | 2 | 1 (+exT5) |
-| **10\.** | 3 | 3 | 3 | 2 | 2 |
