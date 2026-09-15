@@ -46,8 +46,11 @@
 12. Popiš svůj vzhled *(rysy, oblečení, povaha, styl řeči)* a zaznač svůj znak*.*
 
 #### **Zázemí:** 
+
 *(Kdo jsi byl předtím, než jsi se stal dobrodruhem?)*
-1\. akolyta, 2\. barbar, 3\. bezdomovec, 4\. cirkusák, 5\. farmář, 6\. kočovník, 7\. kouzelnický učeň, 8\. myslivec, 9\. námořník, 10\. obchodník, 11\. průzkumník, 12\. ranhojič, 13\. řemeslník, 14\. sirotek, 15\. šlechtic, 16\. učenec, 17\. voják, 18\. vyhoštěnec, 19\. zločinec, 20\. žoldák.
+
+1\. akolyta, 2\. barbar, 3\. bezdomovec, 4\. cirkusák, 5\. farmář, 6\. kočovník, 7\. kouzelnický učeň, 8\. myslivec, 9\. námořník, 10\. obchodník,     
+11\. průzkumník, 12\. ranhojič, 13\. řemeslník, 14\. sirotek, 15\. šlechtic, 16\. učenec, 17\. voják, 18\. vyhoštěnec, 19\. zločinec, 20\. žoldák.
 
 #### **Jazyky:**  
 **Obecné:** obecná řeč *(ty a většina humanoidů)*, trpasličtina, elfština, obřina, goblinština, okrština, ještěřina, sylvánština *(víly)*.  
