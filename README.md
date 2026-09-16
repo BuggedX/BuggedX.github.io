@@ -4,7 +4,7 @@
 
 [Temné stíny](#Temné-stíny)
 
-[Kouzla]((https://buggedx.github.io/#Kouzla))
+[Kouzla](https://buggedx.github.io/#Kouzla)
 
 ## Přehled pravidel
 - Každá postava ve svém kole může udělat akci a pohyb.
@@ -415,4 +415,4 @@
 \- *Velký plenitel*: **Krvelačné běsnění**: \[5 kol, na sebe\], máš výhody na útoky zblízka a dáváš extra \+k12 magického poškození. Vyléčíš se za počet životů, rovný extra způsobenému poškození. Ve svém kole musíš útočit, jinak kouzlo končí.  
 \- *Temná vědma*: **Našeptat**: \[okamžité, na dosah\], cíli zašeptáš do ucha a vložíš mu do hlavy krátkou falešnou vzpomínku *(popiš)*. Cíl od teď věří vzpomínce a jedná, jako by byla skutečná. Při selhání kouzla vloží vypravěč jednu falešnou vzpomínku do tvé mysli.
 
-[Temné stíny](#Temné-stíny)
+[Temné stíny](https://buggedx.github.io/#Temn%C3%A9-st%C3%ADny)
