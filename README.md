@@ -4,7 +4,7 @@
 
 [Temné stíny](#Temné-stíny)
 
-[Kouzla](#Kouzla)
+[Kouzla]((https://buggedx.github.io/#Kouzla))
 
 ## Přehled pravidel
 - Každá postava ve svém kole může udělat akci a pohyb.
