@@ -262,13 +262,13 @@ Obsah:
 
 *Kouzelníci pouze kouzelnické hůlky a svitky, kněží pouze kněžské hůlky a svitky, bardi smí využívat všechny hůlky a svitky.* 
 
-[Kouzelnická kouzla T1](#kouzelnická-kouzla-T1)
-[Kouzelnická kouzla T2](#kouzelnická-kouzla-T2)
-[Kouzelnická kouzla T3](#kouzelnická-kouzla-T3)
+[Kouzelnická kouzla T1](#kouzelnická-kouzla-t1)
+[Kouzelnická kouzla T2](#kouzelnická-kouzla-t2)
+[Kouzelnická kouzla T3](#kouzelnická-kouzla-t3)
 
-[Kněžská kouzla T1](#kněžská-kouzla-T1)
-[Kněžská kouzla T2](#kněžská-kouzla-T2)
-[Kněžská kouzla T3](#kněžská-kouzla-T3)
+[Kněžská kouzla T1](#kněžská-kouzla-t1)
+[Kněžská kouzla T2](#kněžská-kouzla-t2)
+[Kněžská kouzla T3](#kněžská-kouzla-t3)
 
 ### Kouzla třída 1 (T1, OB11)
 
