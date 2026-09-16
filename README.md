@@ -39,6 +39,25 @@ Obsah:
 - Některá kouzla vyžadují **soustředění**, postava se může soustředit jen na jedno kouzlo vyžadující soustředění. Na začátku každého kola a při rozptýlení si musí sesilatel hodit na soustředění *(normální hod na seslání kouzla)*.
 - **Štěstí** umožňuje hráči přehodit jeden hod jeho kostkou. Každé sezení začíná každý hráč s jedním štěstím, každý může mít jen maximálně jedno aktivní štěstí. Hráči si mohou štěstí předávat.
 - V temných stínech je potřeba mít **rozsvícené světlo**: pochodeň, lucerna a nebo kouzelné světlo vydrží **30 minut** **reálného času**. Temnota je smrtící *(nevýhody na všechno, monstra výhody)*.
+- Zkušenosti se získávají dotáhnutím pokladů do civilizace, za každých 100 zl hodnoty pokladu získá skupina 1 zkušenost.
+
+### Co je známé?
+
+- V království jsou nejpočetnější lidé, po nich následují trpaslíci a pak elfové. Ostatní rasy jsou početně zanedbatelné. Zelenokožci *(orkové a goblini)* nejsou v civilizovaných městech vítáni.
+- Království je obklopeno nehostinnými ledovými pustinami na severu, pouštěmi a horami na západě, divokou džunglí na jihu a inkoustovým mořem na východě.
+- Pomalu se začínají rozvíjet metody střelného prachu, parních strojů a vzducholodí, které kombinují magii a technologii.
+- Život mimo civilizovaná města je nebezpečný, na cestách číhají bandité a divočinou se potulují zlá monstra. Velké části království jsou stále neprobádané.
+- Magie je nepředvídatelná a obyčejní lidé nemají důvěru v čaroděje, nepovedená kouzla tě mohou spálit na prach.
+- Bohové jsou nepřítomni a obvykle se nevměšují do záležitostí smrtelníků. Jen pár divných kněží stále dokáže využít jejich božskou sílu. 
+- Na světě je také nespočet démonů, nadpřirozených sil a bytostí, kterým se obecně říká patroni. Patroni se nerovnají v jejich síle opravdovým bohům, zato jsou aktivnější a rádi propůjčují svou moc smrtelníkům výměnou za služby a oběti.
+
+### Dobré rady
+
+- Svět není vybalancovaný na úroveň postav.
+- Postavy nejsou superhrdinové, smrt může být rychlá a nečekaná.
+- Nezapomeň využít své štěstí.
+- Snaž se najít chytrá řešení problému, použij svou kreativitu, vypravěč by tě měl odměnit výhodou a nebo rovnou úspěchem.
+- Ne všechna monstra jsou nepřátelská, přesvědč je, uplať je, oklamej je, vyhni se jim a když už musíš bojovat, tak jim zlom morálku.
 
 ## Tvorba postavy
 
