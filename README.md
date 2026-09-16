@@ -1,7 +1,10 @@
 # Temné stíny
 
 *Odlehčené D&D*.
+
 [Temné stíny](#Temné-stíny)
+
+[Kouzla](#Kouzla)
 
 ## Přehled pravidel
 - Každá postava ve svém kole může udělat akci a pohyb.
