@@ -2,9 +2,17 @@
 
 *Odlehčené D&D*.
 
-[Temné stíny](#temné-stíny)
+Obsah:
 
-[Kouzla](#kouzla)
+[1. Přehled pravidel](#přehled-pravidel)
+
+[2. Tvorba postavy](#tvorba-postavy)
+
+[3. Povolání](#povolání)
+
+[4. Vybavení](#vybavení)
+
+[5. Kouzla](#kouzla)
 
 ## Přehled pravidel
 - Každá postava ve svém kole může udělat akci a pohyb.
@@ -33,6 +41,8 @@
 - V temných stínech je potřeba mít **rozsvícené světlo**: pochodeň, lucerna a nebo kouzelné světlo vydrží **30 minut** **reálného času**. Temnota je smrtící *(nevýhody na všechno, monstra výhody)*.
 
 ## Tvorba postavy
+
+[Zpět na obsah](#temné-stíny)
 
 1. Vyber si povolání *(viz druhá strana)*.  
 2. Vyber si rasu *(viz sekce dole)*.  
@@ -95,6 +105,8 @@
 
 ### Povolání
 
+[Zpět na obsah](#temné-stíny)
+
 #### 1. **Válečník**  
 - **Mistrovství se zbraní:** vyber si zbraň a přičti 1+½ tvé úrovně k hodům na útok a zranění při používání této zbraně *(zaokrouhleno dolů)*.  
 - **Kuráž:** máš výhodu na hody na sílu a obratnost u manévrů, překonání protivníka a uhnutí nebezpečí.
@@ -147,6 +159,9 @@
 - **Talent(k6):** **1-2**: *\[+1 k modifikátoru síly, obratnosti nebo charisma\]*, **3**: *\[+1 k útokům\]*, **4**: *\[zákeřný útok má \+kostku navíc\]* **5**: *\[vyhneš se útoku a nebo prozrazení, jednou za odpočinek\]*, **6**: *\[výhody na iniciativu (přehoď duplikát)\]*.
 
 ## Vybavení
+
+[Zpět na obsah](#temné-stíny)
+
 - Mince: prvních 100 zlatých mincí je k nošení zdarma, každý další započatý pytel *(100 zl)* je za jeden inventářový slot
 
 #### **Zbraně**:
@@ -192,7 +207,11 @@
 4. **Štít**: 10 zl, 1 slot, \+2 TZ, zabírá jeden slot, musí být držen v jedné ruce aby poskytoval bonus k TZ
 
 #### **Výbava**:
+
+[Zpět na obsah](#temné-stíny)
+
 *(každá z těchto věcí zabírá jeden inventářový slot).*
+
 - **Bola**: 2 zl *(zamotání nohou)*
 - **Křesadlo**: ½ zl *(rutinní rozdělání)*
 - **Láhev**: ½ zl *(prázdná)*
@@ -238,9 +257,22 @@
 - Létající Oř *(obří vážka)*: 500 zl *(unese 15 slotů, výcvik)*
 
 ## Kouzla
+
+[Zpět na obsah](#temné-stíny)
+
 *Kouzelníci pouze kouzelnické hůlky a svitky, kněží pouze kněžské hůlky a svitky, bardi smí využívat všechny hůlky a svitky.* 
 
+[Kouzelnická kouzla T1](#kouzelnická-kouzla-T1)
+[Kouzelnická kouzla T2](#kouzelnická-kouzla-T2)
+[Kouzelnická kouzla T3](#kouzelnická-kouzla-T3)
+
+[Kněžská kouzla T1](#kněžská-kouzla-T1)
+[Kněžská kouzla T2](#kněžská-kouzla-T2)
+[Kněžská kouzla T3](#kněžská-kouzla-T3)
+
 ### Kouzla třída 1 (T1, OB11)
+
+[Zpět na kouzla](#kouzla)
 
 #### **Kouzelnická kouzla T1**:  
 
@@ -291,6 +323,8 @@
 
 #### **Kněžská kouzla T1**:  
 
+[Zpět na kouzla](#kouzla)
+
 - **Léčba zranění**: \[okamžitě, na dotek\], dotkneš se tvora a ten si okamžitě obnoví životy v hodnotě (1+½ tvé úrovně)\*k6.
 - **Odvrácení nemrtvých**: \[okamžitě, blízko\], pomocí svého svatého symbolu odvrátíš nemrtvé, nemrví tvorové v blízkosti si musí ověřit charisma *(OB je rovná tvému hodu na seslání kouzla)*, jinak utečou. Pokud je nemrtvý rovné a nebo nižší úrovně než jsi ty a selže o více jak 10 bodů, je okamžitě zničen.
 - **Ochrana před nadpřirozeným**: \[soustředění, blízko\], démoni/víly/nemrtví mají proti cíli nevýhody na útok a kouzla, nemůžou cíl posednout. Pokud je kouzlo sesláno na již posednutý cíl, nadpřirozená bytost musí znovu ověřit posednutí.
@@ -324,6 +358,9 @@
 ### Kouzla třída 2 (T2, OB12)
 
 #### **Kouzelnická kouzla T2**:  
+
+[Zpět na kouzla](#kouzla)
+
 \- **Čtení myšlenek**: \[soustředění, blízko\], nakoukneš do mysli tvora, kterého vidíš v dosahu. Každé kolo zjistíš aktuální myšlenky, tvor si ve svém tahu hodí na moudrost vs hod seslání kouzla, při úspěchu si uvědomí tvou přítomnost v mysli a kouzlo končí.  
 \- **Kyselinový šíp**: \[soustředění, daleko\], vystřelíš magickou korozivní střelu, způsobí k6 poškození a pak každé kolo dalších k6.  
 \- **Levitace**: \[soustředění, na sebe\], začneš se vznášet a každé kolo se svým pohybem můžeš pohnout vertikálně *(nahoru a dolu)*, k horizontálnímu pohybu se musíš odrazit od pevného předmětu.  
@@ -348,6 +385,8 @@
 
 #### **Kněžská kouzla T2**:  
 
+[Zpět na kouzla](#kouzla)
+
 \- **Očišťující zbraň**: \[5 kol, na dosah\], zbraň které se dotkneš je opletená svatým plamenem, dává \+k6 magického poškození.  
 \- **Pohled pravdy**: \[soustředění, blízko\], zaměříš svůj svatý pohled na tvora, který pak nemůže vědomě vyslovit lež.  
 \- **Požehnání**: \[okamžité, blízko\], požehnáš jednomu spojenci, ten získá bod štěstí *(přehození hodu, maximum je jedno štěstí).*  
@@ -367,6 +406,8 @@
 ### Kouzla třída 3 (T3, OB13)
 
 #### **Kouzelnická kouzla T3**:  
+
+[Zpět na kouzla](#kouzla)
 
 \- **Identifikace**: \[okamžité, na dosah\], objevíš všechny magické vlastnosti předmětu. Při seslání více než jednou za odpočinek, považuj neúspěšné seslání za kouzelnou nehodu.  
 \- **Iluze**: \[soustředění, daleko\], vytvoříš přesvědčivou viditelnou a slyšitelnou iluzi *(může zaplnit až krychli o blízké velikosti)*. Iluze nezraňuje, ale tvorové, kteří jí uvěří se chovají jako by byla reálná. Tvor, který prozkoumá iluzi musí uspět v moudrosti proti hodu na seslání kouzla iluze, při úspěchu iluzi prohlédne. Dotknutí se iluze také okamžitě odhalí její falešnou náturu.  
@@ -399,6 +440,8 @@
 
 #### **Kněžská kouzla T3**:  
 
+[Zpět na kouzla](#kouzla)
+
 \- **Hromadné léčení**: \[okamžité, blízko\], všichni spojenci v blízké vzdálenosti si obnoví 2k6 životů.  
 \- **Příkaz**: \[soustředění, blízko\], vyslovíš jednoslovný příkaz, *(např.: stůj\! lehni\! zabij\!)*, cíl poslouchá tvůj příkaz dokud se soustředíš, pokud by byl příkaz škodlivý, má cíl možnost na záchranu přes charisma proti poslednímu hodu na seslání tohoto kouzla, při úspěchu kouzlo končí.  
 \- **Sejmi kletbu**: \[okamžitě, na dosah\], sejmeš z tvora jednu kletbu a umožníš mu zbavit se prokletého předmětu.  
@@ -415,4 +458,4 @@
 \- *Velký plenitel*: **Krvelačné běsnění**: \[5 kol, na sebe\], máš výhody na útoky zblízka a dáváš extra \+k12 magického poškození. Vyléčíš se za počet životů, rovný extra způsobenému poškození. Ve svém kole musíš útočit, jinak kouzlo končí.  
 \- *Temná vědma*: **Našeptat**: \[okamžité, na dosah\], cíli zašeptáš do ucha a vložíš mu do hlavy krátkou falešnou vzpomínku *(popiš)*. Cíl od teď věří vzpomínce a jedná, jako by byla skutečná. Při selhání kouzla vloží vypravěč jednu falešnou vzpomínku do tvé mysli.
 
-[Temné stíny](#temné-stíny)
+[Zpět na obsah](#temné-stíny)
