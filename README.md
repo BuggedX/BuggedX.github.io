@@ -2,7 +2,7 @@
 
 *Odlehčené D&D*.
 
-Obsah:
+### Obsah
 
 [1. Přehled pravidel](#přehled-pravidel)
 
@@ -61,7 +61,7 @@ Obsah:
 
 ## Tvorba postavy
 
-[Zpět na obsah](#temné-stíny)
+[Zpět na obsah](#obsah)
 
 1. Vyber si povolání *(viz druhá strana)*.  
 2. Vyber si rasu *(viz sekce dole)*.  
@@ -119,12 +119,12 @@ Obsah:
 - Mohutný: \+1 k hodům na útok a zranění zblízka a \+1 inventářový slot.
 
 ##### 6. **Půlčík**  
-- Kradmý: jednou za den se můžeš zneviditelnit až po dobu 3 kol *(útočení a kouzla ti zruší neviditelnost)*.  
+- Kradmý: jednou za den se můžeš zneviditelnit až po dobu 5 kol *(útočení a kouzla ti zruší neviditelnost)*.  
 - Drobný: vejdeš se na těsná místa, ⅙ že jsi převlečený a domestikovaný goblin.
 
 ### Povolání
 
-[Zpět na obsah](#temné-stíny)
+[Zpět na obsah](#obsah)
 
 #### 1. **Válečník**  
 - **Mistrovství se zbraní:** vyber si zbraň a přičti 1+½ tvé úrovně k hodům na útok a zranění při používání této zbraně *(zaokrouhleno dolů)*.  
@@ -179,7 +179,7 @@ Obsah:
 
 ## Vybavení
 
-[Zpět na obsah](#temné-stíny)
+[Zpět na obsah](#obsah)
 
 - Mince: prvních 100 zlatých mincí je k nošení zdarma, každý další započatý pytel *(100 zl)* je za jeden inventářový slot
 
@@ -227,7 +227,7 @@ Obsah:
 
 #### **Výbava**:
 
-[Zpět na obsah](#temné-stíny)
+[Zpět na obsah](#obsah)
 
 *(každá z těchto věcí zabírá jeden inventářový slot).*
 
@@ -277,7 +277,7 @@ Obsah:
 
 ## Kouzla
 
-[Zpět na obsah](#temné-stíny)
+[Zpět na obsah](#obsah)
 
 *Kouzelníci pouze kouzelnické hůlky a svitky, kněží pouze kněžské hůlky a svitky, bardi smí využívat všechny hůlky a svitky.* 
 
@@ -477,4 +477,4 @@ Obsah:
 \- *Velký plenitel*: **Krvelačné běsnění**: \[5 kol, na sebe\], máš výhody na útoky zblízka a dáváš extra \+k12 magického poškození. Vyléčíš se za počet životů, rovný extra způsobenému poškození. Ve svém kole musíš útočit, jinak kouzlo končí.  
 \- *Temná vědma*: **Našeptat**: \[okamžité, na dosah\], cíli zašeptáš do ucha a vložíš mu do hlavy krátkou falešnou vzpomínku *(popiš)*. Cíl od teď věří vzpomínce a jedná, jako by byla skutečná. Při selhání kouzla vloží vypravěč jednu falešnou vzpomínku do tvé mysli.
 
-[Zpět na obsah](#temné-stíny)
+[Zpět na obsah](#obsah)
