@@ -95,7 +95,7 @@
 
 #### **Božstva a přesvědčení:**  
 *Výběr božstva je povinný jen pro kněze, přesvědčení je spíše hrubý morální kompas, kterým se postava řídí.*  
-**Zákonné:** Svaté světlo \[ **†** \] *(spravedlnost a čest, lidé)* a Architektka osudu \[ **§** \] *(zákon a pořádek, trpaslíci)*.  
+**Zákonné:** Svaté světlo \[ **†** \] *(spravedlnost a čest, lidé)* a Architektka stvoření \[ **§** \] *(řád a výroba, trpaslíci)*.  
 **Neutrální:** Matka příroda \[ **Ῠ** \] *(příroda a počasí, elfové)* a Strážce vědění \[ **ʘ** \] *(magie a znalosti, mágové)*.  
 **Chaotické:** Velký plenitel \[ **Ξ** \] *(síla a válka, barbaři)* a Temná vědma \[ **Ѫ** \] *(ambice a tajemství, čarodějky)*.
 
@@ -356,7 +356,7 @@
 
 ##### **Extra kněžská kouzla od božstva T1**:  
 - **Odhodlání**: \[*Svaté světlo*, 5 kol, na dosah\], \+k6 dočasných životů navíc nad normální maximální limit životů.
-- **Pravdivý úder**: \[*Architektka osudu*, 5 kol, na dosah\], jeden příští útok cíle, který by minul se místo toho stane zásahem.
+- **Pravdivý úder**: \[*Architektka stvoření*, 5 kol, na dosah\], jeden příští útok cíle, který by minul se místo toho stane zásahem.
 - **Trny**: \[*Matka příroda*, 5 kol, na dosah\], trny na cíli dávají k4 zranění útočníkovi, který zasáhne nositele trnů útokem zblízka.
 - **Detekce magie**: \[*Strážce vědění*, soustředění, blízko\], cítíš přítomnost blízké magie, po dvou kolech rozeznáš obecné vlastnosti.
 - **Probuzení vzteku**: \[*Velký plenitel*, 5 kol, na dosah\], \+k4 útok a poškození zblízka, výhody na sílu, musí útočit jinak kouzlo končí.
@@ -418,8 +418,8 @@
 
 ##### **Extra kněžská kouzla od božstva T2**:  
 
-- **Vysvěcení**: \[*Svaté světlo*, soustředění, blízko\], blízká oblast je posvěcena, nadpřirozené bytosti *(démoni/víly/nemrtví)* úrovně 4 a nižší jsou z oblasti vypuzení na nejbližší volné místo a nemohou do oblasti po dobu trvání vstoupit.  
-- **Klid**: \[*Architektka osudu*, 5 kol, blízko\], uklidníš agresi a nepřátelství vybraných žíjících tvorů v blízkosti, úrovně 4 a nižší. Po dobu trvání tvorové neútočí na tebe a tvé spojence. Kouzlo končí pokusem o napadení tvorů. Po skončení se tvorové vrátí zpět do původního emočního rozpoložení.  
+- **Klid**: \[*Svaté světlo,* 5 kol, blízko\], uklidníš agresi a nepřátelství vybraných žíjících tvorů v blízkosti, úrovně 4 a nižší. Po dobu trvání tvorové neútočí na tebe a tvé spojence. Kouzlo končí pokusem o napadení tvorů. Po skončení se tvorové vrátí zpět do původního emočního rozpoložení.  
+- **Rozžhav**: \[*Architektka stvoření,* soustředění, blízko\], rozžhavíš jeden předmět vyrobený z kovu jako například zbraň, zbroj a nebo štít. Tvor držící rozžhavený předmět dostane k4 magického poškození, pokud předmět může upustit, musí hodit odolnost vs hod na seslání kouzla, jinak je předmět upuštěn. Pokud předmět neupustí a nebo upustit nemůže *(např.: zbroj)*, má nevýhody na všechny hody k20 a každé kolo k4 magického poškození.
 - **Pavoučí šplh**: \[*Matka příroda*, soustředění, na sebe\], narostou ti čtyři pavoučí končetiny, které se dokáží libovolně přilepit k jakémukoliv terénu a umožňují ti pohyb po stěnách a stropech, stejně tak jednoduše, jako kdyby to byla obyčejná podlaha.  
 - **Kryptografie**: \[*Strážce vědění*, okamžitě, na dosah\], zašifruješ a nebo odšifruješ svitek nebo text, tebou zašifrovaný text přečteš jen ty.  
 - **Obětina**: \[*Velký plenitel*, okamžitě, na dosah\], obětuješ bezbranného tvora úrovně 2 a vyšší svému bohu. Ty a nebo vybraný spojenec dostanete kostku božské inspirace k6, tuto kostku lze přidat k navýšení hodu k20 *(Každý max jedna kostka božské inspirace).*  
@@ -475,8 +475,8 @@
 
 ##### **Extra kněžská kouzla od božstva T3**:  
 
-- **Revitalizace**: \[*Svaté světlo*, okamžité, na dosah\], vlna božské energie vyléčí tvora za *(1+½ úř, zaokrouhleno dolu)*\*k10 životů.   
-- **Vyhoštění**: \[*Architektka osudu*, okamžité, blízko\], modlitbou pošleš tvora úrovně 6 a nižší, z jiné dimenze, zpět do jeho původní dimenze.  
+- **Vyhoštění**: \[*Svaté světlo,* okamžité, blízko\], modlitbou pošleš tvora úrovně 6 a nižší, z jiné dimenze, zpět do jeho původní dimenze. 
+- **Najdi předmět**: \[*Architektka stvoření*, soustředění, daleko\], svatá energie ti ukáže směr k hledanému předmětu, předmět může být obecné povahy *(např: schody, meč)* a nebo specifické povahy, k hledání specifického předmětu však musíš vědět jak vypadá.  
 - **Vlčí forma**: \[*Matka příroda*, soustředění, na sebe\], se svým vybavením se proměníš na magického vlka. Když padnou ŽV vlka na 0, proměníš se zpět. *Vlk: TZ: 12, ŽV: 10, pohyb: 2\*blízká, kousnutí: \+5 k8, výhoda na útoky na tvory, u kterých je tvůj spojenec.*  
 - **Rozptýlení magie**: \[*Strážce vědění*, okamžité, blízko\], jedno kouzlo nebo kouzelný efekt, který vidíš, okamžitě končí.  
 - **Krvelačné běsnění**: \[*Velký plenitel*, 5 kol, na sebe\], máš výhody na útoky zblízka a dáváš extra \+k12 magického poškození. Vyléčíš se za počet životů, rovný extra způsobenému poškození. Ve svém kole musíš útočit, jinak kouzlo končí.  
@@ -549,7 +549,7 @@ Učení a volnočasové aktivity trvají jeden oddech *(týden volného času)*.
 
 - **Psí výcvik**: získáš věrného ohaře*.* TZ:11, ŽV:4, kousnutí: \+1 k6, schopnost: psí čich *(výhody na čich)*. Ohař jedná v tvém tahu. Při ztracení svého ohaře musíš strávit týden volného času hledáním a trénováním nového. Ohař získá \+k4 životů za každý další level jeho majitele a další \+1 k útoku a zranění za každý druhý level jeho majitele.
 
-- **Sběr surovin**: dokážeš zpracovat úlovky, OB (10+úrTvora) MOU, (úrTvora\*k10) zl, surovina zabírá jeden inventářový slot.
+- **Sběr trofejí**: dokážeš zpracovat úlovky, OB (10+úrTvora) MOU, (úrTvora\*k12) zl, trofej zabírá jeden inventářový slot.
 
 - **Lékařství**: OB 12 MOU, na dosah, při úspěchu vyléčíš cíl pomocí své skromné lékárničky za k4 životů *(lékárnička je k nošení zdarma, při selhání je tvá lékárnička vyčerpána a obnovíš si ji při odpočinku)*.
 
