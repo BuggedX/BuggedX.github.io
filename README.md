@@ -165,7 +165,8 @@
 #### 5. **Bard**  
 - **Magický amatér:** můžeš používat všechny svitky a hůlky, seslání přes charisma, při hodu 1 způsobíš kouzelnickou nehodu.
 - **Inspirace:** hoď charisma OB12, jeden blízký cíl získá inspiraci *(\+k6 k hodům s k20)*, při neúspěchu vyčerpání. Každý max jedna kostka inspirace.
-- **Fascinující hudba:** charisma OB12 *(soustředění, 5 kol)*, vybrané blízké cíle mají nevýhody na hody k20 a musí ověřit soustředění. Při neúspěchu vyčerpání. Máš u sebe hudební nástroj *(zdarma k nošení)*.
+- **Zlomyslný výsměch**: OB12 charisma, blízký cíl ti musí rozumnět. *(\[½ úr (min1)\]\*k4)* psychického poškození a cíl má nevýhodu na další hod.  
+- **Muzikant**: máš hudební nástroj *(zdarma k nošení)*. 
 - **Bardský um:** výhody při hodech na řečnění, umění, hudbu, svádění, znalostech a diplomacii.
 - **Jazyky navíc:** vyber si 4 obecné a 1 vzácný jazyk.
 - **Životy:** k6 za každou úroveň.
@@ -559,7 +560,8 @@ Učení a volnočasové aktivity trvají jeden oddech *(týden volného času)*.
 
 - **Břichomluvectví**: OB 12 CHA *(drobná iluze, při selhání se obnoví při odpočinku)*. Tvůj hlas zní z libovolného místa v dohledu.
 
-- **Zlomyslný výsměch**: OB 12 CHA *(při selhání se obnoví při odpočinku)*, cíl ti musí rozumnět. (\[1+půl levelu\]\*k4) psychického poškození a cíl má nevýhodu na další hod.
+- **Fascinace:** OB 12 CHA *(soustředění, 5 kol)*, vybrané blízcí tvorové tvé a nižší úrovně jsou znehybněny a fascinovány po dobu trvání, fascinace je přerušena zraněním daného tvora,  
+při neúspěchu vyčerpání *(obnoví se po odpočinku)*.
 
 - **Píseň osudu**: OB 12 CHA, během táboření zaspíváš píseň osudu, při úspěchu se všem spojencům obnoví štěstí.
 
