@@ -256,28 +256,28 @@
 
 #### **Magická výbava**:
 *(zabírá jeden slot)*.
-- Léčivý lektvar: 150 zl *(k6 žv úr1+, 2k8 úr4+, 3k10 úr7+)*
-- Univerzální lék: 200 zl *(vyléčí jednu nemoc/otravu)*
-- Mutagen vitality: 200 zl *(permanentně \+1 kostka životů)*
-- Prášek rychlosti: 200 zl *(2x akce na 5 kol, pak 0 ŽV)*
-- Očarování zbraně na \+1: 200 zl *(vyber jméno)*
-- Očarování zbroje na \+1: 200 zl *(a nebo štítu)*
-- Svitek kouzla T1: 80 zl
-- Svitek kouzla T2: 140 zl
-- Svitek kouzla T3: 200 zl
-- Alchymická návnada: 100 zl *(na specifického tvora)*
+- **Léčivý lektvar**: 150 zl *(k6 žv úr1+, 2k8 úr4+, 3k10 úr7+)*
+- **Univerzální lék**: 200 zl *(vyléčí jednu nemoc/otravu)*
+- **Mutagen vitality**: 200 zl *(permanentně \+1 kostka životů)*
+- **Prášek rychlosti**: 200 zl *(2x akce na 5 kol, pak 0 ŽV)*
+- **Očarování zbraně na \+1**: 200 zl *(vyber jméno)*
+- **Očarování zbroje na \+1**: 200 zl *(a nebo štítu)*
+- **Svitek kouzla T1**: 80 zl
+- **Svitek kouzla T2**: 140 zl
+- **Svitek kouzla T3**: 200 zl
+- **Alchymická návnada**: 100 zl *(na specifického tvora)*
 
 #### **Služby a transport**:
-- Ubytování a jídlo v hostinci za jednu noc: 1 zl
-- Hýření v hostinci po návratu z výpravy: 10 zl/člena
-- Najmutí družijníka: 10 zl \+ 1 zl za každý den
-- Najmutí specialisty: 100 zl \+ 10 zl za každý den
-- Dostavník: 10 zl za den, pouze po cestách
-- Loď: 50 zl za den, pouze po vodě. *(šalupa, 300 slotů)*
-- Sedlo: 20 zl *(ježdění na oři)*
-- Povoz pro oře: 100 zl *(+15 slotů, oř nemůže mít jezdce)*
-- Oř *(kůň)*: 50 zl *(unese 15 slotů, jezdec zabírá 10 slotů)*
-- Létající Oř *(obří vážka)*: 500 zl *(unese 15 slotů, výcvik)*
+- **Ubytování a jídlo v hostinci za jednu noc**: 1 zl
+- **Hýření v hostinci po návratu z výpravy**: 10 zl/člena
+- **Najmutí družijníka**: 10 zl \+ 1 zl za každý den
+- **Najmutí specialisty**: 100 zl \+ 10 zl za každý den
+- **Dostavník: 10 zl za den**, pouze po cestách
+- **Loď**: 50 zl za den, pouze po vodě. *(šalupa, 300 slotů)*
+- **Sedlo**: 20 zl *(ježdění na oři)*
+- **Povoz pro oře**: 100 zl *(+15 slotů, oř nemůže mít jezdce)*
+- **Oř *(kůň)***: 50 zl *(unese 15 slotů, jezdec zabírá 10 slotů)*
+- **Létající Oř *(obří vážka)***: 500 zl *(unese 15 slotů, výcvik)*
 
 ## Kouzla
 
