@@ -569,12 +569,12 @@ při neúspěchu vyčerpání *(obnoví se po odpočinku)*.
 
 [Zpět na obsah](#obsah)
 
-- **Léčebný pobyt**: zaplať 100 zl, po dokončení se zbavíš všech nemocí a otrav. Pokud ti chybí končetiny, tak získáš funkční protézy.
+- **Léčebný pobyt**: zaplať 100 zl, po dokončení se zbavíš všech nemocí a otrav. Pokud ti chybí končetiny, tak získáš funkční protézy. Hoď znovu všemi kostkami životů, pokud je nový výsledek vyšší než starý, zvýší se ti životy na novou hodnotu, jinak zůstanou na původní hodnotě.
 
-- **Trénink**: zaplať 50 zl, po dokončení si znovu hoď všemi kostkami životů, pokud je nový výsledek vyšší než starý, zvýší se ti životy na novou hodnotu, jinak zůstanou na původní hodnotě.
+- **Přivýdělek**: popiš jak si přivyděláš, OB 15 *(+ libovolná vhodná vlastnost)*, pokud máš vhodnou profesi, házej s výhodou. Při úspěchu získáš k6 \* 5 zlatých. Zlodějina vydělá 2x tolik, ale při neúspěchu budeš mít potíže.
 
-- **Poctivý přivýdělek**: popiš jak si přivyděláš, OB 15 *(+ libovolná vhodná vlastnost)*, pokud máš vhodnou profesi, házej s výhodou. Při úspěchu získáš k6 \* 5 zlatých. Zlodějina vydělá 2x tolik, ale při neúspěchu budeš mít potíže.
+- **Učení nové dovednosti**: musíš najít vhodného učitele *(např.: elfí letec \-\> létání s obří vážkou)*, cena za naučení je standardně 50 zl, OB 15 *( \+ vhodná vlastnost)* k naučení.
 
-- **Učení nové dovednosti**: musíš najít vhodného učitele *(např.: kovář \-\> kování, elfí letec \-\> létání s obří vážkou)*, cena za naučení je standardně 50 zl, OB 15 *( \+ vhodná vlastnost)* k naučení.
+- **Trénink**: utratíš 100 zl, po dokončení popiš jak a kde tvá postava trénuje, následně získáš k6 zkušeností. Pokud máš nižší úroveň než je průměr skupiny, házíš s výhodou.
 
 [Zpět na obsah](#obsah)
