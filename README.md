@@ -185,7 +185,8 @@
 
 [Zpět na obsah](#obsah)
 
-- Mince: prvních 100 zlatých mincí je k nošení zdarma, každý další započatý pytel *(100 zl)* je za jeden inventářový slot
+- **Mince**: prvních 100 zlatých mincí je k nošení zdarma, každý další započatý pytel *(100 zl)* je za jeden inventářový slot.
+- **Oblečení**: každá postava začíná s základním oblečením, obuví a batohem *(zdarma k nošení)*.
 
 #### **Zbraně**:
 *\[zbraň, cena, dosah, kostka poškození, vlastnosti\], seřazeno podle ceny. Zabírá jeden a nebo více inventářových slotů.*
