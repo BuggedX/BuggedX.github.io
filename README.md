@@ -1,6 +1,6 @@
 # Temné stíny
 
-*Odlehčené D&D*.
+*Odlehčená stolní hra na hrdiny*.
 
 ### Obsah
 
@@ -266,7 +266,7 @@
 - **Svitek kouzla T1**: 80 zl
 - **Svitek kouzla T2**: 140 zl
 - **Svitek kouzla T3**: 200 zl
-- **Alchymická návnada**: 100 zl *(na specifického tvora)*
+- **Elixír many**: 150 zl *(obnova vyčerpaného kouzla T1-3)*
 
 #### **Služby a transport**:
 - **Ubytování a jídlo v hostinci za jednu noc**: 1 zl
