@@ -273,7 +273,7 @@
 - **Hýření v hostinci po návratu z výpravy**: 10 zl/člena
 - **Najmutí družijníka**: 10 zl \+ 1 zl za každý den
 - **Najmutí specialisty**: 100 zl \+ 10 zl za každý den
-- **Dostavník: 10 zl za den**, pouze po cestách
+- **Dostavník**: 10 zl za den, pouze po cestách
 - **Loď**: 50 zl za den, pouze po vodě. *(šalupa, 300 slotů)*
 - **Sedlo**: 20 zl *(ježdění na oři)*
 - **Povoz pro oře**: 100 zl *(+15 slotů, oř nemůže mít jezdce)*
