@@ -139,11 +139,11 @@
 
 #### 2. **Hraničář**  
 - **Bylinkářství:** hoď na inteligenci k vytvoření bylinného přípravku, neúspěšné pokusy vyžadují odpočinek před dalším pokusem *(každý přípravek se vyčerpává zvlášť)*. Přípravek musí být použit do 5 kol od vytvoření.
-- **Bylinné přípravky:** mast *\[vyléčí 1 život, OB11\]*, budič *\[pouze na sebe, výhoda na útoky na 5 kol, OB12\]*, nátěr *\[výhoda k zranění proti určitému typu nepřítele na 5 kol, OB13\]*, protijed *\[vyléčí jednu otravu, OB14\]*, hojivé léčivo *\[jako lektvar léčení (+1k6 žv úr1+, \+2k8 úr4+, \+3k10 úr7+), OB15\]*.
+- **Bylinné přípravky:** mast *\[vyléčí 1 život, OB11\]*, budič *\[pouze na sebe, výhoda na útoky na 5 kol, OB12\]*, nátěr *\[výhoda k zranění proti určitému typu nepřítele na 5 kol, OB13\]*, protijed *\[vyléčí jednu otravu, OB14\]*, hojivé léčivo *\[jako lektvar léčení (k6 žv úr1+, 2k8 úr4+, 3k10 úr7+, 4k12 úr10), OB15\]*.
 - **Zálesák:** výhoda na hody na navigaci, stopování, přežití v divočině, divoká zvířata a plížení.
 - **Životy:** k8 za každou úroveň.
 - **Vybavení:** lehké/střední zbroje, hraničářské zbraně.
-- **Talent(k8):** **1-2**: *\[+1 k síle a nebo obratnosti\],* **3-4**: *\[+1 k moudrosti a nebo inteligenci\]*, **5-6**: *\[+1 k útoku a zranění na blízko a nebo na dálku\]*, **7**: *\[získáš výhodu na vytvoření jednoho typu bylinného přípravku\],* **8**: *\[vyber si zbraň, budeš s ní způsobovat zranění k12\]*.
+- **Talent(k8):** **1-2**: *\[+1 k síle a nebo obratnosti\],* **3-4**: *\[+1 k moudrosti a nebo inteligenci\]*, **5-6**: *\[+1 k útoku a zranění zblízka a nebo na dálku\]*, **7**: *\[získáš výhodu na vytvoření jednoho typu bylinného přípravku\],* **8**: *\[vyber si zbraň, budeš s ní způsobovat zranění k12\]*.
 
 #### 3. **Kněz**  
 - **Božstvo:** vyber si božstvo a svatý symbol *(symbol je zdarma k nošení)*.
@@ -544,7 +544,8 @@ Učení a volnočasové aktivity trvají jeden oddech *(týden volného času)*.
 \- **Jed paralýzy**: výroba OB 15 INT, jeden šíp nebo jeden úspěšný útok zbraní. OB 15 ODL, při neúspěchu paralýza na k6 kol.  
 \- **Jed smrti**: výroba OB 18 INT, jed musí být pozřen, OB 18 ODL, při neúspěchu cíl padne na 0hp do k4 kol.
 
-- **Vaření lektvarů**: pouze v civilizaci, suroviny na výrobu se musí nakoupit za zlaťáky, lektvar zabírá jeden invetářový slot. Po světě můžeš nacházet nové recepty.                         Lektvar léčení: výroba OB 12 INT, suroviny na pokus 50 zl, (+k6 žv úr1+, \+2k8 žv úr4+, \+3k10 žv úr7+)*.*
+- **Vaření lektvarů**: pouze v civilizaci, suroviny na výrobu se musí nakoupit za zlaťáky, lektvar zabírá jeden invetářový slot. Po světě můžeš nacházet nové recepty.
+\- Lektvar léčení: výroba OB 12 INT, suroviny na pokus 50 zl, (k6 úr1+, 2k8 úr4+, 3k10 úr7+, 4k12 úr10).
 
 #### Finty MOUDROST
 
