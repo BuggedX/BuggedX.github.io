@@ -210,7 +210,7 @@
 17. **Kyj**: ½ zl, na dosah, k4.  
 18. **Hůl**: ½ zl, na dosah, k4, \[2R\].  
 19. **Prak**: ½ zl, daleko, k4, \[N\].  
-20. **Oštěp**: ½ zl, daleko, k4, \[Vrh\].
+20. **Oštěp**: ½ zl, na dosah/daleko, k4, \[Vrh\].
 
 **2R:** obouruční, **V:** verzatilní *(jednoruční/obouruční)*, **F:** finesa *(můžeš dělat útoky přes obratnost)*, **Vrh:** vrhací *(na dálku přes sílu nebo obratnost)*, **N:** nabíjecí *(nabití zabere celý pohyb)*.
 
