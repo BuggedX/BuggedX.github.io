@@ -321,7 +321,7 @@
 - *Ch*: **Nemrtvost**: \[soustředění, na dosah\], ostatky povstanou jako umrlec TZ: 10, ŽV: 5, útk \+1 k4, pak se rozpadnou na prach.
 - *Ch*: **Temnota**: \[okamžitě, blízko\], vrhneš temnou energii na cíl, ten dostane k4 magického poškození a na jedno kolo oslepne.
 
-##### **Kouzelnické nehody k6 T1-T2:**
+##### **Kouzelnické nehody k6 T1:**
 
 1. **Vzplanutí**: dostaneš k8 poškození.
 2. **Refrakce**: cílem kouzla se staneš ty *(u kouzel, která původně sesíláš na sebe přehoď na jiný výsledek)*.
@@ -407,6 +407,15 @@
 - Ch: **Agonie**: \[soustředění, daleko\], tvor kterého vidíš, úrovně 5 a nižší je přemožen agonizující bolestí. Cíl musí v jeho tahu uspět v odolnosti vs hod kouzla *(poslední soustředění)*, při neúspěchu se nemůže pohybovat ani dělat žádné akce.   
 - Ch: **Fantom**: \[okamžité, blízko\], v mysli tvora úrovně 3 a nižší vytvoříš iluze jeho nejtemnějších nočních můr, cíl musí okamžitě ověřit svou morálku, při neúspěchu uteče nebo se vzdá *(OB15 moudrost)*.
 
+##### **Kouzelnické nehody k6 T2-T3:**
+
+1. **Výbuch**: ty a všichni tvorové v blízké vzdálenosti dostanou 2k6 magického poškození.  
+2. **Vypaření**: vypaří se ti k4 náhodných věcí z inventáře *(k20 k určení, které sloty se vypařily, při prázdném slotu hoď znovu)*.  
+3. **Mágo-mutace**: náhodná vlastnost ti padne na **\-4** *(k6 k určení vlastnosti, po odpočinku se vrátí zpět)*.  
+4. **Zkamenění**: k4 tvých končetin zkamení do dalšího odpočinku *(nohy mají přednost, bez ruky nemůžeš sesílat kouzla)*.  
+5. **Posednutí**: tvé tělo se pokusí ovládnout zlomyslná entita z jiné dimenze OB 15 charisma na vypuzení *(na začátku kola)*.  
+6. **Fázový posun**: na 10 kol, považuj neúspěšné seslání kouzla za další kouzelnou nehodu.
+
 #### **Kněžská kouzla T2**:  
 
 [Zpět na kouzla](#kouzla)
@@ -454,15 +463,6 @@
 - N: **Přeměna**: \[okamžitě, na dosah\], změníš materiál předmětu o max velikosti koně na jiný materiál stejné a nebo nižší hodnoty.  
 - Ch: **Oživení mrtvol**: \[okamžitě, na dosah\], oživíš ostatky s netknutou hlavou na zombie nebo kostlivce. Nad nemrtvým máš jeden den kontrolu, pokud do konce tohoto času na nemrtvého není znovu seslané toto kouzlo, kontrola se přeruší a nemrtvý zdivočí. Kostlivec: TZ: 10, ŽV: 10, *zbraň* \+2 k?, může nosit štíty/zbroje. Zombie: TZ: 8, ŽV: 15, sápání \+2 k6 *(unesou 10 slotů).*  
 - Ch: **Zrada**: \[soustředění, blízko\], tvor úrovně 7 a nižší, kterého vidíš, zradí své spojence a útočí na ně po dobu trvání kouzla.  
-
-##### **Kouzelnické nehody k6 T3-T4:**
-
-1. **Výbuch**: ty a všichni tvorové v blízké vzdálenosti dostanou 2k6 magického poškození.  
-2. **Vypaření**: vypaří se ti k4 náhodných věcí z inventáře *(k20 k určení, které sloty se vypařily, při prázdném slotu hoď znovu)*.  
-3. **Mágo-mutace**: náhodná vlastnost ti padne na **\-4** *(k6 k určení vlastnosti, po odpočinku se vrátí zpět)*.  
-4. **Zkamenění**: k4 tvých končetin zkamení do dalšího odpočinku *(nohy mají přednost, bez ruky nemůžeš sesílat kouzla)*.  
-5. **Posednutí**: tvé tělo se pokusí ovládnout zlomyslná entita z jiné dimenze OB 15 charisma na vypuzení *(na začátku kola)*.  
-6. **Fázový posun**: na 10 kol, považuj neúspěšné seslání kouzla za další kouzelnou nehodu.
 
 #### **Kněžská kouzla T3**:  
 
