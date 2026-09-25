@@ -219,8 +219,8 @@
 2. **Hraničář**: bastard, dlouhý luk, kuš, meč, krátký luk, dýka, kopí, hůl a lehké/střední zbroje.  
 3. **Kněz**: válečné kladivo, kuš, meč, palcát, sekyrka, dýka, kyj, hůl a všechny zbroje a štíty.  
 4. **Kouzelník**: dýka, hůl.  
-5. **Bard**: rapír, kuš, meč, krátký luk, palcát, kyj, hůl, prak a lehké/střední zbroje.  
-6. **Zloděj**: rapír, kuš, meč, krátký luk, kyj, prak a lehké zbroje.
+5. **Bard**: rapír, kuš, meč, krátký luk, palcát, dýka, kyj, hůl, prak a lehké/střední zbroje.  
+6. **Zloděj**: rapír, kuš, meč, krátký luk, dýka, kyj, prak a lehké zbroje.
 
 #### **Zbroje**: 
 *\[zbroj, cena, sloty, třída zbroje, vlastnosti\].*
