@@ -75,7 +75,7 @@
    1. Každý má 5 bodů na rozdělení *(kontrolní součet musí být vždy 5).*  
    2. Maximum při tvorbě postavy je \+3 a minimum \-3 *(můžeš jít do mínusu k získání bodů)*.  
    3. Limit smrtelníků je \+5 a při \-5 nastane smrt.  
-7. Hoď si na životy *(kostka povolání)* a pak přidej životy za modifikátor odolnosti *(pouze na první úrovni)*.  
+7. Hoď si na životy *(kostka povolání)* a pak přidej životy z odolnosti *(pouze na první úrovni)*.  
 8. Hoď si na talent svého povolání *(talent získáváš na lichých úrovních 1, 3, 5, 9)*.  
 9. Hoď si na zlaťáky *(2k6 \* 5 zlatých)* a zjisti nosnost své postavy *(10+síla slotů, u válečníka ještě \+odolnost)*.  
 10. Kup si vybavení *(viz [vybavení](#vybavení))* a vypočítej svou třídu zbroje *(TZ 10+obratnost a nebo nasazená zbroj+obratnost).*  
