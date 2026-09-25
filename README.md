@@ -102,28 +102,28 @@
 #### Rasy:
 
 ##### 1. **Člověk**  
-- Jazyk navíc: vyber si navíc jeden obyčejný jazyk.  
-- Přizpůsobivý: při získání talentu si hoď dvakrát a vyber si.
+- **Příležitostný**: hoď s výhodou na počáteční zlaťáky. 
+- **Přizpůsobivý**: při získání talentu si hoď dvakrát a vyber si.
 
 ##### 2. **Půlelf**  
-- Jazyk navíc: elfština.  
-- Ambiciózní: jeden extra talent navíc na 1\. úrovni.
+- **Jazyk navíc**: vyber si navíc jeden obyčejný jazyk.   
+- **Ambiciózní**: jeden extra talent navíc na 1\. úrovni.
 
 ##### 3. **Elf**  
-- Jazyk navíc: elfština a sylvánština.  
-- Prozíravý: \+1 k hodům na útok na dálku a +1 k ověření seslání kouzla.
+- **Jazyk navíc**: elfština a sylvánština.  
+- **Prozíravý**: \+1 k hodům na útok na dálku a +1 k ověření seslání kouzla.
 
 ##### 4. **Trpaslík**  
-- Jazyk navíc: trpasličtina.  
-- Statný: \+2 životy na 1\. úrovni a výhoda při hodu na životy za úrovně.
+- **Jazyk navíc**: trpasličtina.  
+- **Statný**: \+2 životy na 1\. úrovni a výhoda při hodu na životy za úrovně.
 
 ##### 5. **Půlork**  
-- Jazyk navíc: orkština  
-- Mohutný: \+1 k hodům na útok a zranění zblízka a \+1 inventářový slot.
+- **Tuhý**: pokud nemáš zbroj, tvá TZ je 11+obratnost.
+- **Mohutný**: \+1 k hodům na útok a zranění zblízka a \+1 inventářový slot.
 
 ##### 6. **Půlčík**  
-- Kradmý: jednou za den se můžeš zneviditelnit až po dobu 5 kol *(útočení a kouzla ti zruší neviditelnost)*.  
-- Drobný: vejdeš se na těsná místa, ⅙ že jsi převlečený a domestikovaný goblin.
+- **Kradmý**: jednou za den se můžeš zneviditelnit až po dobu 5 kol *(útočení a kouzla ti zruší neviditelnost)*.  
+- **Drobný**: vejdeš se na těsná místa, ⅙ že jsi převlečený a domestikovaný goblin.
 
 ### Povolání
 
