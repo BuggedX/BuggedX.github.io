@@ -149,14 +149,14 @@
 - **Božstvo:** vyber si božstvo a svatý symbol *(symbol je zdarma k nošení)*.
 - **Jazyk navíc:** vyber si jeden vzácný jazyk.
 - **Extra kouzlo:** od božstva dostáváš extra kouzlo.
-- **Kouzla:** vyber si dvě kněžská kouzla T1, seslání přes moudrost, při hodu 1 uražení božstva.
+- **Kouzla:** vyber si 2 kněžská kouzla T1, seslání přes moudrost, při hodu 1 uražení božstva.
 - **Životy:** k6 za každou úroveň.
 - **Vybavení:** všechny zbroje a štíty, kněžské zbraně.
 - **Talent(k6):** **1-2**: *\[+1 k modifikátoru síly, odolnosti a nebo moudrosti\]*, **3**: *\[+1 k hodům na útok\]*, **4**: *\[+1 k sesílání kouzel\],* **5**: *\[výhoda na kouzlo, které znáš\]*. **6**: *\[při použití štěstí, přidej \+k6 (přehoď duplikát)\]*.
 
 #### 4. **Kouzelník**  
 - **Jazyky navíc:** vyber si 2 obecné a 2 vzácné.
-- **Kouzla:** vyber si tři kouzelnická kouzla třídy 1, sesílání přes inteligenci, při hodu 1 dojde k nehodě.
+- **Kouzla:** vyber si 3 kouzelnická kouzla třídy T1, sesílání přes inteligenci, při hodu 1 dojde k nehodě.
 - **Kouzla navíc:** můžeš prostudovat kouzelný svitek kouzelnického kouzla, inteligence obtížnost 15, při úspěchu se permanentně naučíš toto kouzlo nad rámec limitu, svitek je při pokusu vždy zničen.
 - **Životy:** k4 za každou úroveň.
 - **Vybavení:** pouze dýky a hole.
