@@ -115,7 +115,7 @@
 
 ##### 4. **Trpaslík**  
 - **Jazyk navíc**: trpasličtina.  
-- **Statný**: \+2 životy na 1\. úrovni a výhoda při hodu na životy za úrovně.
+- **Statný**: \+2 životy na 1\. úrovni a +1 život za každou další úroveň.
 
 ##### 5. **Půlork**  
 - **Tuhý**: pokud nemáš zbroj, tvá TZ je 11+obratnost.
