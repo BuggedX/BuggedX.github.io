@@ -149,7 +149,7 @@
 - **Božstvo:** vyber si božstvo a svatý symbol *(symbol je zdarma k nošení)*.
 - **Jazyk navíc:** vyber si jeden vzácný jazyk.
 - **Extra kouzlo:** od božstva dostáváš extra kouzlo.
-- **Kouzla:** vyber si 2 kněžská kouzla T1, seslání přes moudrost, při hodu 1 uražení božstva.
+- **Kouzla:** vyber si 2 kněžská kouzla T1, seslání přes moudrost, při hodu 1 uražení božstva. Odpustek stojí 100 zlatých a musíš strávit týden v chrámu.  
 - **Životy:** k6 za každou úroveň.
 - **Vybavení:** všechny zbroje a štíty, kněžské zbraně.
 - **Talent(k6):** **1-2**: *\[+1 k modifikátoru síly, odolnosti a nebo moudrosti\]*, **3**: *\[+1 k hodům na útok\]*, **4**: *\[+1 k sesílání kouzel\],* **5**: *\[výhoda na kouzlo, které znáš\]*. **6**: *\[při použití štěstí, přidej \+k6 (přehoď duplikát)\]*.
@@ -314,12 +314,12 @@
 ##### **Extra volitelná kouzelnická kouzla dle přesvědčení T1:** 
 
 *(Zákonný, Neutrální, Chaotický)*  
-- *Z*: **Zapečetit**: \[10 kol, na dosah\], nakreslíš glyf na jedny zavřené dveře, bránu, poklop, víko atd., po dobu trvání nelze otevřít.
-- *Z*: **Ochranný štít**: \[5 kol, na sebe\], proti jednomu libovolnému útoku si můžeš přidat \+5 TZ, pak skončí.
-- *N*: **Vzduch**: \[10 kol, na sebe\], vzduchová bublina kolem hlavy ti umožňuje dýchat v nehostinných podmínkách.
-- *N*: **Oxidace**: \[okamžitě, na dosah\], neživý předmět až do velikosti koně zestárne o k100 let.
-- *Ch*: **Nemrtvost**: \[soustředění, na dosah\], ostatky povstanou jako umrlec TZ: 10, ŽV: 5, útk \+1 k4, pak se rozpadnou na prach.
-- *Ch*: **Temnota**: \[okamžitě, blízko\], vrhneš temnou energii na cíl, ten dostane k4 magického poškození a na jedno kolo oslepne.
+- *Z*: **Zapečetit**: \[10 kol, blízko\], zavřeš jeden průchod, k otevření musí tvor silou přehodit tvůj hod na seslání.  
+- *Z*: **Kouzelnická zbraň**: \[10 kol, na sebe\], tvá hůl způsobuje k6 magického poškození a útočíš s ní pomocí sesílacího bonusu.  
+- *N*: **Vzduch**: \[10 kol, na sebe\], vzduchová bublina kolem hlavy ti umožňuje dýchat v nehostinných podmínkách.  
+- *N*: **Oxidace**: \[okamžitě, na dosah\], neživý předmět až do velikosti koně zestárne o k100 let.  
+- *Ch*: **Nemrtvost**: \[soustředění, na dosah\], ostatky povstanou jako umrlec TZ: 10, ŽV: 5, útk \+1 k4, pak se rozpadnou na prach.  
+- *Ch*: **Jedovatý výstřik**: \[okamžitě, blízko\], zasažený cíl dostane k6 magického poškození a má nevýhodu na další hod s k20.  
 
 ##### **Kouzelnické nehody k6 T1:**
 
@@ -425,7 +425,7 @@
 - **Požehnání**: \[okamžité, blízko\], požehnáš jednomu spojenci, ten získá bod štěstí *(přehození hodu, maximum je jedno štěstí).*  
 - **Hluchota a slepota**: \[soustředění, blízko\], jeden tvor je senzoricky deprivován, nevýhody na akce využívající chybějící smysly.  
 - **Věštba**: \[okamžité, na sebe\], zeptej se vypravěče na jednu otázku. Vypravěč odpoví, jestli akce povede k “blahobytu” nebo “bídě”.  
-- **Ztrestání**: \[okamžité, blízko\], sešleš svaté plameny, aby potrestali tvora v dosahu, k6 magického poškození.  
+- **Ztrestání**: \[okamžité, blízko\], sešleš svaté plameny aby potrestali tvora v dosahu, způsobuje k6 magického poškození, jeden další útok proti zasaženému cíli je s výhodou, jelikož je cíl zvýrazněn a rušen plameny. Seslání je s výhodou proti nadpřirozeným.  
 
 ##### **Extra kněžská kouzla od božstva T2**:  
 
