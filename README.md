@@ -236,23 +236,23 @@
 
 *(každá z těchto věcí zabírá jeden inventářový slot).*
 
-- **Bola**: 2 zl *(zamotání nohou)*
-- **Křesadlo**: ½ zl *(rutinní rozdělání)*
+- **Alkohol**: 3 zl *(uklidňuje smysly)*
+- **Křesadlo**: ½ zl *(rozdělání ohně)*
 - **Láhev**: ½ zl *(prázdná)*
 - **Lano** *(20m)*: 1 zl *(konopné)*
 - **Lucerna**: 5 zl *(2x dosvit, na petrolej)*
 - **Lůj** *(sklenička)*: ½ zl *(lubrikant)*
 - **Past na medvědy**: 5 zl *(chyceni k6)*
-- **Petrolej** *(baňka)*: ½ zl *(hořlavé)*
+- **Petrolej** *(baňka)*: 1 zl *(hořlavé)*
 - **Páčidlo**: ½ zl *(výhody k páčení)*
 - **Pochodeň**: ½ zl *(3ks na táborák)*
+- **Polní lopatka**: 2 zl *(vykopávky)*
 - **Potraviny** *(3 porce)*: ½ zl
 - **Síť**: ½ zl *(k polapení tvora)*
 - **Stan**: 10 zl *(2m2, pro dvě osoby)*
 - **Šípy** *(toulec, 20ks)*: 1 zl
 - **Šplhací hák**: 1 zl. *(k lanu)*
 - **Tyč** *(3m, skládací)*: ½ zl
-- **Zrcátko**: 10 zl
 - **Železné hřeby** *(10ks)*: 1 zl *(s okem)* 
 
 #### **Magická výbava**:
