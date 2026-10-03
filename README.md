@@ -1,6 +1,6 @@
 # Temné stíny
 
-*Odlehčená stolní hra na hrdiny*.
+*Odlehčená stolní hra na hrdiny*. Verze 0.3.
 
 ### Obsah
 
