@@ -138,7 +138,7 @@
 - **Talent(k10):** **1-3**: *\[+1 k síle, obratnosti a nebo odolnosti\]*, **4-5**: *\[+1 k TZ při nošení zbroje\]*, **6**: *\[při umírání se zvedneš s 1 ŽV, jednou za odpočinek\]*, **7**: *\[+3 inventářové sloty\]*, **8**: *\[odražení jednoho útoku, jednou za odpočinek\]* **9**: *\[další mistrovství se zbraní\]*, **10**: *\[jedna mistrovská zbraň se stane smrtící, krituje při 19-20 na kostce (přehoď duplikát, pokud nemáš volnou mistrovskou zbraň)\]*.
 
 #### 2. **Hraničář**  
-- **Bylinkářství:** hoď na inteligenci k vytvoření bylinného přípravku, neúspěšné pokusy vyžadují odpočinek před dalším pokusem *(každý přípravek se vyčerpává zvlášť)*. Přípravek musí být použit do 5 kol od vytvoření.
+- **Bylinkářství:** hoď na inteligenci k připravení a okamžitému použití bylinného přípravku, neúspěšné pokusy vyžadují odpočinek před dalším pokusem *(každý přípravek se vyčerpává zvlášť)*.
 - **Bylinné přípravky:** mast *\[vyléčí 1 život, OB11\]*, budič *\[pouze na sebe, výhoda na útoky na 5 kol, OB12\]*, nátěr *\[výhoda k zranění proti určitému typu nepřítele na 5 kol, OB13\]*, protijed *\[vyléčí jednu otravu, OB14\]*, hojivé léčivo *\[jako lektvar léčení (k6 žv úr1+, 2k8 úr4+, 3k10 úr7+, 4k12 úr10), OB15\]*.
 - **Zálesák:** výhoda na hody na navigaci, stopování, přežití v divočině, divoká zvířata a plížení.
 - **Životy:** k8 za každou úroveň.
@@ -146,21 +146,21 @@
 - **Talent(k8):** **1-2**: *\[+1 k síle a nebo obratnosti\],* **3-4**: *\[+1 k moudrosti a nebo inteligenci\]*, **5-6**: *\[+1 k útoku a zranění zblízka a nebo na dálku\]*, **7**: *\[získáš výhodu na vytvoření jednoho typu bylinného přípravku\],* **8**: *\[vyber si zbraň, budeš s ní způsobovat zranění k12\]*.
 
 #### 3. **Kněz**  
-- **Božstvo:** vyber si božstvo a svatý symbol *(symbol je zdarma k nošení)*.
-- **Jazyk navíc:** vyber si jeden vzácný jazyk.
-- **Extra kouzlo:** od božstva dostáváš extra kouzlo.
-- **Kouzla:** vyber si 2 kněžská kouzla T1, seslání přes moudrost, při hodu 1 uražení božstva. Odpustek stojí 100 zlatých a musíš strávit týden v chrámu.  
-- **Životy:** k6 za každou úroveň.
-- **Vybavení:** všechny zbroje a štíty, kněžské zbraně.
-- **Talent(k6):** **1-2**: *\[+1 k modifikátoru síly, odolnosti a nebo moudrosti\]*, **3**: *\[+1 k hodům na útok\]*, **4**: *\[+1 k sesílání kouzel\],* **5**: *\[výhoda na kouzlo, které znáš\]*. **6**: *\[při použití štěstí, přidej \+k6 (přehoď duplikát)\]*.
+- **Božstvo:** vyber si božstvo a svatý symbol. Pokud provedeš vážný hřích, tvé božstvo tě zbaví kouzel *(dokud to neodčiníš)*.  
+- **Jazyk navíc:** vyber si jeden vzácný jazyk.  
+- **Inkantace:** znáš 2 kněžská kouzla T1, seslání přes moudrost, při hodu 1 uražení božstva. Odpustek stojí 100 zlatých a musíš strávit týden v chrámu svého božstva.  
+- **Božský dar:** dle božstva dostáváš navíc extra kouzlo.  
+- **Životy:** k6 za každou úroveň.  
+- **Vybavení:** všechny zbroje a štíty, kněžské zbraně.  
+- **Talent(k6):** **1-2**: *\[+1 k modifikátoru síly, odolnosti a nebo moudrosti\]*, **3**: *\[+1 k hodům na útok\]*, **4**: *\[+1 k sesílání kouzel\],* **5**: *\[výhoda na kouzlo, které znáš\]*. **6**: *\[při použití štěstí, přidej \+k6 (přehoď duplikát)\].*
 
 #### 4. **Kouzelník**  
 - **Jazyky navíc:** vyber si 2 obecné a 2 vzácné.
-- **Kouzla:** vyber si 3 kouzelnická kouzla třídy T1, sesílání přes inteligenci, při hodu 1 dojde k nehodě.
-- **Kouzla navíc:** můžeš prostudovat kouzelný svitek kouzelnického kouzla, inteligence obtížnost 15, při úspěchu se permanentně naučíš toto kouzlo nad rámec limitu, svitek je při pokusu vždy zničen.
+- **Kouzla:** máš vyzkoumaná 3 kouzelnická kouzla třídy T1, sesílání přes inteligenci, při hodu 1 dojde k nehodě.
+- **Grimoár:** můžeš opsat kouzelný svitek kouzelnického kouzla do svého grimoáru, inteligence OB 15, při úspěchu se permanentně naučíš toto kouzlo nad rámec limitu, svitek je při pokusu vždy zničen *(grimoár je zdarma k nošení)*
 - **Životy:** k4 za každou úroveň.
 - **Vybavení:** pouze dýky a hole.
-- **Talent(k4):** **1**: *\[+1 k modifikátoru inteligence, pokud jsi na max, tak dostaneš \+1 k seslání kouzla\]*,  **2**: *\[vyber si navíc jedno další kouzlo z třídy, kterou standardně znáš\]*, **3**: *\[výhoda na seslání jednoho známého kouzla\]*, **4**: *\[vyrobíš náhodný magický předmět (nejčastěji hůlka, určuje vypravěč)\]*.
+- **Talent(k4):** **1**: *\[+1 k modifikátoru inteligence, pokud jsi na max, tak dostaneš \+1 k seslání kouzla\]*,  **2**: *\[vyber si navíc jedno další kouzlo z třídy, kterou standardně znáš\]*, **3**: *\[výhoda na seslání jednoho známého kouzla\]*, **4**: *\[získáš kouzelnou hůlku libovolného kouzla, které máš vyzkoumané\]*.
 
 #### 5. **Bard**  
 - **Magický amatér:** můžeš používat všechny svitky a hůlky, seslání přes charisma, při hodu 1 způsobíš kouzelnickou nehodu.
@@ -403,7 +403,7 @@
 - Z: **Pružnost**: \[5 kol, na sebe\], ignoruješ efekty omezující tvůj pohyb, neomezuje tě terén, můžeš se pohybovat kolem nepřátel.  
 - Z: **Tahej nebo Tlač**: \[okamžité, blízko\], pohneš předmětem o maximální velikosti člověka a nebo tvorem úrovně 4 a nižší o blízkou vzdálenost, jestli je cíl ukotvený tak, že s ním nelze volně pohybovat, tak je seslání kouzla OB18.  
 - N: **Magnet**: \[5 kol, na dosah\], jeden předmět o maximální velikosti koně se stane magnetickým a přitahuje k sobě menší magnetické objekty v blízkosti. Pokud se objekt může pohybovat, je přitáhnut k většímu magnetickému objektu v blízkosti. Tvorové *(z kovu nebo s kovovou zbrojí)* musí hodit na sílu vs hod kouzla k odolání přitáhnutí.  
-- N: **Spalující paprsek**: \[okamžité, daleko\], vystřelíš paprsek, který dává 2k6 magického poškození a zapaluje hořlavé objekty.  
+- N: **Spalující paprsek**: \[okamžité, daleko\], vystřelíš paprsek, který dává 2k6 magického poškození a zapaluje hořlavé předměty.  
 - Ch: **Agonie**: \[soustředění, daleko\], tvor kterého vidíš, úrovně 5 a nižší je přemožen agonizující bolestí. Cíl musí v jeho tahu uspět v odolnosti vs hod kouzla *(poslední soustředění)*, při neúspěchu se nemůže pohybovat ani dělat žádné akce.   
 - Ch: **Fantom**: \[okamžité, blízko\], v mysli tvora úrovně 3 a nižší vytvoříš iluze jeho nejtemnějších nočních můr, cíl musí okamžitě ověřit svou morálku, při neúspěchu uteče nebo se vzdá *(OB15 moudrost)*.
 
@@ -447,7 +447,7 @@
 - **Létání**: \[5 kol, na sebe\], vzneseš se do vzduchu, po dobu trvání můžeš poletovat svým pohybem o blízkou vzdálenost a můžeš se libovolně vznášet.  
 - **Mluvení s mrtvými**: \[okamžité, na dosah\], mrtvé tělo odpoví na tři tvé otázky *(postupně)*, vypravěč musí pravdivě odpovědět na každou z nich ANO nebo NE. Při seslání více než jednou za odpočinek, považuj neúspěšné seslání za kouzelnou nehodu.  
 - **Oblak střepů**: \[soustředění, daleko\], krychle o blízké velikosti se zaplní vířícím oblakem střepů, všichni tvorové začínající svůj tah v oblaku a nebo procházející oblakem jsou oslepení na jedno kolo a dostávají 2k6 magického poškození. Útoky na dálku skrze oblak jsou s nevýhodou.  
-- **Ohnivá koule**: \[okamžité, daleko\], vrhneš žhavý uhlík, který po dopadu ohnivě vybouchne v krychli o blízké velikosti. Každý zasažený tvor dostane 4k6 magického poškození a hořlavé předměty se vznítí.  
+- **Ohnivá koule**: \[okamžité, daleko\], vrhneš žhavý uhlík, který po dopadu ohnivě vybouchne v krychli o blízké velikosti. Každý zasažený tvor dostane 4k6 magického poškození a hořlavé předměty se vznítí. 
 - **Ochrana před elementem**: \[soustředění, na dosah\], tvor se stane imunním vůči jednomu elementu *(např.: oheň, elektřina)*.  
 - **Plynná forma**: \[10 kol, na sebe\], ty a tvé vybavení se změní v oblak plynu, můžeš prolétnout jakoukoliv skulinou, kterou by se protáhnul obyčejný plyn. V této formě nemůžeš provádět žádné akce a sesílat kouzla. Po skončení kouzla se ty a tvé vybavení zhmotní tam, kde se nachází tvá plynná forma *(pozor, může tě usmrtit\!)*.  
 - **Rozptýlení magie**: \[okamžité, blízko\], jedno kouzlo nebo kouzelný efekt, který vidíš, okamžitě končí.  
@@ -535,7 +535,8 @@ Učení a volnočasové aktivity trvají jeden oddech *(týden volného času)*.
 
 - **Přetížení**: můžeš se pokusit znovu seslat již vyčerpané kouzlo které znáš, bez ohledu na výsledek tě seslání stojí (k6\*třída kouzla) životů, při neúspěšném seslání se počítá jako kritické selhání.
 
-- **Rituál falešného života**: OB 12 INT, na sebe, zvýšiš maximální životy o (\[1+½ levelu\]\*k4 životů), *(vyprchá při odpočinku)*.
+- **Arkánokutilství**: dokážeš vytvořit magické předměty, pouze v civilizaci, musíš nakoupit suroviny za zlaťáky. Po světě můžeš nacházet nové schémata.   
+\- **Replikace předmětu**: OB 18 INT, musíš zaplatit půlku ceny magického předmětu, při úspěchu získáš duplikát.
 
 - **Homunkulus**: pomocí magického rituálu si ze své krve a masa vytvoříš drobného loajálního přítelíčka. Přítelíček umí létat a mluvit obecnou řečí. Pokud ho vidíš, můžeš skrze něj seslat kouzla. Přítelíček má TZ: 13, ŽV: 4, kousnutí: \+3 k2. Když o přítelíčka přijdeš, můžeš si vytvořit v civilizaci dalšího za cenu 100 zl.
 
@@ -545,8 +546,8 @@ Učení a volnočasové aktivity trvají jeden oddech *(týden volného času)*.
 \- **Jed paralýzy**: výroba OB 15 INT, jeden šíp nebo jeden úspěšný útok zbraní. OB 15 ODL, při neúspěchu paralýza na k6 kol.  
 \- **Jed smrti**: výroba OB 18 INT, jed musí být pozřen, OB 18 ODL, při neúspěchu cíl padne na 0hp do k4 kol.
 
-- **Vaření lektvarů**: pouze v civilizaci, suroviny na výrobu se musí nakoupit za zlaťáky, lektvar zabírá jeden invetářový slot. Po světě můžeš nacházet nové recepty.
-\- Lektvar léčení: výroba OB 12 INT, suroviny na pokus 50 zl, (k6 úr1+, 2k8 úr4+, 3k10 úr7+, 4k12 úr10).
+- **Vaření lektvarů**: pouze v civilizaci, suroviny na výrobu se musí nakoupit za zlaťáky, lektvar zabírá jeden invetářový slot. Po světě můžeš nacházet nové recepty.   
+\- **Lektvar léčení**: výroba OB 12 INT, suroviny na pokus 50 zl, (k6 úr1+, 2k8 úr4+, 3k10 úr7+, 4k12 úr10).
 
 #### Finty MOUDROST
 
