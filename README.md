@@ -541,11 +541,10 @@ Učení a volnočasové aktivity trvají jeden oddech *(týden volného času)*.
 
 - **Homunkulus**: pomocí magického rituálu si ze své krve a masa vytvoříš drobného loajálního přítelíčka. Přítelíček umí létat a mluvit obecnou řečí. Pokud ho vidíš, můžeš skrze něj seslat kouzla. Přítelíček má TZ: 13, ŽV: 4, kousnutí: \+3 k2. Když o přítelíčka přijdeš, můžeš si vytvořit v civilizaci dalšího za cenu 100 zl.
 
-- **Vaření jedů**: umíš bezpečně aplikovat jedy a nosíš u sebe jedovou soupravu *(zdarma k nošení)*. Při selhání se o výrobu můžeš pokusit až po odpočinku. Jed vydrží do dalšího odpočinku, pak se stane inertním.   
-\- **Jed omámení**: výroba OB 9 INT, na jednu zbraň nebo jeden celý toulec, po zranění cíl OB 9 ODL, při neúspěchu nevýhoda na další hod.  
+- **Vaření jedů**: umíš bezpečně aplikovat jedy a nosíš u sebe jedovou soupravu *(zdarma k nošení)*. Při selhání se o výrobu můžeš pokusit až po odpočinku. Jed vydrží do dalšího odpočinku, pak se stane inertním.    
 \- **Jed zranění**: výroba OB 12 INT, jeden šíp nebo jeden úspěšný útok zbraní. OB 12 ODL, při neúspěchu dostane cíl k6 zranění.  
 \- **Jed paralýzy**: výroba OB 15 INT, jeden šíp nebo jeden úspěšný útok zbraní. OB 15 ODL, při neúspěchu paralýza na k6 kol.  
-\- **Jed smrti**: výroba OB 18 INT, jed musí být pozřen, OB 18 ODL, při neúspěchu cíl padne na 0hp do k4 kol.
+\- **Jed smrti**: výroba OB 18 INT, jed musí být pozřen, OB 18 ODL, při neúspěchu cíl padne na 0hp do k4 kol.  
 
 - **Vaření lektvarů**: pouze v civilizaci, suroviny na výrobu se musí nakoupit za zlaťáky, lektvar zabírá jeden invetářový slot. Po světě můžeš nacházet nové recepty.   
 \- **Lektvar léčení**: výroba OB 12 INT, suroviny na pokus 50 zl, (k6 úr1+, 2k8 úr4+, 3k10 úr7+, 4k12 úr10).
