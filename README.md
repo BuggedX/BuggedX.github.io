@@ -50,6 +50,7 @@
 - Království je obklopeno nehostinnými ledovými pustinami na severu, pouštěmi a horami na západě, divokou džunglí na jihu a inkoustovým mořem na východě.
 - Pomalu se začínají rozvíjet metody střelného prachu, parních strojů a vzducholodí, které kombinují magii a technologii.
 - Život mimo civilizovaná města je nebezpečný, na cestách číhají bandité a divočinou se potulují zlá monstra. Velké části království jsou stále neprobádané.
+- Před tisícem let vládla na území království dračí říše, která se rozpadla v zničující civilní válce.
 - Magie je nepředvídatelná a obyčejní lidé nemají důvěru v čaroděje, nepovedená kouzla tě mohou spálit na prach.
 - Bohové jsou nepřítomni a obvykle se nevměšují do záležitostí smrtelníků. Jen pár divných kněží stále dokáže využít jejich božskou sílu. 
 - Na světě je také nespočet démonů, nadpřirozených sil a bytostí, kterým se obecně říká patroni. Patroni se nerovnají v jejich síle opravdovým bohům, zato jsou aktivnější a rádi propůjčují svou moc smrtelníkům výměnou za služby a oběti.
@@ -156,7 +157,7 @@
 
 #### 4. **Kouzelník**  
 - **Jazyky navíc:** vyber si 2 obecné a 2 vzácné.
-- **Kouzla:** máš vyzkoumaná 3 kouzelnická kouzla třídy T1, sesílání přes inteligenci, při hodu 1 dojde k nehodě.
+- **Kouzlení:** máš vyzkoumaná 3 kouzelnická kouzla třídy T1, sesílání přes inteligenci, při hodu 1 dojde k nehodě.
 - **Grimoár:** můžeš opsat kouzelný svitek kouzelnického kouzla do svého grimoáru, inteligence OB 15, při úspěchu se permanentně naučíš toto kouzlo nad rámec limitu, svitek je při pokusu vždy zničen *(grimoár je zdarma k nošení)*
 - **Životy:** k4 za každou úroveň.
 - **Vybavení:** pouze dýky a hole.
