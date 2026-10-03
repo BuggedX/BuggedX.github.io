@@ -112,7 +112,7 @@
 
 ##### 3. **Elf**  
 - **Jazyk navíc**: elfština a sylvánština.  
-- **Prozíravý**: \+1 k hodům na útok na dálku a +1 k ověření seslání kouzla.
+- **Bystrý**: \+1 k hodům na útok na dálku a +1 k ověření seslání kouzla.
 
 ##### 4. **Trpaslík**  
 - **Jazyk navíc**: trpasličtina.  
