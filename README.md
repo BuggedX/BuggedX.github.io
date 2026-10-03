@@ -81,7 +81,7 @@
 9. Hoď si na zlaťáky *(2k6 \* 5 zlatých)* a zjisti nosnost své postavy *(10+síla slotů, u válečníka ještě \+odolnost)*.  
 10. Kup si vybavení *(viz [vybavení](#vybavení))* a vypočítej svou třídu zbroje *(TZ 10+obratnost a nebo nasazená zbroj+obratnost).*  
 11. Vyber si kouzla *(pokud je má tvé povolání, viz [kouzla](#kouzla)).*  
-12. Popiš svůj vzhled *(rysy, oblečení, povaha, styl řeči)* a zaznač svůj znak*.*
+12. Popiš svůj vzhled *(rysy, oblečení, povaha, styl řeči)* a zaznač svůj znak a jméno.
 
 #### **Zázemí:** 
 
