@@ -36,7 +36,7 @@ Verze 0.3.1 - příručka hráče.
 - Postava může získat vlivem schopnosti nebo fikční situace **výhodu** a nebo **nevýhodu** na určitou akci, v takovém případě se hodí dvěma kostkami a vybere se lepší výsledek/horší výsledek.
 - **Kritický úspěch** je když na kostce *k20* padne čistých **20** *(před přičtením bonusu)*, u útoku a kouzel se zdvojnásobí počet kostek zranění *(nebo jiný numerický efekt)*. Při kritickém neúspěchu *(výsledek **1** na k20)* akce selže s extra konsekvencemi.
 - Při **útoku** se nejdřív hází na **trefu** *(k20\+bonus)*, pokud je výsledné číslo stejné a nebo větší jak obrana *(třída zbroje, TZ)* protivníka, útok **zraňuje** životy cíle, kostkou zbraně *(k4, k6, k8, k10, k12)*.
-- **Smrt a umírání**, při 0 životech upadá postava do bezvědomí a začne umírat. Vypravěč hodí *k4\+odolnost*, tolik kol zbývá postavě do smrti. Postava si každé kolo hodí čistě *k20*, při kritickém úspěchu se probouzí s jedním životem, jinak umírá dál. Spojenci na dosah se mohou pokusit o **stabilizaci**: *(k20\+ inteligence)*, OB 15, při úspěchu zůstává postava v bezvědomí a na 0 životech, ale už neumírá. Při vyléčení alespoň jednoho životu se postava probouzí. Když postava upadne do bezvědomí *(0 životů)*, získá jednu jizvu, jizva zabírá jedno inventářové pole.
+- **Smrt a umírání**, při 0 životech upadá postava do bezvědomí a začne umírat. Vypravěč hodí *k4\+odolnost*, tolik kol zbývá postavě do smrti. Postava si každé kolo hodí čistě *k20*, při kritickém úspěchu se probouzí s jedním životem, jinak umírá dál. Spojenci na dosah se mohou pokusit o **stabilizaci**: *(k20\+ inteligence)*, OB 15, při úspěchu zůstává postava v bezvědomí a na 0 životech, ale už neumírá. Při vyléčení alespoň jednoho životu se postava probouzí. Když postava upadne do bezvědomí *(0 životů)*, získá jednu jizvu, jizva zabírá jedno inventářové pole *(léčebný pobyt v civilizaci k odstranění jizvy)*.
 - **Iniciativa**, při začátku souboje si každý hodí *k20\+obratnost*,  ten s nejvyšší hodnotou začíná a po něm následuje hráč pro jeho levici *(po směru hodin kolem stolu)*.
 - K úspěšnému **seslání kouzla** je třeba hodit **k20 \+ *bonus*** *(kouzelník INT, kněz MOU, bard CHA)*, obtížnost hodu je ***10 \+ třída kouzla***. Při kritickém neúspěchu u kouzelníka/barda dojde k magické nehodě, u kněze k nahněvaní božstva.
 - Kouzla je možné **sesílat opakovaně** tak dlouho, dokud nedojde k selhání. **Selhané/vyčerpané kouzlo** se obnoví při řádném odpočinku.
@@ -576,7 +576,7 @@ Volnočasové aktivity trvají jeden oddech *(týden volného času)*.
 
 [Zpět na obsah](#obsah)
 
-- **Léčebný pobyt**: zaplať 100 zl, po dokončení se zbavíš všech nemocí a otrav. Pokud ti chybí končetiny, tak získáš funkční protézy. Hoď znovu všemi kostkami životů, pokud je nový výsledek vyšší než starý, zvýší se ti životy na novou hodnotu, jinak zůstanou na původní hodnotě.
+- **Léčebný pobyt**: zaplať 50 zl, po dokončení se zbavíš všech jizev, otrav a nemagických nemocí. Pokud ti chybí končetiny, tak získáš protézy. Jestli sis vyléčil alespoň jednu jizvu, hoď znovu všemi kostkami životů, pokud je nový výsledek vyšší než starý, zvýší se ti životy na novou hodnotu, jinak zůstanou na původní hodnotě.
 
 - **Přivýdělek**: popiš jak si přivyděláš, OB 15 *(+ libovolná vhodná vlastnost)*, pokud máš vhodnou profesi, házej s výhodou. Při úspěchu získáš k6 \* 5 zlatých. Zlodějina vydělá 2x tolik, ale při neúspěchu budeš mít potíže.
 
