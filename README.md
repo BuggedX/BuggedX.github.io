@@ -1,6 +1,7 @@
 # Temné stíny
 
-*Odlehčená stolní hra na hrdiny*. Verze 0.3.
+*Odlehčená stolní hra na hrdiny*.  
+Verze 0.3.1 - příručka hráče.
 
 ### Obsah
 
@@ -15,6 +16,8 @@
 [5. Kouzla](#kouzla)
 
 [6. Finty](#finty)
+
+[7. Volnočasové aktivity](#volnočasové-aktivity)
 
 ## Přehled pravidel
 - Každá postava ve svém kole může udělat akci a pohyb.
@@ -107,7 +110,7 @@
 - **Přizpůsobivý**: při získání talentu si hoď dvakrát a vyber si.
 
 ##### 2. **Půlelf**  
-- **Jazyk navíc**: vyber si navíc jeden obyčejný jazyk.   
+- **Jazyk navíc**: vyber si navíc jeden obecný jazyk.   
 - **Ambiciózní**: jeden extra talent navíc na 1\. úrovni.
 
 ##### 3. **Elf**  
@@ -158,7 +161,7 @@
 #### 4. **Kouzelník**  
 - **Jazyky navíc:** vyber si 2 obecné a 2 vzácné.
 - **Kouzlení:** máš vyzkoumaná 3 kouzelnická kouzla třídy T1, sesílání přes inteligenci, při hodu 1 dojde k nehodě.
-- **Grimoár:** můžeš opsat kouzelný svitek kouzelnického kouzla do svého grimoáru, inteligence OB 15, při úspěchu se permanentně naučíš toto kouzlo nad rámec limitu, svitek je při pokusu vždy zničen *(grimoár je zdarma k nošení)*
+- **Grimoár:** můžeš opsat kouzelný svitek kouzelnického kouzla do svého grimoáru, inteligence OB 15, při úspěchu se permanentně naučíš toto kouzlo nad rámec limitu, svitek je při pokusu vždy zničen *(grimoár je zdarma k nošení)*.
 - **Životy:** k4 za každou úroveň.
 - **Vybavení:** pouze dýky a hole.
 - **Talent(k4):** **1**: *\[+1 k modifikátoru inteligence, pokud jsi na max, tak dostaneš \+1 k seslání kouzla\]*,  **2**: *\[vyber si navíc jedno další kouzlo z třídy, kterou standardně znáš\]*, **3**: *\[výhoda na seslání jednoho známého kouzla\]*, **4**: *\[získáš kouzelnou hůlku libovolného kouzla, které máš vyzkoumané\]*.
@@ -489,7 +492,7 @@
 
 [Zpět na obsah](#obsah)
 
-Učení a volnočasové aktivity trvají jeden oddech *(týden volného času)*. Fintu se můžou postavy naučit na každé sudé úrovni *(2, 4, 6, 8, 10)*, maximálně jedna finta za každou druhou úroveň. U vzorců s ½ levelu se zaokrouhluje dolů.
+Učení fint trvá jeden oddech *(týden volného času)*. Fintu se můžou postavy naučit na každé sudé úrovni *(2, 4, 6, 8, 10)*, maximálně jedna finta za každou druhou úroveň. U vzorců s ½ levelu se zaokrouhluje dolů.
 
 #### Finty SÍLA
 
@@ -569,6 +572,8 @@ při neúspěchu vyčerpání *(obnoví se po odpočinku)*.
 - **Píseň osudu**: OB 12 CHA, během táboření zaspíváš píseň osudu, při úspěchu se všem spojencům obnoví štěstí.
 
 ### Volnočasové aktivity
+
+Volnočasové aktivity trvají jeden oddech *(týden volného času)*.
 
 [Zpět na obsah](#obsah)
 
