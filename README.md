@@ -45,7 +45,7 @@ Verze 0.3.1 - příručka hráče.
 - **Štěstí** umožňuje hráči přehodit jeden hod jeho kostkou. Každé sezení začíná každý hráč s jedním štěstím, každý může mít jen maximálně jedno aktivní štěstí. Hráči si mohou štěstí předávat.
 - V temných stínech je potřeba mít **rozsvícené světlo**: pochodeň, lucerna a nebo kouzelné světlo vydrží **30 minut** **reálného času**. Temnota je smrtící *(nevýhody na všechno, monstra výhody)*.
 - Zkušenosti se získávají dotáhnutím pokladů do civilizace, za každých 100 zl hodnoty pokladu získá skupina 1 zkušenost.
-- Na další úroveň postavy potřebudeš *(10 * aktuální úroveň)* zkušeností.
+- Na další úroveň postavy potřebuješ *(10 * aktuální úroveň)* zkušeností.
 
 ### Co je známé?
 
