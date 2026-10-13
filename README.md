@@ -197,9 +197,9 @@ Verze 0.3.1 - příručka hráče.
 1. **Obouručák**: 12 zl, na dosah, k12, \[2R, 2 sloty\].  
 2. **Katana**: 12 zl, na dosah, k8, \[2R, F\].  
 3. **Bastard**: 10 zl, na dosah, k8/k10, \[V, 2 sloty\].  
-4. **Velká sekera**: 10 zl, na dosah, k8/k10, \[V, 2 sloty\].  
+4. **Válečná sekera**: 10 zl, na dosah, k8/k10, \[V, 2 sloty\].  
 5. **Halapartna**: 10 zl, 2\*na dosah, k10, \[2R, 2 sloty\].  
-6. **Válečné kladivo**: 10 zl, na dosah, k10, \[2R\].  
+6. **Palice**: 10 zl, na dosah, k10, \[2R\].  
 7. **Řemdih**: 8 zl, na dosah, k8.  
 8. **Rapír**: 8 zl, na dosah, k6, \[F\].  
 9. **Kuš**: 8 zl, daleko, k6, \[2R, N\].  
