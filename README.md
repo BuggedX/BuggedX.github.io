@@ -546,7 +546,7 @@ Učení fint trvá jeden oddech *(týden volného času)*. Fintu se můžou post
 
 - **Sběr trofejí**: dokážeš zpracovat úlovky, OB (10+úrTvora) MOU, (úrTvora\*k12) zl, trofej zabírá jeden inventářový slot.
 
-- **Lékařství**: OB 12 MOU, na dosah, při úspěchu vyléčíš cíl pomocí své skromné lékárničky za k4 životů *(lékárnička je k nošení zdarma, při selhání je tvá lékárnička vyčerpána a obnovíš si ji při odpočinku)*.
+- **Lékařství**: OB 12 MOU, na dosah, při úspěchu vyléčíš cíl pomocí své skromné lékárničky za k6 životů (k8 žv úr4+, k10 žv úr7+, k12 žv úr10) *(lékárnička je k nošení zdarma, při selhání je tvá lékárnička vyčerpána a obnovíš si ji při odpočinku)*.
 
 - **Odhalení slabin**: OB 12 MOU, při úspěchu najdeš u cíle na dohled slabinu, díky které bude jeden útok proti cíli s výhodou na trefu a poškození.
 
