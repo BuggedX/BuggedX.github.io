@@ -512,7 +512,7 @@ Učení fint trvá jeden oddech *(týden volného času)*. Fintu se můžou post
 
 - **Puškař**: kombinací zručnosti a mechanických inovací zrychlíš přebíjení svých palných zbraní z PN na N *(přebití zabere jen celý pohyb)*. Tvé palné zbraně jsou bezpečnější a ignorují vlastnost Neb *(nebezpečná)*.
 
-- **Parýrovací dýka**: když máš jednoruční zbraň, v druhé volné ruce můžeš mít parýrovací dýku \+1 TZ, když se trefíš primární zbraní při útoku na blízko, hoď také poškození dýky k4 a vyber lepší hodnotu jako poškození.
+- **Parýrovací dýka**: když máš jednoruční zbraň, v druhé volné ruce můžeš mít parýrovací dýku \+1 TZ, když se trefíš primární zbraní při útoku zblízka, hoď také poškození dýky (k4) a vyber lepší hodnotu jako poškození.
 
 - **Zákeřný útok**: můžeš provést skrytý útok i bez skrytí, pokud máš na útok proti cíli výhodu *(pouze zloděj)*.
 
