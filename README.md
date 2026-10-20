@@ -195,7 +195,7 @@ Verze 0.3.2 - příručka hráče.
 *\[zbraň, cena, dosah, kostka poškození, vlastnosti\], seřazeno podle ceny. Zabírá jeden a nebo více inventářových slotů.*
 
 1. **Mušketa**: 20 zl, k12, daleko, \[2R, PN, Dev, Neb\].
-2. **Pistole**: 12 zl, k6, blízko, \[PN, Dev, Neb]\.
+2. **Pistole**: 12 zl, k8, blízko, \[PN, Dev, Neb]\.
 3. **Obouručák**: 12 zl, na dosah, k12, \[2R, 2 sloty\].  
 4. **Katana**: 12 zl, na dosah, k8, \[2R, F\].  
 5. **Bastard**: 10 zl, na dosah, k8/k10, \[V, 2 sloty\].  
@@ -204,7 +204,7 @@ Verze 0.3.2 - příručka hráče.
 8. **Kuš**: 10 zl, daleko, k6, \[2R, N\].
 9. **Palice**: 8 zl, na dosah, k10, \[2R\]. 
 10. **Rapír**: 8 zl, na dosah, k6, \[F\].  
-11. **Luk**: 8 zl, daleko, k8 \[2R\].  
+11. **Luk**: 8 zl, daleko, k6 \[2R\].  
 12. **Meč**: 6 zl, na dosah, k6.  
 13. **Palcát**: 4 zl, na dosah, k6.  
 14. **Sekyrka**: 2 zl, na dosah/blízko, k6, \[Vrh\].  
@@ -216,7 +216,7 @@ Verze 0.3.2 - příručka hráče.
 20. **Oštěp**: ½ zl, na dosah/daleko, k4, \[Vrh\].
 
 **2R:** obouruční, **V:** verzatilní *(jednoruční/obouruční)*, **F:** finesa *(můžeš dělat útoky přes obratnost)*, **Vrh:** vrhací *(na dálku přes sílu nebo obratnost)*, **N:** nabíjecí *(nabití zabere celý pohyb)*.
-**PN:** pomalé nabíjení *(nabití zabere celou akci)*, **Dev:** devastující *(když padne maximální číslo na kostce poškození, hoď znovu další kostkou a sečti, i opakovaně)*, **Neb:** nebezpečná *(při kritickém neúspěchu zbraň vybuchne a zraní držitele svou kostkou poškození \[aplikuje se vlastnost devastující\], zbraň je zničena/rozbita pokud je magická)*.
+**PN:** pomalé nabíjení *(nabití zabere celou akci)*, **Dev:** devastující *(při kritickém zásahu se počet kostek poškození trojnásobí)*, **Neb:** nebezpečná *(při kritickém neúspěchu zbraň vybuchne a zraní držitele svou kostkou poškození, zbraň je tímto rozbita)*.
 
 #### **Zdatnost dle povolání**:
 1. **Válečník**: všechny zbraně, zbroje a štíty.  
@@ -463,7 +463,7 @@ Verze 0.3.2 - příručka hráče.
 
 - Z: **Bariéra proti střelám**: \[soustředění, na sebe\], vytvoříš bariéru, která kryje tebe a všechny na dosah od tebe, bariéra se hýbe s tebou. Všechny nemagické projektily jsou neškodně odraženy od bariéry.  
 - Z: **Promluv s předmětem**: \[okamžitě, na dotek\], dotknutý předmět ti mentálně odpoví na tři tvé otázky *(postupně)*, inteligence předmětu je odvozena od vzacnosti primárního materiálu. Vypravěč ti musí pravdivě odpovědět ANO nebo NE. Při seslání více než jednou za odpočinek, považuj neúspěšné seslání za kouzelnou nehodu.  
-- N: **Stvoření elementála**: \[soustředění, blízko\], vyvoláš tvora stvořeného z elementu *(např.: ohnivý, zemní, ledový)*, elementál jedná v tvém kole a musíš obětovat svou akci na jeho povelování *(jinak je nečinný)*. Po skončení kouzla se elementál vypaří. Elementál: TZ: 10 \+ úr, ŽV: 5 \* úr, 2x bouchnutí \+6 k12.  
+- N: **Stvoření elementála**: \[soustředění, blízko\], vyvoláš tvora stvořeného z elementu *(např.: ohnivý, zemní, ledový)*, elementál jedná v tvém kole a musíš obětovat svou akci na jeho povelování *(jinak je nečinný)*. Po skončení kouzla se elementál vypaří. Elementál: TZ: 15, ŽV: 15, 2*bouchnutí \+5 k12.  
 - N: **Přeměna**: \[okamžitě, na dosah\], změníš materiál předmětu o max velikosti koně na jiný materiál stejné a nebo nižší hodnoty.  
 - Ch: **Oživení mrtvol**: \[okamžitě, na dosah\], oživíš ostatky s netknutou hlavou na zombie nebo kostlivce. Nad nemrtvým máš jeden den kontrolu, pokud do konce tohoto času na nemrtvého není znovu seslané toto kouzlo, kontrola se přeruší a nemrtvý zdivočí. Kostlivec: TZ: 10, ŽV: 10, *zbraň* \+2 k?, může nosit štíty/zbroje. Zombie: TZ: 8, ŽV: 15, sápání \+2 k6 *(unesou 10 slotů).*  
 - Ch: **Zrada**: \[soustředění, blízko\], tvor úrovně 7 a nižší, kterého vidíš, zradí své spojence a útočí na ně po dobu trvání kouzla.  
@@ -483,10 +483,10 @@ Verze 0.3.2 - příručka hráče.
 
 - **Vyhoštění**: \[*Svaté světlo,* okamžité, blízko\], modlitbou pošleš tvora úrovně 6 a nižší, z jiné dimenze, zpět do jeho původní dimenze. 
 - **Najdi předmět**: \[*Architektka stvoření*, soustředění, daleko\], svatá energie ti ukáže směr k hledanému předmětu, předmět může být obecné povahy *(např: schody, meč)* a nebo specifické povahy, k hledání specifického předmětu však musíš vědět jak vypadá.  
-- **Vlčí forma**: \[*Matka příroda*, soustředění, na sebe\], se svým vybavením se proměníš na magického vlka. Když padnou ŽV vlka na 0, proměníš se zpět. *Vlk: TZ: 12, ŽV: 10, pohyb: 2\*blízká, kousnutí: \+5 k8, výhoda na útoky na tvory, u kterých je tvůj spojenec.*  
+- **Forma šelmy**: \[*Matka příroda*, 6 kol, na sebe\], se svým vybavením se proměníš na velkou magickou šelmu. Když padnou ŽV šelmy na 0, proměníš se zpět. *Šelma: TZ: 15, ŽV: 15, pohyb: 2\*blízká, 2*kousnutí: \+5 k6, nemůžeš kouzlit*.   
 - **Rozptýlení magie**: \[*Strážce vědění*, okamžité, blízko\], jedno kouzlo nebo kouzelný efekt, který vidíš, okamžitě končí.  
-- **Krvelačné běsnění**: \[*Velký plenitel*, 6 kol, na sebe\], máš výhody na útoky zblízka a dáváš extra \+k12 magického poškození. Vyléčíš se za počet životů, rovný extra způsobenému poškození. Ve svém kole musíš útočit, jinak kouzlo končí.  
-- **Našeptat**: \[*Temná vědma*, okamžité, na dosah\], cíli zašeptáš do ucha a vložíš mu do hlavy krátkou falešnou vzpomínku *(popiš)*. Cíl od teď věří vzpomínce a jedná, jako by byla skutečná. Při selhání kouzla vloží vypravěč jednu falešnou vzpomínku do tvé mysli.
+- **Vysátí života**: \[*Velký plenitel*, okamžité, na dosah\], cíli způsobíš k12 magického poškození a vylečíš se za počet životů, který je rovný způsobenému poškození.   
+- **Našeptat**: \[*Temná vědma*, okamžité, na dosah\], cíli zašeptáš do ucha a vložíš mu do hlavy krátkou falešnou vzpomínku *(popiš)*. Cíl od teď věří vzpomínce a jedná, jako by byla skutečná. Při selhání kouzla vloží vypravěč jednu falešnou vzpomínku do tvé mysli.  
 
 ## Finty
 
