@@ -332,7 +332,7 @@ Verze 0.3.2 - příručka hráče.
 3. **Mentální jizva**: týden toto kouzlo nemůžeš seslat.
 4. **Masemnice**: každé kolo ti magický červ vyčerpá připravené kouzlo, OB 12 odolnost *(akce)* na vypuzení.
 5. **Horror**: 4 kola křičíš v prastarém jazyku *(nelze kouzlit)*, upoutáváš nechtěnou pozornost.
-6. **Nestabilní vedení**: nevýhody na seslání kouzel na 10 kol.
+6. **Nestabilní vedení**: nevýhody na seslání kouzel na 8 kol.
 
 ##### **Tabulka vyzkoumaných kouzel kouzelníka *(kouzla naučené z svitků se nepočítají do limitu z tabulky)*:**
 
