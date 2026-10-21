@@ -155,7 +155,7 @@ Verze 0.3.2 - příručka hráče.
 - **Božský dar:** dle božstva dostáváš navíc extra kouzlo.  
 - **Životy:** k6 za každou úroveň.  
 - **Vybavení:** všechny zbroje a štíty, kněžské zbraně.  
-- **Talent(k6):** **1-2**: *\[+1 k modifikátoru síly, odolnosti a nebo moudrosti\]*, **3**: *\[+1 k hodům na útok\]*, **4**: *\[+1 k sesílání kouzel\],* **5**: *\[výhoda na kouzlo, které znáš\]*. **6**: *\[při použití štěstí, přidej \+k6 (přehoď duplikát)\].*
+- **Talent(k6):** **1-2**: *\[+1 k síle, odolnosti a nebo moudrosti\]*, **3**: *\[+1 k hodům na útok\]*, **4**: *\[+1 k sesílání kouzel\],* **5**: *\[výhoda na kouzlo, které znáš\]*. **6**: *\[při použití štěstí, přidej \+k6 (přehoď duplikát)\].*
 
 #### 4. **Kouzelník**  
 - **Jazyky navíc:** vyber si 2 obecné a 2 vzácné.
@@ -163,7 +163,7 @@ Verze 0.3.2 - příručka hráče.
 - **Grimoár:** můžeš opsat kouzelný svitek kouzelnického kouzla do svého grimoáru, inteligence OB 15, při úspěchu se permanentně naučíš toto kouzlo nad rámec limitu, svitek je při pokusu vždy zničen *(grimoár je zdarma k nošení)*.
 - **Životy:** k4 za každou úroveň.
 - **Vybavení:** pouze pistole, dýky a hole.
-- **Talent(k4):** **1**: *\[+1 k modifikátoru inteligence, pokud jsi na max, tak dostaneš \+1 k seslání kouzla\]*,  **2**: *\[vyber si navíc jedno další kouzlo z třídy, kterou standardně znáš\]*, **3**: *\[výhoda na seslání jednoho známého kouzla\]*, **4**: *\[získáš kouzelnou hůlku libovolného kouzla, které máš vyzkoumané\]*.
+- **Talent(k4):** **1**: *\[+1 k inteligenci, pokud jsi na max, tak dostaneš \+1 k seslání kouzla\]*,  **2**: *\[vyber si navíc jedno další kouzlo z třídy, kterou standardně znáš\]*, **3**: *\[výhoda na seslání jednoho známého kouzla\]*, **4**: *\[získáš kouzelnou hůlku libovolného kouzla, které máš vyzkoumané\]*.
 
 #### 5. **Bard**  
 - **Magický amatér:** můžeš používat všechny svitky a hůlky, seslání přes charisma, při hodu 1 způsobíš kouzelnickou nehodu.
@@ -174,7 +174,7 @@ Verze 0.3.2 - příručka hráče.
 - **Jazyky navíc:** vyber si 4 obecné a 1 vzácný jazyk.
 - **Životy:** k6 za každou úroveň.
 - **Vybavení:** lehké a střední zbroje, bardské zbraně.
-- **Talent(k6):** **1-2**: *\[+1 k libovolné vlastnosti\]*, **3**: *\[+3 k hodům při oddechu\]*, **4**: *\[+1 k útokům a nebo \+1 k seslání kouzel\]* **5**: *\[získáš zvláštního následovníka\]*, **6**: *\[inspirace je OB9 (přehoď duplikát)\]*.
+- **Talent(k6):** **1-2**: *\[+1 k libovolné vlastnosti\]*, **3**: *\[+1 k útokům a nebo \+1 k seslání kouzel\]*, **4**: *\[inspirace a nebo výsměch je OB9\]*, **5**: *\[užitečný známý v civilizaci\]*, **6**: *\[změň kritický neúspěch na kritický úspěch, jednou za odpočinek\]*.
 
 #### 6. **Zloděj**  
 - **Skrytý útok:** přidej 1+½ tvé úrovně kostek zranění k hodům na zranění proti bytosti, která o tvém útoku neví *(zaokrouhlení dolů, skrývej se v boji)*.
@@ -182,7 +182,7 @@ Verze 0.3.2 - příručka hráče.
 - **Zlodějina:** máš výhody na hody na lezení, skrývání, převleky, vybírání kapes, otevírání zámků, hledání a zneškodňování pastí.
 - **Životy:** k6 za každou úroveň.
 - **Vybavení:** lehké zbroje a zlodějské zbraně.
-- **Talent(k6):** **1-2**: *\[+1 k modifikátoru síly, obratnosti nebo charisma\]*, **3**: *\[+1 k útokům\]*, **4**: *\[zákeřný útok má \+kostku navíc\]* **5**: *\[vyhneš se útoku a nebo prozrazení, jednou za odpočinek\]*, **6**: *\[výhody na iniciativu (přehoď duplikát)\]*.
+- **Talent(k6):** **1-2**: *\[+1 k síle, obratnosti nebo charisma\]*, **3**: *\[+1 k útokům\]*, **4**: *\[zákeřný útok má \+kostku navíc\]* **5**: *\[vyhneš se útoku a nebo prozrazení, jednou za odpočinek\]*, **6**: *\[výhody na iniciativu (přehoď duplikát)\]*.
 
 ## Vybavení
 
@@ -327,7 +327,7 @@ Verze 0.3.2 - příručka hráče.
 
 ##### **Kouzelnické nehody k6 T1:**
 
-1. **Vzplanutí**: dostaneš k6 poškození.
+1. **Vzplanutí**: dostaneš k8 poškození.
 2. **Refrakce**: cílem kouzla se staneš ty *(u kouzel, která původně sesíláš na sebe přehoď na jiný výsledek)*.
 3. **Mentální jizva**: týden toto kouzlo nemůžeš seslat.
 4. **Masemnice**: každé kolo ti magický červ vyčerpá připravené kouzlo, OB 12 odolnost *(akce)* na vypuzení.
@@ -413,7 +413,7 @@ Verze 0.3.2 - příručka hráče.
 
 ##### **Kouzelnické nehody k6 T2-T3:**
 
-1. **Výbuch**: ty a všichni tvorové v blízké vzdálenosti dostanou 2k6 magického poškození.  
+1. **Výbuch**: ty a všichni tvorové v blízké vzdálenosti dostanou 2k8 magického poškození.  
 2. **Vypaření**: vypaří se ti k4 náhodných věcí z inventáře *(k20 k určení, které sloty se vypařily, při prázdném slotu hoď znovu)*.  
 3. **Mágo-mutace**: náhodná vlastnost ti padne na **\-4** *(k6 k určení vlastnosti, po odpočinku se vrátí zpět)*.  
 4. **Zkamenění**: k4 tvých končetin zkamení do dalšího odpočinku *(nohy mají přednost, bez ruky nemůžeš sesílat kouzla)*.  
@@ -504,10 +504,6 @@ Učení fint trvá jeden oddech *(týden volného času)*. Fintu se můžou post
 
 - **Roztříštění štítu**: pokud umíš používat štíty a máš nasazený štít, můžeš štít jako reakci na příchozí poškození roztříštit a tak pohltit celé poškození jednoho útoku. Nasazení nového štítu z inventáře trvá jednu akci.
 
-- **Ochrana**: jednou za kolo můžeš chytit poškození z útoku, který cílí na spojence, který je na dosah od tebe.
-
-- **Připravit se na náraz**: pokud máš štít, můžeš využít svou akci na zpevnění své obrany, získáš \+5 TZ až do začátku tvého dalšího kola.
-
 #### Finty OBRATNOST
 
 - **Puškař**: kombinací zručnosti a mechanických inovací zrychlíš přebíjení svých palných zbraní z PN na N *(přebití zabere jen celý pohyb)*. Tvé palné zbraně jsou bezpečnější a ignorují vlastnost Neb *(nebezpečná)*.
@@ -523,6 +519,10 @@ Učení fint trvá jeden oddech *(týden volného času)*. Fintu se můžou post
 - **Vyztužené tělo**: uneseš víc věcí, \+3 inventářové sloty.
 
 - **Tuhý kořínek**: tvůj časovač smrti je k6+odolnost *(místo standardních k4+odolnost)*, při hodu na smrt se stabilizuješ při výsledku 18-19.
+
+- **Ochrana**: jednou za kolo můžeš chytit poškození z útoku, který cílí na spojence, který je na dosah od tebe.
+
+- **Rezistence**: máš výhody na záchranné hody proti omezujícím efektům *(otrava, paralýza, atd)*.
 
 #### Finty INTELIGENCE
 
@@ -544,11 +544,11 @@ Učení fint trvá jeden oddech *(týden volného času)*. Fintu se můžou post
 
 - **Psí výcvik**: získáš věrného ohaře*.* TZ:11, ŽV:4, kousnutí: \+1 k6, schopnost: psí čich *(výhody na čich)*. Ohař jedná v tvém tahu. Při ztracení svého ohaře musíš strávit týden volného času hledáním a trénováním nového. Ohař získá \+k4 životů za každý další level jeho majitele a další \+1 k útoku a zranění za každý druhý level jeho majitele.
 
-- **Sběr trofejí**: dokážeš zpracovat úlovky, OB (10+úrTvora) MOU, (úrTvora\*k12) zl, trofej zabírá jeden inventářový slot.
+- **Sběr trofejí**: dokážeš zpracovat úlovky, OB 12 MOU, (úrTvora\*k12) zl, trofej zabírá jeden inventářový slot.
 
 - **Lékařství**: OB 12 MOU, na dosah, při úspěchu vyléčíš cíl pomocí své skromné lékárničky za k6 životů *(k8 žv úr4+, k10 žv úr7+, k12 žv úr10)*, lékárnička je k nošení zdarma, při selhání je tvá lékárnička vyčerpána a obnovíš si ji při odpočinku.
 
-- **Odhalení slabin**: OB 12 MOU, při úspěchu najdeš u cíle na dohled slabinu, díky které bude jeden útok proti cíli s výhodou na trefu a poškození.
+- **Odhalení slabin**: OB 12 MOU, při úspěchu najdeš u cíle na dohled slabinu, díky které bude jeden útok *(do slabiny)* proti cíli s výhodou na trefu a poškození.
 
 #### Finty CHARISMA
 
@@ -557,7 +557,9 @@ Učení fint trvá jeden oddech *(týden volného času)*. Fintu se můžou post
 - **Fascinace:** OB 12 CHA *(soustředění, 6 kol)*, vybrané blízcí tvorové tvé a nižší úrovně jsou znehybněny a fascinovány po dobu trvání, fascinace je přerušena zraněním daného tvora,  
 při neúspěchu vyčerpání *(obnoví se po odpočinku)*.
 
-- **Píseň osudu**: OB 12 CHA, během táboření zaspíváš píseň osudu, při úspěchu se všem spojencům obnoví štěstí.
+- **Motivace**: OB 12 CHA, během táboření můžeš pronést motivační řeč, při úspěchu se všem spojencům obnoví štěstí.
+
+- **Jít příkladem**: když zasáhneš nepřítele útokem, můžeš okamžitě hodit OB 12 CHA, při úspěchu bude jeden další útok tvého spojence proti cíli s výhodou *(při neúspěchu vyčerpání)*.
 
 ### Volnočasové aktivity
 
