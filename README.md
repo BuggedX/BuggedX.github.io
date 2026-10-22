@@ -1,7 +1,7 @@
 # Temné stíny
 
 *Odlehčená stolní hra na hrdiny*.  
-Verze 0.3.2 - příručka hráče.
+Verze 0.3.3 - příručka hráče.
 
 ### Obsah
 
@@ -18,6 +18,8 @@ Verze 0.3.2 - příručka hráče.
 [6. Finty](#finty)
 
 [7. Volnočasové aktivity](#volnočasové-aktivity)
+
+[8. Cestování po světě](#cestování-po-světě)
 
 ## Přehled pravidel
 - Každá postava ve svém kole může udělat akci a pohyb.
@@ -582,5 +584,30 @@ Volnočasové aktivity trvají jeden oddech *(týden volného času)* v civiliza
 
 - **Vaření lektvarů**: pokusíš se o uvaření lektvaru, pouze v civilizaci, suroviny na výrobu se musí nakoupit za zlaťáky, lektvar zabírá jeden invetářový slot. Po světě můžeš nacházet nové recepty.   
 \- **Lektvar léčení**: výroba OB 12 INT, suroviny na pokus 50 zl, (k6 úr1+, 2k8 úr4+, 3k10 úr7+, 4k12 úr10).
+
+## Cestování po světě
+
+[Zpět na obsah](#obsah)
+
+1. Každý den je rozdělený na tři fáze, jedna fáze trvá zhruba 8 hodin.  
+   1. **Ráno** \- od rozbřesku do poledne.  
+   2. **Odpoledne** \- od poledne do soumraku.  
+   3. **Noc** \- od soumraku do rozbřesku.  
+2. Během jedné fáze může skupina provést jednu následující akci:  
+   1. **Pohyb** \- přesun zhruba 10km z aktuálního pole na nové pole na mapě. V noci a nebo při nepříznivých podmínkách musí navigator skupiny uspět na OB 15 MOU, při neúspěchu skupina zabloudí do jiného pole.  
+   2. **Prohledání** \- hledání zajímavostí, pokladů, zásob a nebo vstupů do podzemí v aktuálním poli na mapě. Při hledání skrytých prvků a nebo získávání zásob *(každý \+1 zásoba)* musí skupina uspět na OB 15 MOU.  
+   3. **Táboření** \- odpočinek, jídlo a obnova schopností. Každá postava spotřebuje jednu zásobu.  
+3. Na začátku fáze si vypravěč hodí na náhodné setkání *(k6)*, dle aktuálního pole.  
+   1. **1-3**: žádné setkání, **4-5**: předzvěst náhodného setkání, **6**: náhodné setkání.  
+   2. Když padne předzvěst podruhé, nastane náhodné setkání *(typ setkání k6)*.  
+   3. Při hodu na typ setkání *(k6)*, házej s nevýhodou v noci a nebo v nebezpečných oblastech, v bezpečných oblastech *(např.: cesta)* házej s výhodou. *(na nejnižší pozici jsou nebezpečná monstra, na nejvyšší pozici možní spojenci)*.  
+4. Na začátku nového dne si vypravěč hodí na počasí *(k6)*.  
+   1. **1-3**: normální počasí, **4-5**: předzvěst nepříznivého počasí, **6**: nepříznivé počasí.  
+   2. Když padne předzvěst podruhé, nastane nepříznivé počasí.  
+   3. Nepříznivé počasí *(např.: bouře)*, způsobuje problémy s navigací a komplikuje odpočinek během táboření.  
+5. Dopravní prostředky:  
+   1. **Celá skupina na jízdních ořích**: během přesunu urazí skupina až dvě pole *(20km)*.  
+   2. **Přesun po cestě**: během přesunu po cestě pěšky nebo na ořích urazí skupina o jedno pole navíc *(+10km)*.  
+   3. **Jízda kočárem nebo lodí**: skupina urazí za jednu fázi přesunu až celkem tři pole *(30km)*.
 
 [Zpět na obsah](#obsah)
