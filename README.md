@@ -102,7 +102,7 @@ Verze 0.3.3 - příručka hráče.
 *Výběr božstva je povinný jen pro kněze, přesvědčení je spíše hrubý morální kompas, kterým se postava řídí.*  
 **Zákonné:** Svaté světlo \[ **Δ** \] *(spravedlnost a čest, lidé)* a Architektka stvoření \[ **§** \] *(řád a průmysl, trpaslíci)*.  
 **Neutrální:** Matka příroda \[ **Ῠ** \] *(příroda a počasí, elfové)* a Strážce vědění \[ **Ѳ** \] *(magie a znalosti, mágové)*.  
-**Chaotické:** Velký plenitel \[ **Ξ** \] *(síla a válka, barbaři)* a Temná vědma \[ **Ѫ** \] *(ambice a tajemství, čarodějky)*.
+**Chaotické:** Velký plenitel \[ **Ξ** \] *(síla a válka, barbaři)* a Temná vědma \[ **Ѫ** \] *(ambice a kletby, čarodějky)*.
 
 #### Rasy:
 
