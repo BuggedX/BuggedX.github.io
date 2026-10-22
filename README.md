@@ -594,7 +594,7 @@ Volnočasové aktivity trvají jeden oddech *(týden volného času)* v civiliza
    2. **Odpoledne** \- od poledne do soumraku.  
    3. **Noc** \- od soumraku do rozbřesku.  
 2. Během jedné fáze může skupina provést jednu následující akci:  
-   1. **Pohyb** \- přesun zhruba 10km z aktuálního pole na nové pole na mapě. V noci a nebo při nepříznivých podmínkách musí navigator skupiny uspět na OB 15 MOU, při neúspěchu skupina zabloudí do jiného pole.  
+   1. **Pohyb** \- přesun zhruba 10km z aktuálního pole na další pole na mapě. V noci a nebo při nepříznivých podmínkách musí navigator skupiny uspět na OB 15 MOU, při neúspěchu skupina zabloudí do jiného pole.  
    2. **Prohledání** \- hledání zajímavostí, pokladů, zásob a nebo vstupů do podzemí v aktuálním poli na mapě. Při hledání skrytých prvků a nebo získávání zásob *(každý \+1 zásoba)* musí skupina uspět na OB 15 MOU.  
    3. **Táboření** \- odpočinek, jídlo a obnova schopností. Každá postava spotřebuje jednu zásobu.  
 3. Na začátku fáze si vypravěč hodí na náhodné setkání *(k6)*, dle aktuálního pole.  
