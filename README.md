@@ -95,8 +95,8 @@ Verze 0.3.3 - příručka hráče.
 11\. průzkumník, 12\. ranhojič, 13\. řemeslník, 14\. sirotek, 15\. šlechtic, 16\. učenec, 17\. voják, 18\. vyhoštěnec, 19\. zločinec, 20\. žoldák.
 
 #### **Jazyky:**  
-**Obecné:** obecná řeč *(ty a většina humanoidů)*, trpasličtina, elfština, obřina, goblinština, okrština, ještěřina, sylvánština *(víly)*.  
-**Vzácné:** nebeština, démonština, drakonština, prastarština *(prastaré bytosti a elementálové)*.
+**Obecné:** obecná řeč *(ty a většina humanoidů)*, trpasličtina, elfština, obřina, skřetina, ještěřina.  
+**Vzácné:** nebeština, démonština, drakonština, prastarština *(prastaré bytosti a elementálové)*, sylvánština *(víly)*.
 
 #### **Božstva a přesvědčení:**  
 *Výběr božstva je povinný jen pro kněze, přesvědčení je spíše hrubý morální kompas, kterým se postava řídí.*  
@@ -151,16 +151,16 @@ Verze 0.3.3 - příručka hráče.
 - **Talent(k8):** **1-2**: *\[+1 k síle a nebo obratnosti\],* **3-4**: *\[+1 k moudrosti a nebo inteligenci\]*, **5-6**: *\[+1 k útoku a zranění zblízka a nebo na dálku\]*, **7**: *\[získáš výhodu na vytvoření jednoho typu bylinného přípravku\],* **8**: *\[vyber si zbraň, budeš s ní způsobovat zranění k12\]*.
 
 #### 3. **Kněz**  
-- **Božstvo:** vyber si božstvo a svatý symbol. Pokud provedeš vážný hřích, tvé božstvo tě zbaví kouzel *(dokud to neodčiníš)*.  
-- **Jazyk navíc:** vyber si jeden vzácný jazyk.  
-- **Inkantace:** znáš 2 kněžská kouzla T1, seslání přes moudrost, při hodu 1 uražení božstva. Odpustek stojí 100 zlatých a musíš strávit týden v chrámu svého božstva.  
+- **Božstvo:** vyber si božstvo a svatý symbol. Pokud provedeš šest hříchů proti zásadám tvého božstva, tvé božstvo tě zbaví kouzel a jsi exkomunikován *(dokud to neodčiníš)*.  
+- **Jazyk navíc:** vyber si 1 vzácný jazyk.  
+- **Inkantace:** znáš 2 kněžská kouzla T1, seslání přes moudrost, při hodu 1 uražení božstva *(hřích)*.
 - **Božský dar:** dle božstva dostáváš navíc extra kouzlo.  
 - **Životy:** k6 za každou úroveň.  
 - **Vybavení:** všechny zbroje a štíty, kněžské zbraně.  
 - **Talent(k6):** **1-2**: *\[+1 k síle, odolnosti a nebo moudrosti\]*, **3**: *\[+1 k hodům na útok\]*, **4**: *\[+1 k sesílání kouzel\],* **5**: *\[výhoda na kouzlo, které znáš\]*. **6**: *\[při použití štěstí, přidej \+k6 (přehoď duplikát)\].*
 
 #### 4. **Kouzelník**  
-- **Jazyky navíc:** vyber si 2 obecné a 2 vzácné.
+- **Jazyky navíc:** vyber si 1 obecný a 1 vzácný jazyk.
 - **Kouzlení:** máš vyzkoumaná 3 kouzelnická kouzla třídy T1, sesílání přes inteligenci, při hodu 1 dojde k nehodě.
 - **Grimoár:** můžeš opsat kouzelný svitek kouzelnického kouzla do svého grimoáru, inteligence OB 15, při úspěchu se permanentně naučíš toto kouzlo nad rámec limitu, svitek je při pokusu vždy zničen *(grimoár je zdarma k nošení)*.
 - **Životy:** k4 za každou úroveň.
@@ -173,7 +173,7 @@ Verze 0.3.3 - příručka hráče.
 - **Zlomyslný výsměch**: OB12 charisma, blízký cíl ti musí rozumnět. *(\[½ úr (min1)\]\*k4)* psychického poškození a cíl má nevýhodu na další hod.  
 - **Muzikant**: máš hudební nástroj *(zdarma k nošení)*. 
 - **Bardský um:** výhody při hodech na řečnění, umění, hudbu, svádění, znalostech a diplomacii.
-- **Jazyky navíc:** vyber si 4 obecné a 1 vzácný jazyk.
+- **Jazyky navíc:** vyber si 3 obecné a 1 vzácný jazyk.
 - **Životy:** k6 za každou úroveň.
 - **Vybavení:** lehké a střední zbroje, bardské zbraně.
 - **Talent(k6):** **1-2**: *\[+1 k libovolné vlastnosti\]*, **3**: *\[+1 k útokům a nebo \+1 k seslání kouzel\]*, **4**: *\[inspirace a nebo výsměch je OB9\]*, **5**: *\[užitečný známý v civilizaci\]*, **6**: *\[změň kritický neúspěch na kritický úspěch, jednou za odpočinek\]*.
@@ -584,6 +584,8 @@ Volnočasové aktivity trvají jeden oddech *(týden volného času)* v civiliza
 
 - **Vaření lektvarů**: pokusíš se o uvaření lektvaru, pouze v civilizaci, suroviny na výrobu se musí nakoupit za zlaťáky, lektvar zabírá jeden invetářový slot. Po světě můžeš nacházet nové recepty.   
 \- **Lektvar léčení**: výroba OB 12 INT, suroviny na pokus 50 zl, (k6 úr1+, 2k8 úr4+, 3k10 úr7+, 4k12 úr10).
+
+- **Odpustek**: obětuješ 100 zl a strávíš týden v chrámu svého božstva pykáním za své hříchy. Po dokončení si odečti k6 hříchů *(pouze kněz)*.
 
 ## Cestování po světě
 
