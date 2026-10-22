@@ -563,13 +563,13 @@ při neúspěchu vyčerpání *(obnoví se po odpočinku)*.
 
 ### Volnočasové aktivity
 
-Volnočasové aktivity trvají jeden oddech *(týden volného času)*.
+Volnočasové aktivity trvají jeden oddech *(týden volného času)* v civilizaci.
 
 [Zpět na obsah](#obsah)
 
 - **Léčebný pobyt**: zaplať 50 zl, po dokončení se zbavíš všech jizev, otrav a nemagických nemocí. Pokud ti chybí končetiny, tak získáš protézy. Jestli sis vyléčil alespoň jednu jizvu, hoď znovu všemi kostkami životů, pokud je nový výsledek vyšší než starý, zvýší se ti životy na novou hodnotu, jinak zůstanou na původní hodnotě.
 
-- **Přivýdělek**: popiš jak si přivyděláš, OB 15 *(+ libovolná vhodná vlastnost)*, pokud máš vhodnou profesi, házej s výhodou. Při úspěchu získáš k6 \* 5 zlatých. Zlodějina vydělá 2x tolik, ale při neúspěchu budeš mít potíže.
+- **Přivýdělek**: popiš jak si přivyděláš, OB 12 *(+ libovolná vhodná vlastnost)*, pokud máš vhodnou profesi, házej s výhodou. Při úspěchu získáš k6 \* 5 zlatých.
 
 - **Učení nové dovednosti**: musíš najít vhodného učitele *(např.: elfí letec \-\> létání s obří vážkou)*, cena za naučení je standardně 50 zl, OB 15 *( \+ vhodná vlastnost)* k naučení.
 
