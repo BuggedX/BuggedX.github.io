@@ -211,7 +211,7 @@ Verze 0.3.3 - příručka hráče.
 13. **Palcát**: 4 zl, na dosah, k6.  
 14. **Sekyrka**: 2 zl, na dosah/blízko, k6, \[Vrh\].  
 15. **Dýka**: 1 zl, na dosah/blízko, k4, \[F, Vrh\].  
-16. **Kopí**: 1 zl, na dosah/blízko, k6, \[Vrh\].  
+16. **Kopí**: 1 zl, na dosah/blízko, k6/k8, \[V, Vrh\].  
 17. **Kyj**: ½ zl, na dosah, k4.  
 18. **Hůl**: ½ zl, na dosah, k4, \[2R\].  
 19. **Prak**: ½ zl, daleko, k4, \[N\].  
