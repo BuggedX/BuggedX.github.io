@@ -610,6 +610,6 @@ Volnočasové aktivity trvají jeden oddech *(týden volného času)* v civiliza
 5. Dopravní prostředky:  
    1. **Celá skupina na jízdních ořích**: během přesunu urazí skupina až dvě pole *(20km)*.  
    2. **Přesun po cestě**: během přesunu po cestě pěšky nebo na ořích urazí skupina o jedno pole navíc *(+10km)*.  
-   3. **Jízda kočárem nebo lodí**: skupina urazí za jednu fázi přesunu až celkem tři pole *(30km)*.
+   3. **Jízda kočárem nebo lodí**: skupina urazí za jednu fázi přesunu až celkem tři pole *(50km)*.
 
 [Zpět na obsah](#obsah)
