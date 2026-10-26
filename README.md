@@ -26,7 +26,7 @@ Verze 0.3.3 - příručka hráče.
 - Akce může být například: útok, seslání kouzla, sprint *(další pohyb)*, použití předmětu, manévr a nebo kombinace drobných akcí.
 - Pohyb je až ***10m*** za kolo *(do blízké vzdálenosti)*, může být libovolně rozdělen. Při lezení, plavání a nebo v obtížném terénu se pohybuješ poloviční rychlostí *(zaokrouhluje se dolů).*
 - Skrze pozice spojenců se můžeš pohnout libovolně, u nepřátel je potřeba hod na sílu nebo obratnost.
-- Vzdálenosti jsou rozlišeny na tři skupiny: **na dosah**, **blízko** *(do 10 m)* a **daleko** *(až na dohled)*. 
+- Vzdálenosti jsou rozlišeny na tři skupiny: **na dosah**, **blízko** *(do 10 m)* a **daleko** *(na dohled, do ±100 m)*. 
 - Vypravěč může požadovat hod kostkou *(k20\+bonus),* když akce může mít negativní následky, vyžaduje zručnost a nebo když je postava tlačena časem. Standardně obtížnost je OB12.
 - Vlastnosti mají hodnotu, které se říká *bonus/modifikátor*, který se pak přidává k hodům kostkou *k20* a dalším schopnostem:  
   * Síla: útoky zblízka, nosnost a atletika.  
@@ -254,7 +254,7 @@ Verze 0.3.3 - příručka hráče.
 - **Polní lopatka**: 2 zl *(vykopávky)*
 - **Síť**: ½ zl *(k polapení tvora)*
 - **Stan**: 10 zl *(2m2, pro dvě osoby)*
-- **Střelivo** *(brašna, 10ks)*: 5 zl
+- **Střelivo** *(brašna, 20ks)*: 5 zl
 - **Šípy** *(toulec, 20ks)*: 1 zl
 - **Šplhací hák**: 1 zl. *(k lanu)*
 - **Tyč**: ½ zl *(3m, skládací)*
@@ -277,8 +277,8 @@ Verze 0.3.3 - příručka hráče.
 #### **Služby a transport**:
 - **Ubytování a jídlo v hostinci za jednu noc**: 1 zl
 - **Hýření v hostinci po návratu z výpravy**: 10 zl/člena
-- **Najmutí družijníka**: 10 zl \+ 1 zl za každý den
-- **Najmutí specialisty**: 100 zl \+ 10 zl za každý den
+- **Najmutí družijníka**: 10 zl za týden
+- **Najmutí specialisty**: 100 zl za týden
 - **Dostavník**: 10 zl za den, pouze po cestách
 - **Loď**: 50 zl za den, pouze po vodě. *(šalupa, 300 slotů)*
 - **Sedlo**: 20 zl *(ježdění na oři)*
@@ -508,7 +508,7 @@ Učení fint trvá jeden oddech *(týden volného času)*. Fintu se můžou post
 
 #### Finty OBRATNOST
 
-- **Puškař**: kombinací zručnosti a mechanických inovací zrychlíš přebíjení svých palných zbraní z PN na N *(přebití zabere jen celý pohyb)*. Tvé palné zbraně jsou bezpečnější a ignorují vlastnost Neb *(nebezpečná)*.
+- **Puškař**: kombinací zručnosti a mechanických inovací *(drážkovaná mušketa \-\> jehlovka)* zrychlíš přebíjení svých mušket z PN na N *(přebití zabere jen celý pohyb)*, tvé pistole mají dvě hlavně a mohou vystřelit dvakrát, než potřebují přebít. Palné zbraně jsou v tvých rukou bezpečnější a ignorují vlastnost Neb *(nebezpečná)*.
 
 - **Parýrovací dýka**: když máš jednoruční zbraň, v druhé volné ruce můžeš mít parýrovací dýku \+1 TZ, když se trefíš primární zbraní při útoku zblízka, hoď také poškození dýky (k4) a vyber lepší hodnotu jako poškození.
 
@@ -598,7 +598,7 @@ Volnočasové aktivity trvají jeden oddech *(týden volného času)* v civiliza
 2. Během jedné fáze může skupina provést jednu následující akci:  
    1. **Pohyb** \- přesun zhruba 10km z aktuálního pole na další pole na mapě. V noci a nebo při nepříznivých podmínkách musí navigator skupiny uspět na OB 15 MOU, při neúspěchu skupina zabloudí do jiného pole.  
    2. **Prohledání** \- hledání zajímavostí, pokladů, zásob a nebo vstupů do podzemí v aktuálním poli na mapě. Při hledání skrytých prvků a nebo získávání zásob *(každý \+1 zásoba)* musí skupina uspět na OB 15 MOU.  
-   3. **Táboření** \- odpočinek, jídlo a obnova schopností. Každá postava spotřebuje jednu zásobu.  
+   3. **Táboření** \- odpočinek, jídlo a obnova schopností. Každá postava spotřebuje jednu zásobu. Pokud si postavy neodpočinou *(netáboří a nebo nemají zásoby)*, alespoň jednou denně, musí uspět na OB 18 ODL, jinak únava k6: *(1-3: -1žv, 4-5: -2žv, 6: -3žv)*.
 3. Na začátku fáze si vypravěč hodí na náhodné setkání *(k6)*, dle aktuálního pole.  
    1. **1-3**: žádné setkání, **4-5**: předzvěst náhodného setkání, **6**: náhodné setkání.  
    2. Když padne předzvěst podruhé, nastane náhodné setkání *(typ setkání k6)*.  
