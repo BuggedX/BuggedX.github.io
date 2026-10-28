@@ -211,13 +211,19 @@ Verze 0.3.4 - příručka hráče.
 
 ### **Jazyky:**  
 
+[Zpět na tvorbu postavy](#tvorba-postavy)
+
 *všechny postavy zajínají s znalostí obecné řeči*
 
 **Obecné:** obecná řeč *(lidé a většina humanoidů)*, trpasličtina, elfština, obřina, skřetina, ještěřina.  
 **Vzácné:** nebeština, démonština, drakonština, prastarština *(prastaré bytosti a elementálové)*, sylvánština *(víly)*.
 
 ### **Božstva a přesvědčení:**  
+
+[Zpět na tvorbu postavy](#tvorba-postavy)
+
 *Výběr božstva je povinný jen pro kněze, přesvědčení je spíše hrubý morální kompas, kterým se postava řídí.*  
+
 **Zákonné:** Svaté světlo \[ **Δ** \] *(spravedlnost a čest, lidé)* a Architektka stvoření \[ **§** \] *(řád a průmysl, trpaslíci)*.  
 **Neutrální:** Matka příroda \[ **Ῠ** \] *(příroda a počasí, elfové)* a Strážce vědění \[ **Ѳ** \] *(magie a znalosti, mágové)*.  
 **Chaotické:** Velký plenitel \[ **Ξ** \] *(síla a válka, barbaři)* a Temná vědma \[ **Ѫ** \] *(ambice a kletby, čarodějky)*.
