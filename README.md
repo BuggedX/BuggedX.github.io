@@ -1,7 +1,7 @@
 # Temné stíny
 
 *Odlehčená stolní hra na hrdiny*.  
-Verze 0.3.3 - příručka hráče.
+Verze 0.3.4 - příručka hráče.
 
 ### Obsah
 
@@ -9,17 +9,15 @@ Verze 0.3.3 - příručka hráče.
 
 [2. Tvorba postavy](#tvorba-postavy)
 
-[3. Povolání](#povolání)
+[3. Vybavení](#vybavení)
 
-[4. Vybavení](#vybavení)
+[4. Kouzla](#kouzla)
 
-[5. Kouzla](#kouzla)
+[5. Finty](#finty)
 
-[6. Finty](#finty)
+[6. Volnočasové aktivity](#volnočasové-aktivity)
 
-[7. Volnočasové aktivity](#volnočasové-aktivity)
-
-[8. Cestování po světě](#cestování-po-světě)
+[7. Cestování po světě](#cestování-po-světě)
 
 ## Přehled pravidel
 - Každá postava ve svém kole může udělat akci a pohyb.
@@ -30,22 +28,26 @@ Verze 0.3.3 - příručka hráče.
 - Vypravěč může požadovat hod kostkou *(k20\+bonus),* když akce může mít negativní následky, vyžaduje zručnost a nebo když je postava tlačena časem. Standardně obtížnost je OB12.
 - Vlastnosti mají hodnotu, které se říká *bonus/modifikátor*, který se pak přidává k hodům kostkou *k20* a dalším schopnostem:  
   * Síla: útoky zblízka, nosnost a atletika.  
-  * Obratnost: útoky na dálku a nenápadnost.  
+  * Obratnost: útoky na dálku, zlodějina a nenápadnost.  
   * Odolnost: životy a houževnatost.  
   * Inteligence: znalosti a kouzelnictví.  
-  * Moudrost: vnímání a kněžství.  
+  * Moudrost: vnímání, přežití a kněžství.  
   * Charisma: síla osobnosti a přesvědčování.
 - Postava může získat vlivem schopnosti nebo fikční situace **výhodu** a nebo **nevýhodu** na určitou akci, v takovém případě se hodí dvěma kostkami a vybere se lepší výsledek/horší výsledek.
 - **Kritický úspěch** je když na kostce *k20* padne čistých **20** *(před přičtením bonusu)*, u útoku a kouzel se zdvojnásobí počet kostek zranění *(nebo jiný numerický efekt)*. Při kritickém neúspěchu *(výsledek **1** na k20)* akce selže s extra konsekvencemi.
 - Při **útoku** se nejdřív hází na **trefu** *(k20\+bonus)*, pokud je výsledné číslo stejné a nebo větší jak obrana *(třída zbroje, TZ)* protivníka, útok **zraňuje** životy cíle, kostkou zbraně *(k4, k6, k8, k10, k12)*.
-- **Smrt a umírání**, při 0 životech upadá postava do bezvědomí a začne umírat. Vypravěč hodí *k4\+odolnost*, tolik kol zbývá postavě do smrti. Postava si každé kolo hodí čistě *k20*, při kritickém úspěchu se probouzí s jedním životem, jinak umírá dál. Spojenci na dosah se mohou pokusit o **stabilizaci**: *(k20\+ inteligence)*, OB 15, při úspěchu zůstává postava v bezvědomí a na 0 životech, ale už neumírá. Při vyléčení alespoň jednoho životu se postava probouzí. Když postava upadne do bezvědomí *(0 životů)*, získá jednu jizvu, jizva zabírá jedno inventářové pole *(léčebný pobyt v civilizaci k odstranění jizvy)*.
+- **Smrt a umírání**, při 0 životech upadá postava do bezvědomí a začne umírat. Vypravěč hodí *k4\+odolnost*, tolik kol zbývá postavě do smrti. Postava si každé kolo hodí čistě *k20*, při kritickém úspěchu se probouzí s jedním životem, jinak umírá dál.
+  * Spojenci na dosah se mohou pokusit o **stabilizaci**: *(k20\+ inteligence)*, OB 15, při úspěchu zůstává postava v bezvědomí a na 0 životech, ale už neumírá. Při vyléčení alespoň jednoho životu se postava probouzí.
+  * Když postava upadne do bezvědomí *(0 životů)*, získá jednu jizvu, **jizva** zabírá jedno inventářové pole *(absolvuj léčebný pobyt v civilizaci k odstranění jizvy)*.
+- V temných stínech je potřeba mít **rozsvícené světlo**: pochodeň, lucerna a nebo kouzelné světlo vydrží **30 minut** **reálného času**. Temnota je smrtící *(nevýhody na všechno, monstra výhody)*.
 - **Iniciativa**, při začátku souboje si každý hodí *k20\+obratnost*,  ten s nejvyšší hodnotou začíná a po něm následuje hráč pro jeho levici *(po směru hodin kolem stolu)*.
+  * Při přepadení si překvapený hází na iniciativu s nevýhodou a útočník s výhodou.
+  * Během průzkumu temných stínu *(podzemí)*, běží pevná iniciativa, při prvním spuštění časovače světla začne hráč, který rozsvítil a iniciativa pokračuje po směru hodinových ručiček kolem stolu, hráči si předávají štafetu *(třeba smotaný papír)*.
 - K úspěšnému **seslání kouzla** je třeba hodit **k20 \+ *bonus*** *(kouzelník INT, kněz MOU, bard CHA)*, obtížnost hodu je ***10 \+ třída kouzla***. Při kritickém neúspěchu u kouzelníka/barda dojde k magické nehodě, u kněze k nahněvaní božstva.
 - Kouzla je možné **sesílat opakovaně** tak dlouho, dokud nedojde k selhání. **Selhané/vyčerpané kouzlo** se obnoví při řádném odpočinku.
 - **Kouzelný svitek** je zničen při použití bez ohledu na úspěch, **kouzelná hůlka** je při normálním neúspěchu vybita a během řádného odpočinku se nabije. Při kritickém neúspěchu je hůlka zničena.
 - Některá kouzla vyžadují **soustředění**, postava se může soustředit jen na jedno kouzlo vyžadující soustředění. Na začátku každého kola a při rozptýlení si musí sesilatel hodit na soustředění *(normální hod na seslání kouzla)*.
-- **Štěstí** umožňuje hráči přehodit jeden hod jeho kostkou. Každé sezení začíná každý hráč s jedním štěstím, každý může mít jen maximálně jedno aktivní štěstí. Hráči si mohou štěstí předávat.
-- V temných stínech je potřeba mít **rozsvícené světlo**: pochodeň, lucerna a nebo kouzelné světlo vydrží **30 minut** **reálného času**. Temnota je smrtící *(nevýhody na všechno, monstra výhody)*.
+- **Štěstí** umožňuje hráči přehodit jeden hod jeho kostkou. Každé sezení začíná každý hráč s jedním štěstím, každý může mít jen maximálně jedno aktivní štěstí.
 - Zkušenosti se získávají dotáhnutím pokladů do civilizace, za každých 100 zl hodnoty pokladu získá skupina 1 zkušenost.
 - Na další úroveň postavy potřebuješ *(10 * aktuální úroveň)* zkušeností.
 
@@ -73,9 +75,9 @@ Verze 0.3.3 - příručka hráče.
 
 1. Vyber si povolání *(viz [povolání](#povolání))*.  
 2. Vyber si rasu *(viz [rasy](#rasy))*.  
-3. Vyber si zázemí *(dává znalosti a případně výhody na akce ze zázemí)*.  
-4. Vyber si jazyky *(rasa, povolání, zohledni zázemí)*.  
-5. Vyber si přesvědčení *(zákonný/neutrální/chaotický)* a případně božstvo.  
+3. Vyber si zázemí *(viz [zázemí](#zázemí))*.  
+4. Vyber si jazyky *(rasa, povolání, zohledni zázemí, viz [jazyky](#jazyky))*.  
+5. Vyber si přesvědčení *(zákonný/neutrální/chaotický)* a případně božstvo *(viz [Božstva a přesvědčení](#božstva-a-přesvědčení))*.  
 6. Rozřaď si body vlastností: *(síla/obratnost/odolnost/inteligence/moudrost/charisma)*  
    1. Každý má 5 bodů na rozdělení *(kontrolní součet musí být vždy 5).*  
    2. Maximum v jedné vlastnosti při tvorbě postavy je \+3.  
@@ -85,54 +87,11 @@ Verze 0.3.3 - příručka hráče.
 9. Hoď si na zlaťáky *(2k6 \* 5 zlatých)* a zjisti nosnost své postavy *(10+síla slotů, u válečníka ještě \+odolnost)*.  
 10. Kup si vybavení *(viz [vybavení](#vybavení))* a vypočítej svou třídu zbroje *(TZ 10+obratnost a nebo nasazená zbroj+obratnost).*  
 11. Vyber si kouzla *(pokud je má tvé povolání, viz [kouzla](#kouzla)).*  
-12. Popiš svůj vzhled *(rysy, oblečení, povaha, styl řeči)* a zaznač svůj znak a jméno.
-
-#### **Zázemí:** 
-
-*(Kdo jsi byl předtím, než jsi se stal dobrodruhem?)*
-
-1\. akolyta, 2\. barbar, 3\. bezdomovec, 4\. cirkusák, 5\. farmář, 6\. kočovník, 7\. kouzelnický učeň, 8\. myslivec, 9\. námořník, 10\. obchodník,     
-11\. průzkumník, 12\. ranhojič, 13\. řemeslník, 14\. sirotek, 15\. šlechtic, 16\. učenec, 17\. voják, 18\. vyhoštěnec, 19\. zločinec, 20\. žoldák.
-
-#### **Jazyky:**  
-**Obecné:** obecná řeč *(ty a většina humanoidů)*, trpasličtina, elfština, obřina, skřetina, ještěřina.  
-**Vzácné:** nebeština, démonština, drakonština, prastarština *(prastaré bytosti a elementálové)*, sylvánština *(víly)*.
-
-#### **Božstva a přesvědčení:**  
-*Výběr božstva je povinný jen pro kněze, přesvědčení je spíše hrubý morální kompas, kterým se postava řídí.*  
-**Zákonné:** Svaté světlo \[ **Δ** \] *(spravedlnost a čest, lidé)* a Architektka stvoření \[ **§** \] *(řád a průmysl, trpaslíci)*.  
-**Neutrální:** Matka příroda \[ **Ῠ** \] *(příroda a počasí, elfové)* a Strážce vědění \[ **Ѳ** \] *(magie a znalosti, mágové)*.  
-**Chaotické:** Velký plenitel \[ **Ξ** \] *(síla a válka, barbaři)* a Temná vědma \[ **Ѫ** \] *(ambice a kletby, čarodějky)*.
-
-#### Rasy:
-
-##### 1. **Člověk**  
-- **Příležitostný**: hoď s výhodou na počáteční zlaťáky. 
-- **Přizpůsobivý**: při získání talentu si hoď dvakrát a vyber si.
-
-##### 2. **Půlelf**  
-- **Jazyk navíc**: vyber si navíc jeden obecný jazyk.   
-- **Ambiciózní**: jeden extra talent navíc na 1\. úrovni.
-
-##### 3. **Elf**  
-- **Jazyk navíc**: elfština a sylvánština.  
-- **Bystrý**: \+1 k hodům na útok na dálku a +1 k ověření seslání kouzla.
-
-##### 4. **Trpaslík**  
-- **Jazyk navíc**: trpasličtina.  
-- **Statný**: \+2 životy na 1\. úrovni a +1 život za každou další úroveň.
-
-##### 5. **Půlork**  
-- **Tuhý**: pokud nemáš zbroj, tvá TZ je 11+obratnost.
-- **Mohutný**: \+1 k hodům na útok a zranění zblízka a \+1 inventářový slot.
-
-##### 6. **Půlčík**  
-- **Kradmý**: jednou za den se můžeš okamžitě skrýt, bez hodu, i kdyby to jinak normálně nebylo možné.  
-- **Drobný**: vejdeš se na těsná místa, ⅙ že jsi převlečený a domestikovaný goblin.
+12. Popiš svůj vzhled, zaznač svůj znak a jméno.
 
 ### Povolání
 
-[Zpět na obsah](#obsah)
+[Zpět na tvorbu postavy](#tvorba-postavy)
 
 #### 1. **Válečník**  
 - **Mistrovství se zbraní:** vyber si zbraň a přičti 1+½ tvé úrovně k hodům na útok a zranění při používání této zbraně *(zaokrouhleno dolů)*.  
@@ -186,9 +145,93 @@ Verze 0.3.3 - příručka hráče.
 - **Vybavení:** lehké zbroje a zlodějské zbraně.
 - **Talent(k6):** **1-2**: *\[+1 k síle, obratnosti nebo charisma\]*, **3**: *\[+1 k útokům\]*, **4**: *\[zákeřný útok má \+kostku navíc\]* **5**: *\[vyhneš se útoku a nebo prozrazení, jednou za odpočinek\]*, **6**: *\[výhody na iniciativu (přehoď duplikát)\]*.
 
+### Rasy:
+
+[Zpět na tvorbu postavy](#tvorba-postavy)
+
+#### 1. **Člověk**  
+- **Příležitostný**: hoď s výhodou na počáteční zlaťáky. 
+- **Přizpůsobivý**: při získání talentu si hoď dvakrát a vyber si.
+
+#### 2. **Půlelf**  
+- **Jazyk navíc**: vyber si navíc jeden obecný jazyk.   
+- **Ambiciózní**: jeden extra talent navíc na 1\. úrovni.
+
+#### 3. **Elf**  
+- **Jazyk navíc**: elfština.  
+- **Bystrý**: \+1 k hodům na útok na dálku a +1 k ověření seslání kouzla.
+
+#### 4. **Trpaslík**  
+- **Jazyk navíc**: trpasličtina.  
+- **Statný**: \+2 životy na 1\. úrovni a +1 život za každou další úroveň.
+
+#### 5. **Půlork**  
+- **Tuhý**: pokud nemáš zbroj, tvá TZ je 11+obratnost.
+- **Mohutný**: \+1 k hodům na útok a zranění zblízka a \+1 inventářový slot.
+
+#### 6. **Půlčík**  
+- **Kradmý**: jednou za den se můžeš okamžitě skrýt, bez hodu, i kdyby to jinak normálně nebylo možné.  
+- **Drobný**: vejdeš se na těsná místa, ⅙ že jsi převlečený a domestikovaný goblin.
+
+### **Zázemí:** 
+
+[Zpět na tvorbu postavy](#tvorba-postavy)
+
+*Kdo jsi byl předtím, než jsi se stal dobrodruhem? (můžeš si vzít zázemí i od jiného povolání)*
+
+*Válečník*
+- **Voják**: sloužil jsi u organizované armády, máš varkoč v armádních barvách.
+- **Žoldák**: pracoval jsi jako ochranka a lovec odměn, máš žoldnéřskou licenci.
+- **Barbar**: pocházíš z kmene žijícího mimo civilizaci, máš zvířecí trofej.
+
+*Hraničář*
+- **Myslivec**: staral ses o přírodu v okolí civilizace, máš malého mazlíčka.
+- **Průzkumník**: mapoval jsi neprobádaná místa mimo civilizaci, máš kompas.
+- **Vyhnanec**: byl jsi vykázán ze své domoviny, máš u sebe něco na památku.
+
+*Kněž*
+- **Ministrant**: sloužil jsi v chrámu vybraného božstva, máš náhrdelník se svatým symbolem.
+- **Ranhojič**: pracoval jsi jako felčar, máš operační nástroje.
+- **Okultista**: byl jsi členem tajného spolku, máš zakázanou knihu.
+
+*Kouzelník*
+- **Učenec**: studoval jsi na vyhlášené univerzitě, máš učebnici historie.
+- **Šlechtic**: pocházíš z urozeného rodu, máš pečetní prsten.
+- **Nohsled**: asistoval jsi mocnému čaroději, máš poškozenou hůlku.
+
+*Bard*
+- **Obchodník**: vydělával jsi na přeprodávání zboží, máš monokl a lupu.
+- **Cirkusák**: byl jsi putovním bavičem, máš převlek šaška.
+- **Podvodník**: podváděl jsi naivní měšťany, máš pytlík cinknutých kostek.
+
+*Zloděj*
+- **Špeh**: zabýval ses získáváním a předáváním informací, máš falešné dokumenty.
+- **Tulák**: putoval jsi krajem a dělal jsi co zrovna šlo, máš cestovní plášť.
+- **Zločinec**: živil ses nelegální činností, máš tetování.
+
+### **Jazyky:**  
+
+*všechny postavy zajínají s znalostí obecné řeči*
+
+**Obecné:** obecná řeč *(lidé a většina humanoidů)*, trpasličtina, elfština, obřina, skřetina, ještěřina.  
+**Vzácné:** nebeština, démonština, drakonština, prastarština *(prastaré bytosti a elementálové)*, sylvánština *(víly)*.
+
+### **Božstva a přesvědčení:**  
+*Výběr božstva je povinný jen pro kněze, přesvědčení je spíše hrubý morální kompas, kterým se postava řídí.*  
+**Zákonné:** Svaté světlo \[ **Δ** \] *(spravedlnost a čest, lidé)* a Architektka stvoření \[ **§** \] *(řád a průmysl, trpaslíci)*.  
+**Neutrální:** Matka příroda \[ **Ῠ** \] *(příroda a počasí, elfové)* a Strážce vědění \[ **Ѳ** \] *(magie a znalosti, mágové)*.  
+**Chaotické:** Velký plenitel \[ **Ξ** \] *(síla a válka, barbaři)* a Temná vědma \[ **Ѫ** \] *(ambice a kletby, čarodějky)*.
+
 ## Vybavení
 
 [Zpět na obsah](#obsah)
+
+[Zbraně](#zbraně)
+[Zdatnosti](#zdatnost-dle-povolání)
+[Zbroje](#zbroje)
+[Obecná výbava](#obecná-výbava)
+[Magická výbava](#magická-výbava)
+[Služby a transport](#služby-a-transport)
 
 - **Mince**: prvních 100 zlatých mincí je k nošení zdarma, každý další započatý pytel *(100 zl)* je za jeden inventářový slot.
 - **Oblečení**: každá postava začíná s základním oblečením, obuví a batohem *(zdarma k nošení)*.
@@ -215,7 +258,7 @@ Verze 0.3.3 - příručka hráče.
 17. **Kyj**: ½ zl, na dosah, k4.  
 18. **Hůl**: ½ zl, na dosah, k4, \[2R\].  
 19. **Prak**: ½ zl, daleko, k4, \[N\].  
-20. **Oštěp**: ½ zl, na dosah/daleko, k4, \[Vrh\].
+20. **Oštěp**: ½ zl, na dosah/daleko, k6, \[Vrh\].
 
 **2R:** obouruční, **V:** verzatilní *(jednoruční/obouruční)*, **F:** finesa *(můžeš dělat útoky přes obratnost)*, **Vrh:** vrhací *(na dálku přes sílu nebo obratnost)*, **N:** nabíjecí *(nabití zabere celý pohyb)*.
 **PN:** pomalé nabíjení *(nabití zabere celou akci)*, **Dev:** devastující *(při kritickém zásahu se počet kostek poškození trojnásobí)*, **Neb:** nebezpečná *(při kritickém neúspěchu zbraň vybuchne a zraní držitele svou kostkou poškození, zbraň je tímto rozbita)*.
@@ -236,13 +279,14 @@ Verze 0.3.3 - příručka hráče.
 3. **Těžká zbroj**: 150 zl, 3 sloty, TZ15, nevýhody na plížení a nelze plavat. *(např.: plátová zbroj)*
 4. **Štít**: 10 zl, 1 slot, \+2 TZ, zabírá jeden slot, musí být držen v jedné ruce aby poskytoval bonus k TZ
 
-#### **Výbava**:
+#### **Obecná výbava**:
 
-[Zpět na obsah](#obsah)
+[Zpět na vybavení](#vybavení)
 
 *(každá z těchto věcí zabírá jeden inventářový slot).*
 
 - **Alkohol**: 3 zl *(uklidňuje smysly)*
+- **Hák**: 1 zl. *(k lanu)*
 - **Křesadlo**: ½ zl *(rozdělání ohně)*
 - **Láhev**: ½ zl *(prázdná)*
 - **Lano** *(20m)*: 1 zl *(konopné)*
@@ -256,13 +300,16 @@ Verze 0.3.3 - příručka hráče.
 - **Stan**: 10 zl *(2m2, pro dvě osoby)*
 - **Střelivo** *(brašna, 20ks)*: 5 zl
 - **Šípy** *(toulec, 20ks)*: 1 zl
-- **Šplhací hák**: 1 zl. *(k lanu)*
 - **Tyč**: ½ zl *(3m, skládací)*
 - **Zásoby**: ½ zl *(potraviny na den)*
 - **Železné hřeby** *(10ks)*: 1 zl *(s okem)* 
 
 #### **Magická výbava**:
+
+[Zpět na vybavení](#vybavení)
+
 *(zabírá jeden slot)*.
+
 - **Léčivý lektvar**: 150 zl *(k6 žv úr1+, 2k8 úr4+, 3k10 úr7+, 4k12 úr10)*
 - **Univerzální lék**: 150 zl *(vyléčí jednu nemoc/otravu)*
 - **Mutagen**: 150 zl *(dočasná schopnost z orgánu monstra)*
@@ -275,6 +322,9 @@ Verze 0.3.3 - příručka hráče.
 - **Elixír many**: 150 zl *(obnova vyčerpaného kouzla T1-3)*
 
 #### **Služby a transport**:
+
+[Zpět na vybavení](#vybavení)
+
 - **Ubytování a jídlo v hostinci za jednu noc**: 1 zl
 - **Hýření v hostinci po návratu z výpravy**: 10 zl/člena
 - **Najmutí družijníka**: 10 zl za týden
@@ -299,10 +349,6 @@ Verze 0.3.3 - příručka hráče.
 [Kněžská kouzla T1](#kněžská-kouzla-t1)
 [Kněžská kouzla T2](#kněžská-kouzla-t2)
 [Kněžská kouzla T3](#kněžská-kouzla-t3)
-
-### Kouzla třída 1 (T1, OB11)
-
-[Zpět na kouzla](#kouzla)
 
 #### **Kouzelnická kouzla T1**:  
 
@@ -351,42 +397,6 @@ Verze 0.3.3 - příručka hráče.
 | **9\.** | 4 | 4 | 3 | 2 | 1 |
 | **10\.** | 4 | 4 | 4 | 2 | 2 |
 
-#### **Kněžská kouzla T1**:  
-
-[Zpět na kouzla](#kouzla)
-
-- **Léčba zranění**: \[okamžitě, na dotek\], dotkneš se tvora a ten si okamžitě obnoví životy v hodnotě (1+½ tvé úrovně)\*k6.
-- **Odvrácení nemrtvých**: \[okamžitě, blízko\], pomocí svého svatého symbolu odvrátíš nemrtvé, nemrví tvorové v blízkosti si musí ověřit charisma *(OB je rovná tvému hodu na seslání kouzla)*, jinak utečou. Pokud je nemrtvý rovné a nebo nižší úrovně než jsi ty a selže o více jak 10 bodů, je okamžitě zničen.
-- **Ochrana před nadpřirozeným**: \[soustředění, blízko\], démoni/víly/nemrtví mají proti cíli nevýhody na útok a kouzla, nemůžou cíl posednout. Pokud je kouzlo sesláno na již posednutý cíl, nadpřirozená bytost musí znovu ověřit posednutí.
-- **Svatá zbraň**: \[6 kol, blízko\], požehnáš jedné zbrani, zbraň se stane \+1 magickou *(+1 k útoku a zranění)*.
-- **Světlo**: \[30 minut, na dosah\], jeden předmět začne svítit jasným světlem na blízkou vzdálenost.
-- **Štít víry**: \[6 kol, na sebe\], obklopí tě božská energie, po dobu trvání získáš \+2 TZ.
-
-##### **Extra kněžská kouzla od božstva T1**:  
-- **Odhodlání**: \[*Svaté světlo*, 6 kol, na dosah\], \+k6 dočasných životů navíc nad normální maximální limit životů.
-- **Pravdivý úder**: \[*Architektka stvoření*, 6 kol, na dosah\], jeden příští útok cíle, který by minul se místo toho stane zásahem.
-- **Trny**: \[*Matka příroda*, 6 kol, na dosah\], trny na cíli dávají k4 zranění útočníkovi, který zasáhne nositele trnů útokem zblízka.
-- **Detekce magie**: \[*Strážce vědění*, soustředění, blízko\], cítíš přítomnost blízké magie, po dvou kolech rozeznáš obecné vlastnosti.
-- **Probuzení vzteku**: \[*Velký plenitel*, 6 kol, na dosah\], \+k4 útok a poškození zblízka, výhody na sílu, musí útočit jinak kouzlo končí.
-- **Tajnovize**: \[*Temná vědma*, soustředění, na sebe\], dokud je aktivní, tak vidíš neviditelné a skryté věci. Nefunguje přes tmu a zdi.
-
-##### **Tabulka známých kouzel kněze *(+ex je extra kouzlo od vybraného božstva, nepočítá se do limitu)*:**
-
-| Úroveň | T1 | T2 | T3 | T4 | T5 |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **1\.** | 2 (+exT1) | . | . | . | . |
-| **2\.** | 3 | . | . | . | . |
-| **3\.** | 3 | 1 (+exT2) | . | . | . |
-| **4\.** | 3 | 2 | . | . | . |
-| **5\.** | 3 | 2 | 1  (+exT3) | . | . |
-| **6\.** | 3 | 2 | 2 | . | . |
-| **7\.** | 3 | 3 | 2 | 1 (+exT4) | . |
-| **8\.** | 3 | 3 | 2 | 2 | . |
-| **9\.** | 3 | 3 | 2 | 2 | 1 (+exT5) |
-| **10\.** | 3 | 3 | 3 | 2 | 2 |
-
-### Kouzla třída 2 (T2, OB12)
-
 #### **Kouzelnická kouzla T2**:  
 
 [Zpět na kouzla](#kouzla)
@@ -422,28 +432,6 @@ Verze 0.3.3 - příručka hráče.
 5. **Posednutí**: tvé tělo se pokusí ovládnout zlomyslná entita z jiné dimenze OB 15 charisma na vypuzení *(na začátku kola)*.  
 6. **Fázový posun**: na 10 kol, považuj neúspěšné seslání kouzla za další kouzelnou nehodu.
 
-#### **Kněžská kouzla T2**:  
-
-[Zpět na kouzla](#kouzla)
-
-- **Očišťující zbraň**: \[6 kol, na dosah\], zbraň které se dotkneš je opletená svatým plamenem, dává \+k6 magického poškození.  
-- **Pohled pravdy**: \[soustředění, blízko\], zaměříš svůj svatý pohled na tvora, který pak nemůže vědomě vyslovit lež.  
-- **Požehnání**: \[okamžité, blízko\], požehnáš jednomu spojenci, ten získá bod štěstí *(přehození hodu, maximum je jedno štěstí).*  
-- **Hluchota a slepota**: \[soustředění, blízko\], jeden tvor je senzoricky deprivován, nevýhody na akce využívající chybějící smysly.  
-- **Věštba**: \[okamžité, na sebe\], zeptej se vypravěče na jednu otázku. Vypravěč odpoví, jestli akce povede k “blahobytu” nebo “bídě”.  
-- **Ztrestání**: \[okamžité, blízko\], sešleš svaté plameny aby potrestali tvora v dosahu, způsobuje k6 magického poškození, jeden další útok proti zasaženému cíli je s výhodou, jelikož je cíl zvýrazněn a rušen plameny. Seslání je s výhodou proti nadpřirozeným.  
-
-##### **Extra kněžská kouzla od božstva T2**:  
-
-- **Klid**: \[*Svaté světlo,* 6 kol, blízko\], uklidníš agresi a nepřátelství vybraných žíjících tvorů v blízkosti, úrovně 4 a nižší. Po dobu trvání tvorové neútočí na tebe a tvé spojence. Kouzlo končí pokusem o napadení tvorů. Po skončení se tvorové vrátí zpět do původního emočního rozpoložení.  
-- **Rozžhav**: \[*Architektka stvoření,* soustředění, blízko\], rozžhavíš jeden předmět vyrobený z kovu jako například zbraň, zbroj a nebo štít. Tvor držící rozžhavený předmět dostane k4 magického poškození, pokud předmět může upustit, musí hodit odolnost vs hod na seslání kouzla, jinak je předmět upuštěn. Pokud předmět neupustí a nebo upustit nemůže *(např.: zbroj)*, má nevýhody na všechny hody k20 a každé kolo dostává k4 magického poškození.
-- **Pavoučí šplh**: \[*Matka příroda*, soustředění, na sebe\], narostou ti čtyři pavoučí končetiny, které se dokáží libovolně přilepit k jakémukoliv terénu a umožňují ti pohyb po stěnách a stropech, stejně tak jednoduše, jako kdyby to byla obyčejná podlaha.  
-- **Kryptografie**: \[*Strážce vědění*, okamžitě, na dosah\], zašifruješ a nebo odšifruješ svitek nebo text, tebou zašifrovaný text přečteš jen ty.  
-- **Obětina**: \[*Velký plenitel*, okamžitě, na dosah\], obětuješ bezbranného tvora úrovně 2 a vyšší svému bohu. Ty a nebo vybraný spojenec dostanete kostku božské inspirace k6, tuto kostku lze přidat k navýšení hodu k20 *(Každý max jedna kostka božské inspirace).*  
-- **Extrakce tajemství**: \[*Temná vědma*, okamžitě, na dosah\], dotknutý tvor je přinucen ti vyzradit jeho nejhlubší tajemství, které ještě neznáš.
-
-### Kouzla třída 3 (T3, OB13)
-
 #### **Kouzelnická kouzla T3**:  
 
 [Zpět na kouzla](#kouzla)
@@ -469,6 +457,60 @@ Verze 0.3.3 - příručka hráče.
 - N: **Přeměna**: \[okamžitě, na dosah\], změníš materiál předmětu o max velikosti koně na jiný materiál stejné a nebo nižší hodnoty.  
 - Ch: **Oživení mrtvol**: \[okamžitě, na dosah\], oživíš ostatky s netknutou hlavou na zombie nebo kostlivce. Nad nemrtvým máš jeden den kontrolu, pokud do konce tohoto času na nemrtvého není znovu seslané toto kouzlo, kontrola se přeruší a nemrtvý zdivočí. Kostlivec: TZ: 10, ŽV: 10, *zbraň* \+2 k?, může nosit štíty/zbroje. Zombie: TZ: 8, ŽV: 15, sápání \+2 k6 *(unesou 10 slotů).*  
 - Ch: **Zrada**: \[soustředění, blízko\], tvor úrovně 7 a nižší, kterého vidíš, zradí své spojence a útočí na ně po dobu trvání kouzla.  
+
+#### **Kněžská kouzla T1**:  
+
+[Zpět na kouzla](#kouzla)
+
+- **Léčba zranění**: \[okamžitě, na dotek\], dotkneš se tvora a ten si okamžitě obnoví životy v hodnotě (1+½ tvé úrovně)\*k6.
+- **Odvrácení nemrtvých**: \[okamžitě, blízko\], pomocí svého svatého symbolu odvrátíš nemrtvé, nemrví tvorové v blízkosti si musí ověřit charisma *(OB je rovná tvému hodu na seslání kouzla)*, jinak utečou. Pokud je nemrtvý rovné a nebo nižší úrovně než jsi ty a selže o více jak 10 bodů, je okamžitě zničen.
+- **Ochrana před nadpřirozeným**: \[soustředění, blízko\], démoni/víly/nemrtví mají proti cíli nevýhody na útok a kouzla, nemůžou cíl posednout. Pokud je kouzlo sesláno na již posednutý cíl, nadpřirozená bytost musí znovu ověřit posednutí.
+- **Svatá zbraň**: \[6 kol, blízko\], požehnáš jedné zbrani, zbraň se stane \+1 magickou *(+1 k útoku a zranění)*.
+- **Světlo**: \[30 minut, na dosah\], jeden předmět začne svítit jasným světlem na blízkou vzdálenost.
+- **Štít víry**: \[6 kol, na sebe\], obklopí tě božská energie, po dobu trvání získáš \+2 TZ.
+
+##### **Extra kněžská kouzla od božstva T1**:  
+- **Odhodlání**: \[*Svaté světlo*, 6 kol, na dosah\], \+k6 dočasných životů navíc nad normální maximální limit životů.
+- **Pravdivý úder**: \[*Architektka stvoření*, 6 kol, na dosah\], jeden příští útok cíle, který by minul se místo toho stane zásahem.
+- **Trny**: \[*Matka příroda*, 6 kol, na dosah\], trny na cíli dávají k4 zranění útočníkovi, který zasáhne nositele trnů útokem zblízka.
+- **Detekce magie**: \[*Strážce vědění*, soustředění, blízko\], cítíš přítomnost blízké magie, po dvou kolech rozeznáš obecné vlastnosti.
+- **Probuzení vzteku**: \[*Velký plenitel*, 6 kol, na dosah\], \+k4 útok a poškození zblízka, výhody na sílu, musí útočit jinak kouzlo končí.
+- **Tajnovize**: \[*Temná vědma*, soustředění, na sebe\], dokud je aktivní, tak vidíš neviditelné a skryté věci. Nefunguje přes tmu a zdi.
+
+##### **Tabulka známých kouzel kněze *(+ex je extra kouzlo od vybraného božstva, nepočítá se do limitu)*:**
+
+| Úroveň | T1 | T2 | T3 | T4 | T5 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **1\.** | 2 (+exT1) | . | . | . | . |
+| **2\.** | 3 | . | . | . | . |
+| **3\.** | 3 | 1 (+exT2) | . | . | . |
+| **4\.** | 3 | 2 | . | . | . |
+| **5\.** | 3 | 2 | 1  (+exT3) | . | . |
+| **6\.** | 3 | 2 | 2 | . | . |
+| **7\.** | 3 | 3 | 2 | 1 (+exT4) | . |
+| **8\.** | 3 | 3 | 2 | 2 | . |
+| **9\.** | 3 | 3 | 2 | 2 | 1 (+exT5) |
+| **10\.** | 3 | 3 | 3 | 2 | 2 |
+
+#### **Kněžská kouzla T2**:  
+
+[Zpět na kouzla](#kouzla)
+
+- **Očišťující zbraň**: \[6 kol, na dosah\], zbraň které se dotkneš je opletená svatým plamenem, dává \+k6 magického poškození.  
+- **Pohled pravdy**: \[soustředění, blízko\], zaměříš svůj svatý pohled na tvora, který pak nemůže vědomě vyslovit lež.  
+- **Požehnání**: \[okamžité, blízko\], požehnáš jednomu spojenci, ten získá bod štěstí *(přehození hodu, maximum je jedno štěstí).*  
+- **Hluchota a slepota**: \[soustředění, blízko\], jeden tvor je senzoricky deprivován, nevýhody na akce využívající chybějící smysly.  
+- **Věštba**: \[okamžité, na sebe\], zeptej se vypravěče na jednu otázku. Vypravěč odpoví, jestli akce povede k “blahobytu” nebo “bídě”.  
+- **Ztrestání**: \[okamžité, blízko\], sešleš svaté plameny aby potrestali tvora v dosahu, způsobuje k6 magického poškození, jeden další útok proti zasaženému cíli je s výhodou, jelikož je cíl zvýrazněn a rušen plameny. Seslání je s výhodou proti nadpřirozeným.  
+
+##### **Extra kněžská kouzla od božstva T2**:  
+
+- **Klid**: \[*Svaté světlo,* 6 kol, blízko\], uklidníš agresi a nepřátelství vybraných žíjících tvorů v blízkosti, úrovně 4 a nižší. Po dobu trvání tvorové neútočí na tebe a tvé spojence. Kouzlo končí pokusem o napadení tvorů. Po skončení se tvorové vrátí zpět do původního emočního rozpoložení.  
+- **Rozžhav**: \[*Architektka stvoření,* soustředění, blízko\], rozžhavíš jeden předmět vyrobený z kovu jako například zbraň, zbroj a nebo štít. Tvor držící rozžhavený předmět dostane k4 magického poškození, pokud předmět může upustit, musí hodit odolnost vs hod na seslání kouzla, jinak je předmět upuštěn. Pokud předmět neupustí a nebo upustit nemůže *(např.: zbroj)*, má nevýhody na všechny hody k20 a každé kolo dostává k4 magického poškození.
+- **Pavoučí šplh**: \[*Matka příroda*, soustředění, na sebe\], narostou ti čtyři pavoučí končetiny, které se dokáží libovolně přilepit k jakémukoliv terénu a umožňují ti pohyb po stěnách a stropech, stejně tak jednoduše, jako kdyby to byla obyčejná podlaha.  
+- **Kryptografie**: \[*Strážce vědění*, okamžitě, na dosah\], zašifruješ a nebo odšifruješ svitek nebo text, tebou zašifrovaný text přečteš jen ty.  
+- **Obětina**: \[*Velký plenitel*, okamžitě, na dosah\], obětuješ bezbranného tvora úrovně 2 a vyšší svému bohu. Ty a nebo vybraný spojenec dostanete kostku božské inspirace k6, tuto kostku lze přidat k navýšení hodu k20 *(Každý max jedna kostka božské inspirace).*  
+- **Extrakce tajemství**: \[*Temná vědma*, okamžitě, na dosah\], dotknutý tvor je přinucen ti vyzradit jeho nejhlubší tajemství, které ještě neznáš.
 
 #### **Kněžská kouzla T3**:  
 
@@ -594,7 +636,7 @@ Volnočasové aktivity trvají jeden oddech *(týden volného času)* v civiliza
 1. Každý den je rozdělený na tři fáze, jedna fáze trvá zhruba 8 hodin.  
    1. **Ráno** \- od rozbřesku do poledne.  
    2. **Odpoledne** \- od poledne do soumraku.  
-   3. **Noc** \- od soumraku do rozbřesku.  
+   3. **Noc** \- od soumraku do rozbřesku *(svítí hvězdy a měsíce)*.
 2. Během jedné fáze může skupina provést jednu následující akci:  
    1. **Pohyb** \- přesun zhruba 10km z aktuálního pole na další pole na mapě. V noci a nebo při nepříznivých podmínkách musí navigator skupiny uspět na OB 15 MOU, při neúspěchu skupina zabloudí do jiného pole.  
    2. **Prohledání** \- hledání zajímavostí, pokladů, zásob a nebo vstupů do podzemí v aktuálním poli na mapě. Při hledání skrytých prvků a nebo získávání zásob *(každý \+1 zásoba)* musí skupina uspět na OB 15 MOU.  
