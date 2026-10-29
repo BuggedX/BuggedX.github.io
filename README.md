@@ -189,7 +189,7 @@ Verze 0.3.4 - příručka hráče.
 - **Průzkumník**: mapoval jsi neprobádaná místa mimo civilizaci, máš kompas.
 - **Vyhnanec**: byl jsi vykázán ze své domoviny, máš u sebe něco na památku.
 
-*Kněž*
+*Kněz*
 - **Ministrant**: sloužil jsi v chrámu vybraného božstva, máš náhrdelník se svatým symbolem.
 - **Ranhojič**: pracoval jsi jako felčar, máš operační nástroje.
 - **Okultista**: byl jsi členem tajného spolku, máš zakázanou knihu.
@@ -208,6 +208,9 @@ Verze 0.3.4 - příručka hráče.
 - **Špeh**: zabýval ses získáváním a předáváním informací, máš falešné dokumenty.
 - **Tulák**: putoval jsi krajem a dělal jsi co zrovna šlo, máš cestovní plášť.
 - **Zločinec**: živil ses nelegální činností, máš tetování.
+
+Drobné předměty získané ze zázemí jsou zdarma k nošení.
+*Po domluvě s vypravěčem si můžeš vytvořit vlastní zázemí, např.: námořník, farmář*
 
 ### **Jazyky:**  
 
