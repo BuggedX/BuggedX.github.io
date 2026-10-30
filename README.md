@@ -1,7 +1,7 @@
 # Temné stíny
 
 *Odlehčená stolní hra na hrdiny*.  
-Verze 0.3.4 - příručka hráče.
+Verze 0.3.5 - příručka hráče.
 
 ### Obsah
 
@@ -662,5 +662,24 @@ Volnočasové aktivity trvají jeden oddech *(týden volného času)* v civiliza
    1. **Celá skupina na jízdních ořích**: během přesunu urazí skupina až dvě pole *(20km)*.  
    2. **Přesun po cestě**: během přesunu po cestě pěšky nebo na ořích urazí skupina o jedno pole navíc *(+10km)*.  
    3. **Jízda kočárem nebo lodí**: skupina urazí za jednu fázi přesunu až celkem pět polí *(50km)*.
+
+# Družiníci a základny
+
+[Zpět na obsah](#obsah)
+
+1. Družiníci jsou vedlejší postavy, které asistují hlavní hráčské postavě *(ovládá je hráč)*.  
+   1. Každá hráčská postava může mít maximálně jednoho družiníka.  
+   2. Družiníci se počítají jako nehráčské postavy a okamžitě umírají při 0 žv.  
+   3. Družiníci nemají definované vlastnosti, na všechny hody s k20 se přidává pouze jejich úroveň a nebo CHA hráčské postavy, podle toho co je vyšší.  
+2. Typy družiníků: *(k6: 1-3: pomocník, 4-5: bojovník, 6: sesilatel)*  
+   1. **Pomocník** *(úr: 0, TZ: 10, k3 žv, dýka/kyj/prak: k4, unese 10 slotů)*  
+   2. **Bojovník** *(úr: 1, TZ: 13, k6 žv, kopí/meč/palcát: k6 \+ štít, unese 10 slotů)*  
+   3. **Sesilatel** *(úr: 0, TZ: 10, k3 žv, hůl: k4, akolyta/učeň, unese 10 slotů)*  
+      1. **Akolyta**: léčivý dotek OB 10 *(okamžitě, na dosah)*: vyléčí k4 žv, dokáže používat kněžské svitky a hůlky.  
+      2. **Učeň**: učňova střela OB 10 *(okamžitě, daleko)*: k4 magické poškození, dokáže používat kouzelnické svitky a hůlky.  
+3. Morálka družiníků:  
+   1. Když zemře a nebo upadne do bezvědomí půlka *(a víc)* skupiny, musí si hráčské postavy vedoucí družiníky hodit na morálku OB 15 CHA, při neúspěchu začne družiník panikařit a utíkat. Vypravěč může požadovat hod na morálku i v jiných stresujících situacích.  
+   2. Pokud hráč zneužívá družiníka a nebo mu odmítá zaplatit, vypravěč tajně hodí OB 15 *(+CHA hráčské postavy)*. Při neúspěchu družiník zradí skupinu.  
+   3. Pokud se v civilizaci rozkřikne, že hráčská skupina zneužívá družiníky, musí při najímání nových družiníku hráčská postava hodit OB 15 CHA, při neúspěchu se družiníci odmítají přidat ke skupině.
 
 [Zpět na obsah](#obsah)
