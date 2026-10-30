@@ -25,7 +25,7 @@ Verze 0.3.4 - příručka hráče.
 - Pohyb je až ***10m*** za kolo *(do blízké vzdálenosti)*, může být libovolně rozdělen. Při lezení, plavání a nebo v obtížném terénu se pohybuješ poloviční rychlostí *(zaokrouhluje se dolů).*
 - Skrze pozice spojenců se můžeš pohnout libovolně, u nepřátel je potřeba hod na sílu nebo obratnost.
 - Vzdálenosti jsou rozlišeny na tři skupiny: **na dosah**, **blízko** *(do 10 m)* a **daleko** *(na dohled, do ±100 m)*. 
-- Vypravěč může požadovat hod kostkou *(k20\+bonus),* když akce může mít negativní následky, vyžaduje zručnost a nebo když je postava tlačena časem. Standardně obtížnost je OB12.
+- Vypravěč může požadovat hod kostkou *(k20\+bonus),* když akce může mít negativní následky, vyžaduje zručnost a nebo když je postava tlačena časem. Standardně je obtížnost OB12.
 - Vlastnosti mají hodnotu, které se říká *bonus/modifikátor*, který se pak přidává k hodům kostkou *k20* a dalším schopnostem:  
   * Síla: útoky zblízka, nosnost a atletika.  
   * Obratnost: útoky na dálku, zlodějina a nenápadnost.  
@@ -38,9 +38,9 @@ Verze 0.3.4 - příručka hráče.
 - Při **útoku** se nejdřív hází na **trefu** *(k20\+bonus)*, pokud je výsledné číslo stejné a nebo větší jak obrana *(třída zbroje, TZ)* protivníka, útok **zraňuje** životy cíle, kostkou zbraně *(k4, k6, k8, k10, k12)*.
 - **Smrt a umírání**, při 0 životech upadá postava do bezvědomí a začne umírat. Vypravěč hodí *k4\+odolnost*, tolik kol zbývá postavě do smrti. Postava si každé kolo hodí čistě *k20*, při kritickém úspěchu se probouzí s jedním životem, jinak umírá dál.
   * Spojenci na dosah se mohou pokusit o **stabilizaci**: *(k20\+ inteligence)*, OB 15, při úspěchu zůstává postava v bezvědomí a na 0 životech, ale už neumírá. Při vyléčení alespoň jednoho životu se postava probouzí.
-  * Když postava upadne do bezvědomí *(0 životů)*, získá jednu jizvu, **jizva** zabírá jedno inventářové pole *(absolvuj léčebný pobyt v civilizaci k odstranění jizvy)*.
+  * Pokaždé když postava začně umírat *(0 životů)*, získá jednu jizvu, **jizva** zabírá jedno inventářové pole *(absolvuj léčebný pobyt v civilizaci k odstranění jizvy)*.
 - V temných stínech je potřeba mít **rozsvícené světlo**: pochodeň, lucerna a nebo kouzelné světlo vydrží **30 minut** **reálného času**. Temnota je smrtící *(nevýhody na všechno, monstra výhody)*.
-- **Iniciativa**, při začátku souboje si každý hodí *k20\+obratnost*,  ten s nejvyšší hodnotou začíná a po něm následuje hráč pro jeho levici *(po směru hodin kolem stolu)*.
+- **Iniciativa**, při začátku souboje si každý hodí *k20\+obratnost*, ten s nejvyšší hodnotou začíná a po něm následuje hráč pro jeho levici *(po směru hodin kolem stolu)*.
   * Při přepadení si překvapený hází na iniciativu s nevýhodou a útočník s výhodou.
   * Během průzkumu temných stínu *(podzemí)*, běží pevná iniciativa, při prvním spuštění časovače světla začne hráč, který rozsvítil a iniciativa pokračuje po směru hodinových ručiček kolem stolu, hráči si předávají štafetu *(třeba smotaný papír)*.
 - K úspěšnému **seslání kouzla** je třeba hodit **k20 \+ *bonus*** *(kouzelník INT, kněz MOU, bard CHA)*, obtížnost hodu je ***10 \+ třída kouzla***. Při kritickém neúspěchu u kouzelníka/barda dojde k magické nehodě, u kněze k nahněvaní božstva.
