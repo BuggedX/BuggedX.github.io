@@ -1,7 +1,7 @@
 # Temné stíny
 
 *Odlehčená stolní hra na hrdiny*.  
-Verze 0.3.5 - příručka hráče.
+Verze 0.3.6 - příručka hráče.
 
 ### Obsah
 
@@ -32,8 +32,8 @@ Verze 0.3.5 - příručka hráče.
    1. **Síla**: útoky zblízka, nosnost a atletika.  
    2. **Obratnost**: útoky na dálku, zlodějina a nenápadnost.  
    3. **Odolnost**: životy a houževnatost.  
-   4. **Inteligence**: znalosti a kouzelnictví.  
-   5. **Moudrost**: vnímání, přežití a kněžství.  
+   4. **Inteligence**: znalosti a magie.  
+   5. **Moudrost**: vnímání, přežití a víra.  
    6. **Charisma**: síla osobnosti a přesvědčování.
 8. Postava může získat vlivem schopnosti nebo fikční situace **výhodu** a nebo **nevýhodu** na určitou akci, v takovém případě se hodí dvěma kostkami a vybere se lepší výsledek/horší výsledek.
 9. **Kritický úspěch** je když na kostce *k20* padne čistých **20** *(před přičtením bonusu)*, u útoku a kouzel se zdvojnásobí počet kostek zranění *(nebo jiný numerický efekt)*. Při kritickém neúspěchu *(výsledek **1** na k20)* akce selže s extra konsekvencemi.
@@ -140,7 +140,7 @@ Verze 0.3.5 - příručka hráče.
 - **Jazyky navíc:** vyber si 3 obecné a 1 vzácný jazyk.
 - **Životy:** k6 za každou úroveň.
 - **Vybavení:** lehké a střední zbroje, bardské zbraně.
-- **Talent(k6):** **1-2**: *\[+1 k libovolné vlastnosti\]*, **3**: *\[+1 k útokům a nebo \+1 k seslání kouzel\]*, **4**: *\[inspirace a nebo výsměch je OB9\]*, **5**: *\[užitečný známý v civilizaci\]*, **6**: *\[změň kritický neúspěch na kritický úspěch, jednou za odpočinek\]*.
+- **Talent(k6):** **1-2**: *\[+1 k libovolné vlastnosti\]*, **3**: *\[+1 k útokům a nebo \+1 k seslání kouzel\]*, **4**: *\[inspirace a nebo výsměch je OB9\]*, **5**: *\[+1 k maximu družiníků\]*, **6**: *\[změň kritický neúspěch na kritický úspěch, jednou za odpočinek\]*.
 
 #### 6. **Zloděj**  
 - **Skrytý útok:** přidej 1+½ tvé úrovně kostek zranění k hodům na zranění proti bytosti, která o tvém útoku neví *(zaokrouhlení dolů, skrývej se v boji)*.
@@ -212,7 +212,7 @@ Verze 0.3.5 - příručka hráče.
 *Zloděj*
 - **Špeh**: zabýval ses získáváním a předáváním informací, máš falešné dokumenty.
 - **Tulák**: putoval jsi krajem a dělal jsi co zrovna šlo, máš cestovní plášť.
-- **Zločinec**: živil ses nelegální činností, máš tetování.
+- **Zločinec**: živil ses nelegální činností, máš tetování zlodějského cechu.
 
 Drobné předměty získané ze zázemí jsou zdarma k nošení.
 *Po domluvě s vypravěčem si můžeš vytvořit vlastní zázemí, např.: námořník, farmář*
@@ -560,7 +560,7 @@ Učení fint trvá jeden oddech *(týden volného času)*. Fintu se můžou post
 
 - **Protiúder štítem**: jednou za kolo, když máš štít a nepřítel tě netrefí útokem zblízka, můžeš provést protiúder štítem k4, přes SIL.
 
-- **Roztříštění štítu**: pokud umíš používat štíty a máš nasazený štít, můžeš štít jako reakci na příchozí poškození roztříštit a tak pohltit celé poškození jednoho útoku. Nasazení nového štítu z inventáře trvá jednu akci.
+- **Vyztužené tělo**: uneseš víc věcí, \+3 inventářové sloty.
 
 #### Finty OBRATNOST
 
@@ -574,7 +574,7 @@ Učení fint trvá jeden oddech *(týden volného času)*. Fintu se můžou post
 
 #### Finty ODOLNOST
 
-- **Vyztužené tělo**: uneseš víc věcí, \+3 inventářové sloty.
+- **Roztříštění štítu**: pokud umíš používat štíty a máš nasazený štít, můžeš štít jako reakci na příchozí poškození roztříštit a tak pohltit celé poškození jednoho útoku. Nasazení nového štítu z inventáře trvá jednu akci.
 
 - **Tuhý kořínek**: tvůj časovač smrti je k6+odolnost *(místo standardních k4+odolnost)*, při hodu na smrt se stabilizuješ při výsledku 18-19.
 
