@@ -19,44 +19,49 @@ Verze 0.3.5 - příručka hráče.
 
 [7. Cestování po světě](#cestování-po-světě)
 
+[8. Družiníci](#družiníci)
+
 ## Přehled pravidel
-- Každá postava ve svém kole může udělat akci a pohyb.
-- Akce může být například: útok, seslání kouzla, sprint *(další pohyb)*, použití předmětu, manévr a nebo kombinace drobných akcí.
-- Pohyb je až ***10m*** za kolo *(do blízké vzdálenosti)*, může být libovolně rozdělen. Při lezení, plavání a nebo v obtížném terénu se pohybuješ poloviční rychlostí *(zaokrouhluje se dolů).*
-- Skrze pozice spojenců se můžeš pohnout libovolně, u nepřátel je potřeba hod na sílu nebo obratnost.
-- Vzdálenosti jsou rozlišeny na tři skupiny: **na dosah**, **blízko** *(do 10 m)* a **daleko** *(na dohled, do ±100 m)*. 
-- Vypravěč může požadovat hod kostkou *(k20\+bonus),* když akce může mít negativní následky, vyžaduje zručnost a nebo když je postava tlačena časem. Standardně je obtížnost OB12.
-- Vlastnosti mají hodnotu, které se říká *bonus/modifikátor*, který se pak přidává k hodům kostkou *k20* a dalším schopnostem:  
-  * Síla: útoky zblízka, nosnost a atletika.  
-  * Obratnost: útoky na dálku, zlodějina a nenápadnost.  
-  * Odolnost: životy a houževnatost.  
-  * Inteligence: znalosti a kouzelnictví.  
-  * Moudrost: vnímání, přežití a kněžství.  
-  * Charisma: síla osobnosti a přesvědčování.
-- Postava může získat vlivem schopnosti nebo fikční situace **výhodu** a nebo **nevýhodu** na určitou akci, v takovém případě se hodí dvěma kostkami a vybere se lepší výsledek/horší výsledek.
-- **Kritický úspěch** je když na kostce *k20* padne čistých **20** *(před přičtením bonusu)*, u útoku a kouzel se zdvojnásobí počet kostek zranění *(nebo jiný numerický efekt)*. Při kritickém neúspěchu *(výsledek **1** na k20)* akce selže s extra konsekvencemi.
-- Při **útoku** se nejdřív hází na **trefu** *(k20\+bonus)*, pokud je výsledné číslo stejné a nebo větší jak obrana *(třída zbroje, TZ)* protivníka, útok **zraňuje** životy cíle, kostkou zbraně *(k4, k6, k8, k10, k12)*.
-- **Smrt a umírání**, při 0 životech upadá postava do bezvědomí a začne umírat. Vypravěč hodí *k4\+odolnost*, tolik kol zbývá postavě do smrti. Postava si každé kolo hodí čistě *k20*, při kritickém úspěchu se probouzí s jedním životem, jinak umírá dál.
-  * Spojenci na dosah se mohou pokusit o **stabilizaci**: *(k20\+ inteligence)*, OB 15, při úspěchu zůstává postava v bezvědomí a na 0 životech, ale už neumírá. Při vyléčení alespoň jednoho životu se postava probouzí.
-  * Pokaždé když postava začně umírat *(0 životů)*, získá jednu jizvu, **jizva** zabírá jedno inventářové pole *(absolvuj léčebný pobyt v civilizaci k odstranění jizvy)*.
-- V temných stínech je potřeba mít **rozsvícené světlo**: pochodeň, lucerna a nebo kouzelné světlo vydrží **30 minut** **reálného času**. Temnota je smrtící *(nevýhody na všechno, monstra výhody)*.
-- **Iniciativa**, při začátku souboje si každý hodí *k20\+obratnost*, ten s nejvyšší hodnotou začíná a po něm následuje hráč pro jeho levici *(po směru hodin kolem stolu)*.
-  * Při přepadení si překvapený hází na iniciativu s nevýhodou a útočník s výhodou.
-  * Během průzkumu temných stínu *(podzemí)*, běží pevná iniciativa, při prvním spuštění časovače světla začne hráč, který rozsvítil a iniciativa pokračuje po směru hodinových ručiček kolem stolu, hráči si předávají štafetu *(třeba smotaný papír)*.
-- K úspěšnému **seslání kouzla** je třeba hodit **k20 \+ *bonus*** *(kouzelník INT, kněz MOU, bard CHA)*, obtížnost hodu je ***10 \+ třída kouzla***. Při kritickém neúspěchu u kouzelníka/barda dojde k magické nehodě, u kněze k nahněvaní božstva.
-- Kouzla je možné **sesílat opakovaně** tak dlouho, dokud nedojde k selhání. **Selhané/vyčerpané kouzlo** se obnoví při řádném odpočinku.
-- **Kouzelný svitek** je zničen při použití bez ohledu na úspěch, **kouzelná hůlka** je při normálním neúspěchu vybita a během řádného odpočinku se nabije. Při kritickém neúspěchu je hůlka zničena.
-- Některá kouzla vyžadují **soustředění**, postava se může soustředit jen na jedno kouzlo vyžadující soustředění. Na začátku každého kola a při rozptýlení si musí sesilatel hodit na soustředění *(normální hod na seslání kouzla)*.
-- **Štěstí** umožňuje hráči přehodit jeden hod jeho kostkou. Každé sezení začíná každý hráč s jedním štěstím, každý může mít jen maximálně jedno aktivní štěstí.
-- Zkušenosti se získávají dotáhnutím pokladů do civilizace, za každých 100 zl hodnoty pokladu získá skupina 1 zkušenost.
-- Na další úroveň postavy potřebuješ *(10 * aktuální úroveň)* zkušeností.
+1. Každá postava ve svém kole může udělat akci a pohyb.
+2. Akce může být například: útok, seslání kouzla, sprint *(další pohyb)*, použití předmětu, manévr a nebo kombinace drobných akcí.
+3. Vzdálenosti jsou rozlišeny na tři skupiny: **na dosah**, **blízko** *(do 10 m)* a **daleko** *(na dohled, do ±100 m)*. 
+4. Pohyb je až ***10m*** za kolo *(do blízké vzdálenosti)*, může být libovolně rozdělen. Při lezení, plavání a nebo v obtížném terénu se pohybuješ poloviční rychlostí *(zaokrouhluje se dolů).*
+5. Skrze pozice spojenců se můžeš pohnout libovolně, u nepřátel je potřeba hod na sílu nebo obratnost.
+6. Vypravěč může požadovat hod kostkou *(k20\+bonus),* když akce může mít negativní následky, vyžaduje zručnost a nebo když je postava tlačena časem. Standardně je obtížnost OB12.
+7. Vlastnosti mají hodnotu, které se říká *bonus*, který se pak přidává k hodům kostkou *k20* a dalším schopnostem:  
+   1. **Síla**: útoky zblízka, nosnost a atletika.  
+   2. **Obratnost**: útoky na dálku, zlodějina a nenápadnost.  
+   3. **Odolnost**: životy a houževnatost.  
+   4. **Inteligence**: znalosti a kouzelnictví.  
+   5. **Moudrost**: vnímání, přežití a kněžství.  
+   6. **Charisma**: síla osobnosti a přesvědčování.
+8. Postava může získat vlivem schopnosti nebo fikční situace **výhodu** a nebo **nevýhodu** na určitou akci, v takovém případě se hodí dvěma kostkami a vybere se lepší výsledek/horší výsledek.
+9. **Kritický úspěch** je když na kostce *k20* padne čistých **20** *(před přičtením bonusu)*, u útoku a kouzel se zdvojnásobí počet kostek zranění *(nebo jiný numerický efekt)*. Při kritickém neúspěchu *(výsledek **1** na k20)* akce selže s extra konsekvencemi.
+10. Při **útoku** se nejdřív hází na **trefu** *(k20\+bonus)*, pokud je výsledné číslo stejné a nebo větší jak obrana *(třída zbroje, TZ)* protivníka, útok **zraňuje** životy cíle, kostkou zbraně *(k4, k6, k8, k10, k12)*.
+11. **Smrt a umírání**, při 0 životech upadá postava do bezvědomí a začne umírat. Vypravěč hodí *k4\+odolnost*, tolik kol zbývá postavě do smrti. Postava si každé kolo hodí čistě *k20*, při kritickém úspěchu se probouzí s jedním životem, jinak umírá dál.
+    1. Spojenci na dosah se mohou pokusit o **stabilizaci**: *(k20\+ inteligence)*, OB 15, při úspěchu zůstává postava v bezvědomí a na 0 životech, ale už neumírá. Při vyléčení alespoň jednoho životu se postava probouzí.
+    2. Pokaždé když postava začně umírat *(0 životů)*, získá jednu jizvu, **jizva** zabírá jedno inventářové pole *(absolvuj léčebný pobyt v civilizaci k odstranění jizvy)*.
+12. V temných stínech *(podzemí)* je potřeba mít **rozsvícené světlo**: pochodeň, lucerna a nebo kouzelné světlo vydrží **30 minut** **reálného času**. Temnota je smrtící *(nevýhody na všechno, monstra výhody)*.
+13. **Iniciativa**, při začátku souboje si každý hodí *k20\+obratnost*, ten s nejvyšší hodnotou začíná a po něm následuje hráč pro jeho levici *(po směru hodin kolem stolu)*.
+    1. Při přepadení si překvapený hází na iniciativu s nevýhodou a útočník s výhodou.
+    2. Během průzkumu temných stínu *(podzemí)*, běží pevná iniciativa, při prvním spuštění časovače světla začne hráč, který rozsvítil a iniciativa pokračuje po směru hodinových ručiček kolem stolu, hráči si předávají štafetu *(třeba smotaný papír)*.
+14. K úspěšnému **seslání kouzla** je třeba hodit **k20 \+ *bonus*** *(kouzelník INT, kněz MOU, bard CHA)*, obtížnost hodu je ***10 \+ třída kouzla***. Při kritickém neúspěchu u kouzelníka/barda dojde k magické nehodě, u kněze k nahněvaní božstva.
+15. Kouzla je možné **sesílat opakovaně** tak dlouho, dokud nedojde k selhání. **Selhané/vyčerpané kouzlo** se obnoví při řádném odpočinku.
+16. **Kouzelný svitek** je zničen při použití bez ohledu na úspěch, **kouzelná hůlka** je při normálním neúspěchu vybita a během řádného odpočinku se nabije. Při kritickém neúspěchu je hůlka zničena.
+17. Některá kouzla vyžadují **soustředění**, postava se může soustředit jen na jedno kouzlo vyžadující soustředění. Na začátku každého kola a při rozptýlení si musí sesilatel hodit na soustředění *(normální hod na seslání kouzla)*.
+18. **Štěstí** umožňuje hráči přehodit jeden hod jeho kostkou. Každé sezení začíná každý hráč s jedním štěstím, každý může mít jen maximálně jedno aktivní štěstí.
+    1. Smůla: štěstí nelze využít na kritické neúspěchy *(hod 1 na k20)*.
+19. Zkušenosti se získávají dotáhnutím pokladů do civilizace, za každých 100 zl hodnoty pokladu získá skupina 1 zkušenost.
+20. Na další úroveň postavy potřebuješ *(10 * aktuální úroveň)* zkušeností.
+    1. Zkušenosti se po dosažení nové úrovně vynulují.
+    2. Při postupu na novou úroveň získá postava další kostku životů *(hoď a vypočítej nové maximální životy)*. Na úrovních 1, 3, 5, 7, 9: získá postava nový talent *(hoď si dle tabulky povolání)*. Na úrovních 2, 4, 6, 8, 10: získá postava možnost naučit se novou fintu.
 
 ### Co je známé?
 
-- V království jsou nejpočetnější lidé, po nich následují trpaslíci a pak elfové. Ostatní rasy jsou početně zanedbatelné. Zelenokožci *(orkové a goblini)* nejsou v civilizovaných městech vítáni.
-- Království je obklopeno nehostinnými ledovými pustinami na severu, pouštěmi a horami na západě, divokou džunglí na jihu a inkoustovým mořem na východě.
+- V říši jsou nejpočetnější lidé, po nich následují trpaslíci a pak elfové. Ostatní rasy jsou početně zanedbatelné. Zelenokožci *(orkové a goblini)* nejsou v civilizovaných městech vítáni.
+- Říše je obklopena nehostinnými ledovými pustinami na severu, pouštěmi a horami na západě, divokou džunglí na jihu a inkoustovým mořem na východě.
 - Pomalu se začínají rozvíjet metody střelného prachu, parních strojů a vzducholodí, které kombinují magii a technologii.
-- Život mimo civilizovaná města je nebezpečný, na cestách číhají bandité a divočinou se potulují zlá monstra. Velké části království jsou stále neprobádané.
+- Život mimo civilizovaná města je nebezpečný, na cestách číhají bandité a divočinou se potulují zlá monstra.
 - Magie je nepředvídatelná a obyčejní lidé nemají důvěru v čaroděje, nepovedená kouzla tě mohou spálit na prach.
 - Bohové jsou nepřítomni a obvykle se nevměšují do záležitostí smrtelníků. Jen pár divných kněží stále dokáže využít jejich božskou sílu. 
 - Na světě je také nespočet démonů, nadpřirozených sil a bytostí, kterým se obecně říká patroni. Patroni se nerovnají v jejich síle opravdovým bohům, zato jsou aktivnější a rádi propůjčují svou moc smrtelníkům výměnou za služby a oběti.
@@ -129,7 +134,7 @@ Verze 0.3.5 - příručka hráče.
 #### 5. **Bard**  
 - **Magický amatér:** můžeš používat všechny svitky a hůlky, seslání přes charisma, při hodu 1 způsobíš kouzelnickou nehodu.
 - **Inspirace:** hoď charisma OB12, jeden blízký cíl získá inspiraci *(\+k6 k hodům s k20)*, při neúspěchu vyčerpání. Každý max jedna kostka inspirace.
-- **Zlomyslný výsměch**: OB12 charisma, blízký cíl ti musí rozumnět. *(\[½ úr (min1)\]\*k4)* psychického poškození a cíl má nevýhodu na další hod.  
+- **Zlomyslný výsměch**: OB12 charisma, blízký cíl ti musí rozumnět. *(\[½ úr\]\*k4)* psychického poškození a cíl má nevýhodu na další hod.  
 - **Muzikant**: máš hudební nástroj *(zdarma k nošení)*. 
 - **Bardský um:** výhody při hodech na řečnění, umění, hudbu, svádění, znalostech a diplomacii.
 - **Jazyky navíc:** vyber si 3 obecné a 1 vzácný jazyk.
@@ -614,7 +619,7 @@ při neúspěchu vyčerpání *(obnoví se po odpočinku)*.
 
 - **Jít příkladem**: když zasáhneš nepřítele útokem, můžeš okamžitě hodit OB 12 CHA, při úspěchu bude jeden další útok tvého spojence proti cíli s výhodou *(při neúspěchu vyčerpání)*.
 
-### Volnočasové aktivity
+## Volnočasové aktivity
 
 Volnočasové aktivity trvají jeden oddech *(týden volného času)* v civilizaci.
 
@@ -663,7 +668,7 @@ Volnočasové aktivity trvají jeden oddech *(týden volného času)* v civiliza
    2. **Přesun po cestě**: během přesunu po cestě pěšky nebo na ořích urazí skupina o jedno pole navíc *(+10km)*.  
    3. **Jízda kočárem nebo lodí**: skupina urazí za jednu fázi přesunu až celkem pět polí *(50km)*.
 
-# Družiníci a základny
+## Družiníci
 
 [Zpět na obsah](#obsah)
 
