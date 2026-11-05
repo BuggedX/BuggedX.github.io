@@ -1,7 +1,7 @@
 # Temné stíny
 
 *Odlehčená stolní hra na hrdiny*.  
-Verze 0.3.6 - příručka hráče.
+Verze 0.3.7 - příručka hráče.
 
 ### Obsah
 
@@ -695,6 +695,8 @@ Volnočasové aktivity trvají jeden oddech *(týden volného času)* v civiliza
 
 ```
 
+` ` `
+
 - Jméno: 
 - Povolání: 
 - Rasa: 
@@ -748,6 +750,8 @@ Inventář:
 - Popis:
 
 - Poznámky:
+
+` ` `
 
 ```
 
