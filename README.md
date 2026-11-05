@@ -78,21 +78,22 @@ Verze 0.3.6 - příručka hráče.
 
 [Zpět na obsah](#obsah)
 
-1. Vyber si povolání *(viz [povolání](#povolání))*.  
-2. Vyber si rasu *(viz [rasy](#rasy))*.  
-3. Vyber si zázemí *(viz [zázemí](#zázemí))*.  
-4. Vyber si jazyky *(rasa, povolání, zohledni zázemí, viz [jazyky](#jazyky))*.  
-5. Vyber si přesvědčení *(zákonný/neutrální/chaotický)* a případně božstvo *(viz [Božstva a přesvědčení](#božstva-a-přesvědčení))*.  
-6. Rozřaď si body vlastností: *(síla/obratnost/odolnost/inteligence/moudrost/charisma)*  
+0. Připrav si **deník postavy** *([vzor deníku postavy](#vzor-deníku-postavy))*.
+1. Vyber si **povolání** *(viz [povolání](#povolání))* a zaznač si schopnosti tvého povolání.  
+   1. Kněz: vyber si božstvo a přesvědčení *(viz [Božstva a přesvědčení](#božstva-a-přesvědčení))*. Vyber si dvě standardní kněžské inkantace *([kouzla]((#kněžská-kouzla-t1)))* a zaznač si jednu extra inkantaci *([kouzlo](#extra-kněžská-kouzla-od-božstva-t1))* od tvého božstva.  
+   2. Kouzelník: vyber si tři [kouzelnická kouzla třídy T1](#kouzelnická-kouzla-t1), které máš vyzkoumané a zapsané ve svém grimoáru.  
+3. Vyber si **rasu** *(viz [rasy](#rasy))* a zaznač schopnost tvé rasy.  
+4. Vyber si **zázemí** *(viz [zázemí](#zázemí))*.  
+5. Vyber si **jazyky** *(rasa, povolání, zohledni zázemí, viz [jazyky](#jazyky))*.
+6. Rozřaď si body **vlastností**: *(síla/obratnost/odolnost/inteligence/moudrost/charisma)*  
    1. Každý má 5 bodů na rozdělení *(kontrolní součet musí být vždy 5).*  
    2. Maximum v jedné vlastnosti při tvorbě postavy je \+3.  
    3. Limit smrtelníků je \+5.  
-7. Hoď si na životy *(kostka povolání)* a pak přidej životy z odolnosti *(pouze na první úrovni)*.  
-8. Hoď si na talent svého povolání *(talent získáváš na lichých úrovních 1, 3, 5, 9)*.  
-9. Hoď si na zlaťáky *(2k6 \* 5 zlatých)* a zjisti nosnost své postavy *(10+síla slotů, u válečníka ještě \+odolnost)*.  
-10. Kup si vybavení *(viz [vybavení](#vybavení))* a vypočítej svou třídu zbroje *(TZ 10+obratnost a nebo nasazená zbroj+obratnost).*  
-11. Vyber si kouzla *(pokud je má tvé povolání, viz [kouzla](#kouzla)).*  
-12. Popiš svůj vzhled, zaznač svůj znak a jméno.
+7. Zapiš si **životy** ŽV *(na první úrovni maximum na tvé kostce povolání)* a pak přidej extra životy z odolnosti *(pouze na první úrovni)*.  
+8. Hoď si na **talent** svého povolání *(talent získáváš na lichých úrovních 1, 3, 5, 9)*.
+9. Hoď si na **zlaťáky** *(2k6 \* 5 zlatých)* a zjisti **nosnost** své postavy *(10+síla slotů, u válečníka ještě \+odolnost)*.  
+10. Kup si **vybavení** *(viz [vybavení](#vybavení))* a vypočítej svou **třídu zbroje** TZ *(TZ 10+obratnost a nebo nasazená zbroj+obratnost).*  
+11. Popiš svůj vzhled, zaznač svůj znak a jméno.
 
 ### Povolání
 
@@ -441,7 +442,7 @@ Drobné předměty získané ze zázemí jsou zdarma k nošení.
 
 1. **Výbuch**: ty a všichni tvorové v blízké vzdálenosti dostanou 2k8 magického poškození.  
 2. **Vypaření**: vypaří se ti k4 náhodných věcí z inventáře *(k20 k určení, které sloty se vypařily, při prázdném slotu hoď znovu)*.  
-3. **Mágo-mutace**: náhodná vlastnost ti padne na **\-4** *(k6 k určení vlastnosti, po odpočinku se vrátí zpět)*.  
+3. **Mágo-mutace**: náhodná vlastnost ti padne na **\-5** *(k6 k určení vlastnosti, po odpočinku se vrátí zpět)*.  
 4. **Zkamenění**: k4 tvých končetin zkamení do dalšího odpočinku *(nohy mají přednost, bez ruky nemůžeš sesílat kouzla)*.  
 5. **Posednutí**: tvé tělo se pokusí ovládnout zlomyslná entita z jiné dimenze OB 15 charisma na vypuzení *(na začátku kola)*.  
 6. **Fázový posun**: na 10 kol, považuj neúspěšné seslání kouzla za další kouzelnou nehodu.
@@ -686,5 +687,68 @@ Volnočasové aktivity trvají jeden oddech *(týden volného času)* v civiliza
    1. Když zemře a nebo upadne do bezvědomí půlka *(a víc)* skupiny, musí si hráčské postavy vedoucí družiníky hodit na morálku OB 15 CHA, při neúspěchu začne družiník panikařit a utíkat. Vypravěč může požadovat hod na morálku i v jiných stresujících situacích.  
    2. Pokud hráč zneužívá družiníka a nebo mu odmítá zaplatit, vypravěč tajně hodí OB 15 *(+CHA hráčské postavy)*. Při neúspěchu družiník zradí skupinu.  
    3. Pokud se v civilizaci rozkřikne, že hráčská skupina zneužívá družiníky, musí při najímání nových družiníku hráčská postava hodit OB 15 CHA, při neúspěchu se družiníci odmítají přidat ke skupině.
+
+## Vzor deníku postavy
+[Zpět na obsah](#obsah)
+
+[Zpět na tvorbu postavy](#tvorba-postavy)
+
+```
+
+- Jméno: 
+- Povolání: 
+- Rasa: 
+- Zázemí: 
+- Úroveň: 
+
+1. Síla: +0
+2. Obratnost: +0
+3. Odolnost: +0
+4. Inteligence: +0
+5. Moudrost: +0
+6. Charisma: +0
+
+- Zkušenosti: 0/10
+
+- TZ:
+
+- Max ŽV: 
+
+- Rasové schopnosti:
+
+- Schopnosti povolání:
+
+- Jazyky: obecný
+
+- Talenty
+  1. XXX
+
+- Kouzla T1 
+  1. XXX 
+  2. XXX 
+  3. XXX 
+
+- Zlato v měšci: 0/100
+- Zlato v trezoru: 0
+
+Inventář:
+1. X
+2. X
+3. X
+4. X
+5. X
+6. X
+7. X
+8. X
+9. X
+10. X
+
+- Věci volně k nošení:
+
+- Popis:
+
+- Poznámky:
+
+```
 
 [Zpět na obsah](#obsah)
