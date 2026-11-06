@@ -369,24 +369,20 @@ Drobné předměty získané ze zázemí jsou zdarma k nošení.
 
 - **Detekce magie**: \[soustředění, blízko\], cítíš přítomnost blízké magie, po dvou kolech rozeznáš obecné vlastnosti.  
 - **Hořící ruce**: \[okamžité, blízko\], vychrlíš kužel plamene do blízké oblasti, všichni v oblasti dostanou k6 poškození, hořlavé předměty se vznítí.  
+- **Jedovatý výstřik**: \[okamžitě, blízko\], zasažený cíl dostane k4 magického poškození a je otrávený (odolnost vs hod seslání, nevýhody hody s k20).  
+- **Kouzelnická zbraň**: \[8 kol, na sebe\], tvá hůl způsobuje k6 magického poškození a útočíš s ní pomocí sesílacího bonusu.  
 - **Levitující disk**: \[8 kol, blízko\], vytvoř disk, který unese až 20 slotů vybavení po dobu 8 kol. Nedokáže překonávat propasti.  
 - **Magická střela**: \[okamžité, daleko\], vystřelíš zářící střelu magické energie, cíl dostane k6 magického poškození.  
-- **Mágova zbroj**: \[8 kol, na sebe\], průhledná vrstva energie chrání tvé tělo, tvá TZ je 14 (18 při kritickém úspěchu).  
+- **Mágova zbroj**: \[8 kol, na sebe\], průhledná vrstva energie chrání tvé tělo, tvá TZ je 15 (20 při kritickém úspěchu).  
+- **Nemrtvost**: \[soustředění, na dosah\], ostatky povstanou jako umrlec TZ: 10, ŽV: 3, útk \+0 k4, pak se rozpadnou na prach.  
 - **Očarování osoby**: \[8 dní, blízko\], jeden blízký humanoid úrovně 2 a nižší, k tobě bude přátelský po 8 dní nebo dokud mu ty a nebo tví spojenci neublíží. Po skončení si je cíl vědom toho, že byl očarován.  
 - **Pomalý pád**: \[okamžité *(reakce na pád)*, na sebe\], rychlost tvého pádu se okamžitě zpomalí, dokud bezpečně nepřistaneš.  
 - **Poplach**: \[8 hodin, na dosah\], dotkni se předmětu a po dobu trvání budeš vědět, pokud se k němu přiblíží jiný než vybraný tvor.  
 - **Spánek**: \[okamžité, blízko\], živí tvorové v blízké oblasti okamžitě usnou pokud jsou úrovně 2 a nižší. Probudí se pokud jsou zraněni a nebo je s nimi zatřeseno.  
 - **Světlo**: \[30 minut, na dosah\], jeden předmět začne svítit jasným světlem na blízkou vzdálenost.  
-
-##### **Extra volitelná kouzelnická kouzla dle přesvědčení T1:** 
-
-*(Zákonný, Neutrální, Chaotický)*  
-- *Z*: **Zapečetit**: \[8 kol, blízko\], zavřeš jeden průchod, k otevření musí tvor silou přehodit tvůj hod na seslání.  
-- *Z*: **Kouzelnická zbraň**: \[8 kol, na sebe\], tvá hůl způsobuje k6 magického poškození a útočíš s ní pomocí sesílacího bonusu.  
-- *N*: **Vzduch**: \[8 kol, na sebe\], vzduchová bublina kolem hlavy ti umožňuje dýchat v nehostinných podmínkách.  
-- *N*: **Oxidace**: \[okamžitě, na dosah\], neživý předmět až do velikosti koně zestárne o 100 let.  
-- *Ch*: **Nemrtvost**: \[soustředění, na dosah\], ostatky povstanou jako umrlec TZ: 10, ŽV: 5, útk \+1 k4, pak se rozpadnou na prach.  
-- *Ch*: **Jedovatý výstřik**: \[okamžitě, blízko\], zasažený cíl dostane k4 magického poškození a je otrávený (odolnost vs hod seslání, nevýhody hody s k20).  
+- **Vzduch**: \[8 kol, na sebe\], vzduchová bublina kolem hlavy ti umožňuje dýchat v nehostinných podmínkách.  
+- **Zapečetit**: \[8 kol, blízko\], zavřeš jeden průchod, k otevření musí tvor silou přehodit tvůj hod na seslání.  
+- **Zestárnutí**: \[okamžitě, na dosah\], neživý předmět až do velikosti koně zestárne o 100 let.  
 
 ##### **Kouzelnické nehody k6 T1:**
 
@@ -416,27 +412,24 @@ Drobné předměty získané ze zázemí jsou zdarma k nošení.
 
 [Zpět na kouzla](#kouzla)
 
-- **Čtení myšlenek**: \[soustředění, blízko\], nakoukneš do mysli tvora, kterého vidíš v dosahu. Každé kolo zjistíš aktuální myšlenky, tvor si ve svém tahu hodí na moudrost vs hod seslání kouzla, při úspěchu si uvědomí tvou přítomnost v mysli a kouzlo končí.  
+- **Arkánová baráž**: \[okamžité, daleko\], vystřelíš 3 malé magické střely zraňující za k4, cíl a nebo cíle musí být určeny před poškozením.  
+- **Agonie**: \[soustředění, daleko\], tvor kterého vidíš, úrovně 5 a nižší je přemožen agonizující bolestí. Cíl musí v jeho tahu uspět v odolnosti vs hod kouzla *(poslední soustředění)*, při neúspěchu se nemůže pohybovat ani dělat žádné akce.  
+- **Čtení myšlenek**: \[soustředění, blízko\], nakoukneš do mysli tvora, kterého vidíš v dosahu. Každé kolo zjistíš aktuální myšlenky, tvor si ve svém tahu hodí na moudrost vs hod seslání kouzla, při úspěchu si uvědomí tvou přítomnost v mysli a kouzlo končí.
+- **Fantom**: \[okamžité, blízko\], v mysli tvora úrovně 3 a nižší vytvoříš iluze jeho nejtemnějších nočních můr, cíl musí okamžitě ověřit svou morálku, při neúspěchu uteče nebo se vzdá *(OB15 moudrost)*.
 - **Kyselinový šíp**: \[soustředění, daleko\], vystřelíš magickou korozivní střelu, způsobí k6 poškození a pak každé kolo dalších k6.  
 - **Levitace**: \[soustředění, na sebe\], začneš se vznášet a každé kolo se svým pohybem můžeš pohnout vertikálně *(nahoru a dolu)*, k horizontálnímu pohybu se musíš odrazit od pevného předmětu.  
+- **Magnet**: \[8 kol, na dosah\], jeden předmět o maximální velikosti koně se stane magnetickým a přitahuje k sobě menší magnetické objekty v blízkosti. Pokud se objekt může pohybovat, je přitáhnut k většímu magnetickému objektu v blízkosti. Tvorové *(z kovu nebo s kovovou zbrojí)* musí hodit na sílu vs hod kouzla k odolání přitáhnutí.  
 - **Mlžný krok**: \[okamžité, blízko\], ztratíš se v obláčku kouře a odteleportuješ se na volné místo až do blízké vzdálenosti.  
 - **Neviditelnost**: \[8 kol, na dosah\], tvor kterého se dotkneš se zneviditelní, skončí předčasně, když cíl zaútočí nebo kouzlí.  
-- **Pavučina**: \[8 kol, daleko\], vytvoříš hustou pavučinou krychli o velikosti blízké oblasti v dohledu, chycený tvor musí uspět na sílu vs hod kouzla, jinak je uvězněn *(žádný pohyb, nevýhody na všechny akce kromě vyproštění*).  
+- **Pavučina**: \[8 kol, daleko\], vytvoříš hustou pavučinou krychli o velikosti blízké oblasti v dohledu, chycený tvor musí uspět na sílu vs hod kouzla, jinak je uvězněn *(žádný pohyb, nevýhody na všechny akce kromě vyproštění*). 
+- **Spalující paprsek**: \[okamžité, daleko\], vystřelíš paprsek, který dává 2k6 magického poškození a zapaluje hořlavé předměty. 
+- **Tahej nebo Tlač**: \[okamžité, blízko\], pohneš předmětem o maximální velikosti člověka a nebo tvorem úrovně 4 a nižší o blízkou vzdálenost, jestli je cíl ukotvený tak, že s ním nelze volně pohybovat, tak je seslání kouzla OB18. 
 - **Ticho**: \[soustředění, daleko\], magická krychle o velikosti blízké oblasti, všichni uvnitř ohluchnou a nemůžou udělat žádný zvuk.  
 - **Zadrž osobu**: \[soustředění, blízko\], magicky paralyzuješ osobu *(humanoida)* úrovně 4 a nižší, kterou vidíš, v aktuální pozici.  
 - **Zafixovat předmět**: \[8 kol, na dosah\], předmět o váze maximálně 2,5kg zůstane zafixovaný v aktuální pozici, unese max 2500kg.  
 - **Zaklepání**: \[okamžité, blízko\], s velmi hlasitým bouchnutím se otevřou jedny zavřené dveře, brána, poklop a nebo truhla. Překoná všechny nemagické zámky a bariéry. Přebije kouzlo zapečetit.  
 - **Změň svou podobu**: \[8 kol, na sebe\], libovolně změníš svou podobu *(výška, šířka, rasa, hlas, rysy)* a vzhled oblečení/vybavení.  
 - **Zrcadlové obrazy**: \[8 kol, na sebe\], vytvoříš iluze svých duplikátů *(počet: ½ tvé úrovně, zaokrouhleno dolů)*, duplikáty tě obklopí a napodobují. Útok proti tobě automaticky netrefí a jeden duplikát zmizí. Po zmizení posledního duplikátu kouzlo končí.  
-
-##### **Extra volitelná kouzelnická kouzla dle přesvědčení T2:**  
-
-- Z: **Arkánová baráž**: \[okamžité, daleko\], vystřelíš 3 malé magické střely zraňující za k4, cíle musí být určeny před poškozením.  
-- Z: **Tahej nebo Tlač**: \[okamžité, blízko\], pohneš předmětem o maximální velikosti člověka a nebo tvorem úrovně 4 a nižší o blízkou vzdálenost, jestli je cíl ukotvený tak, že s ním nelze volně pohybovat, tak je seslání kouzla OB18.  
-- N: **Magnet**: \[8 kol, na dosah\], jeden předmět o maximální velikosti koně se stane magnetickým a přitahuje k sobě menší magnetické objekty v blízkosti. Pokud se objekt může pohybovat, je přitáhnut k většímu magnetickému objektu v blízkosti. Tvorové *(z kovu nebo s kovovou zbrojí)* musí hodit na sílu vs hod kouzla k odolání přitáhnutí.  
-- N: **Spalující paprsek**: \[okamžité, daleko\], vystřelíš paprsek, který dává 2k6 magického poškození a zapaluje hořlavé předměty.  
-- Ch: **Agonie**: \[soustředění, daleko\], tvor kterého vidíš, úrovně 5 a nižší je přemožen agonizující bolestí. Cíl musí v jeho tahu uspět v odolnosti vs hod kouzla *(poslední soustředění)*, při neúspěchu se nemůže pohybovat ani dělat žádné akce.   
-- Ch: **Fantom**: \[okamžité, blízko\], v mysli tvora úrovně 3 a nižší vytvoříš iluze jeho nejtemnějších nočních můr, cíl musí okamžitě ověřit svou morálku, při neúspěchu uteče nebo se vzdá *(OB15 moudrost)*.
 
 ##### **Kouzelnické nehody k6 T2-T3:**
 
@@ -445,12 +438,13 @@ Drobné předměty získané ze zázemí jsou zdarma k nošení.
 3. **Mágo-mutace**: náhodná vlastnost ti padne na **\-5** *(k6 k určení vlastnosti, po odpočinku se vrátí zpět)*.  
 4. **Zkamenění**: k4 tvých končetin zkamení do dalšího odpočinku *(nohy mají přednost, bez ruky nemůžeš sesílat kouzla)*.  
 5. **Posednutí**: tvé tělo se pokusí ovládnout zlomyslná entita z jiné dimenze OB 15 charisma na vypuzení *(na začátku kola)*.  
-6. **Fázový posun**: na 10 kol, považuj neúspěšné seslání kouzla za další kouzelnou nehodu.
+6. **Fázový posun**: na 8 kol, považuj neúspěšné seslání kouzla za další kouzelnou nehodu.
 
 #### **Kouzelnická kouzla T3**:  
 
 [Zpět na kouzla](#kouzla)
 
+- **Bariéra proti střelám**: \[soustředění, na sebe\], vytvoříš bariéru, která kryje tebe a všechny na dosah od tebe, bariéra se hýbe s tebou. Všechny nemagické projektily jsou neškodně odraženy od bariéry.  
 - **Identifikace**: \[okamžité, na dosah\], objevíš všechny magické vlastnosti předmětu. Při seslání více než jednou za odpočinek, považuj neúspěšné seslání za kouzelnou nehodu.  
 - **Iluze**: \[soustředění, daleko\], vytvoříš přesvědčivou viditelnou a slyšitelnou iluzi *(může zaplnit až krychli o blízké velikosti)*. Iluze nezraňuje, ale tvorové, kteří jí uvěří se chovají jako by byla reálná. Tvor, který prozkoumá iluzi musí uspět v moudrosti proti hodu na seslání kouzla iluze, při úspěchu iluzi prohlédne. Dotknutí se iluze také okamžitě odhalí její falešnou náturu.  
 - **Létání**: \[8 kol, na sebe\], vzneseš se do vzduchu, po dobu trvání můžeš poletovat svým pohybem o blízkou vzdálenost a můžeš se libovolně vznášet.  
@@ -458,20 +452,16 @@ Drobné předměty získané ze zázemí jsou zdarma k nošení.
 - **Oblak střepů**: \[soustředění, daleko\], krychle o blízké velikosti se zaplní vířícím oblakem střepů, všichni tvorové začínající svůj tah v oblaku a nebo procházející oblakem jsou oslepení na jedno kolo a dostávají 2k6 magického poškození. Útoky na dálku skrze oblak jsou s nevýhodou.  
 - **Ohnivá koule**: \[okamžité, daleko\], vrhneš žhavý uhlík, který po dopadu ohnivě vybouchne v krychli o blízké velikosti. Každý zasažený tvor dostane 4k6 magického poškození a hořlavé předměty se vznítí. 
 - **Ochrana před elementem**: \[soustředění, na dosah\], tvor se stane imunním vůči jednomu elementu *(např.: oheň, elektřina)*.  
+- **Oživení mrtvol**: \[okamžitě, na dosah\], oživíš ostatky s netknutou hlavou na zombie nebo kostlivce. Nad nemrtvým máš jeden den kontrolu, pokud do konce tohoto času na nemrtvého není znovu seslané toto kouzlo, kontrola se přeruší a nemrtvý zdivočí. Kostlivec: TZ: 13, ŽV: 15, *zbraň* \+3 k?, může nosit štíty/zbroje. Zombie: TZ: 13, ŽV: 15, sápání \+3 k6 *(unesou 10 slotů).* 
 - **Plynná forma**: \[8 kol, na sebe\], ty a tvé vybavení se změní v oblak plynu, můžeš prolétnout jakoukoliv skulinou, kterou by se protáhnul obyčejný plyn. V této formě nemůžeš provádět žádné akce a sesílat kouzla. Po skončení kouzla se ty a tvé vybavení zhmotní tam, kde se nachází tvá plynná forma *(pozor, může tě usmrtit\!)*.  
+- **Promluv s předmětem**: \[okamžitě, na dotek\], dotknutý předmět ti mentálně odpoví na tři tvé otázky *(postupně)*, inteligence předmětu je odvozena od vzacnosti primárního materiálu. Vypravěč ti musí pravdivě odpovědět ANO nebo NE. Při seslání více než jednou za odpočinek, považuj neúspěšné seslání za kouzelnou nehodu.  
+- **Přeměna materiálu**: \[okamžitě, na dosah\], změníš materiál předmětu o max velikosti koně na jiný materiál stejné a nebo nižší hodnoty.  
+- **Stvoření elementála**: \[soustředění, blízko\], vyvoláš tvora stvořeného z elementu *(např.: ohnivý, zemní, ledový)*, elementál jedná v tvém kole a musíš obětovat svou akci na jeho povelování *(jinak je nečinný)*. Po skončení kouzla se elementál vypaří. Elementál: TZ: 16, ŽV: 25, 2x útk \+6 k12.  
 - **Rozptýlení magie**: \[okamžité, blízko\], jedno kouzlo nebo kouzelný efekt, který vidíš, okamžitě končí.  
 - **Úder blesku**: \[okamžité, daleko\], vystřelíš blesk, který zasáhne všechny tvory v tebou určené přímce, pokud se vedle zasaženého tvora nachází na dosah další tvor, tento další tvor je zasažen také. Každý zasažený tvor dostane 3k6 magického poškození.  
 - **Výroba**: \[8 kol, blízko\], vezmeš kolekci materiálů zhruba o velikosti velkého stromu a přetvoříš jí do hotového produktu *(např.: kamení na most)*, po skončení kouzla se produkt vrátí zpět na původní materiál. Kouzlo nemůže zacílit tvory.  
 - **Zpráva**: \[okamžité, neomezený\], pošleš krátkou mentální zprávu tvorovi kterého znáš a který je na stejné pláni existence.
-
-##### **Extra volitelná kouzelnická kouzla dle přesvědčení T3:**  
-
-- Z: **Bariéra proti střelám**: \[soustředění, na sebe\], vytvoříš bariéru, která kryje tebe a všechny na dosah od tebe, bariéra se hýbe s tebou. Všechny nemagické projektily jsou neškodně odraženy od bariéry.  
-- Z: **Promluv s předmětem**: \[okamžitě, na dotek\], dotknutý předmět ti mentálně odpoví na tři tvé otázky *(postupně)*, inteligence předmětu je odvozena od vzacnosti primárního materiálu. Vypravěč ti musí pravdivě odpovědět ANO nebo NE. Při seslání více než jednou za odpočinek, považuj neúspěšné seslání za kouzelnou nehodu.  
-- N: **Stvoření elementála**: \[soustředění, blízko\], vyvoláš tvora stvořeného z elementu *(např.: ohnivý, zemní, ledový)*, elementál jedná v tvém kole a musíš obětovat svou akci na jeho povelování *(jinak je nečinný)*. Po skončení kouzla se elementál vypaří. Elementál: TZ: 15, ŽV: 15, 2*bouchnutí \+5 k12.  
-- N: **Přeměna**: \[okamžitě, na dosah\], změníš materiál předmětu o max velikosti koně na jiný materiál stejné a nebo nižší hodnoty.  
-- Ch: **Oživení mrtvol**: \[okamžitě, na dosah\], oživíš ostatky s netknutou hlavou na zombie nebo kostlivce. Nad nemrtvým máš jeden den kontrolu, pokud do konce tohoto času na nemrtvého není znovu seslané toto kouzlo, kontrola se přeruší a nemrtvý zdivočí. Kostlivec: TZ: 10, ŽV: 10, *zbraň* \+2 k?, může nosit štíty/zbroje. Zombie: TZ: 8, ŽV: 15, sápání \+2 k6 *(unesou 10 slotů).*  
-- Ch: **Zrada**: \[soustředění, blízko\], tvor úrovně 7 a nižší, kterého vidíš, zradí své spojence a útočí na ně po dobu trvání kouzla.  
+- **Zrada**: \[soustředění, blízko\], tvor úrovně 7 a nižší, kterého vidíš, zradí své spojence a útočí na ně po dobu trvání kouzla.  
 
 #### **Kněžská kouzla T1**:  
 
