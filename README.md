@@ -233,11 +233,29 @@ Drobné předměty získané ze zázemí jsou zdarma k nošení.
 
 [Zpět na tvorbu postavy](#tvorba-postavy)
 
-*Výběr božstva je povinný jen pro kněze, přesvědčení je spíše hrubý morální kompas, kterým se postava řídí.*  
+*Výběr božstva je povinný jen pro kněze.*  
 
-**Zákonné:** Svaté světlo \[ **Δ** \] *(spravedlnost a čest, lidé)* a Architektka stvoření \[ **§** \] *(řád a průmysl, trpaslíci)*.  
-**Neutrální:** Matka příroda \[ **Ῠ** \] *(příroda a počasí, elfové)* a Strážce vědění \[ **Ѳ** \] *(magie a znalosti, mágové)*.  
-**Chaotické:** Velký plenitel \[ **Ξ** \] *(síla a válka, barbaři)* a Temná vědma \[ **Ѫ** \] *(ambice a kletby, čarodějky)*.
+1. **Zákonné:**
+   1. **Svaté světlo** \[ **Δ** \] *(spravedlnost a čest)*.  
+      1. Nařízení: *jednej vždy čestně, mluv pravdu a chraň slabé.*
+      2. Hříchy: *použití lsti, podvodu a nebo porušení svého slova.*
+   2. **Inženýrka stvoření** \[ **§** \] *(předměty a průmysl)*.
+      1. Nařízení: *tvoř, stav a udržuj předměty, budovy a stroje v dokonalém stavu.*
+      2. Hříchy: *odfláknutá výroba a zanedbání údržby.*
+2. **Neutrální:**
+   1. **Matka příroda** \[ **Ῠ** \] *(příroda a počasí)*.
+      1. Nařízení: *žij v souladu a rovnováze s přírodou.*
+      2. Hříchy: *bezdůvodné plenění přírody a znečištění živlů.*
+   2. **Strážce vědění** \[ **Ѳ** \] *(magie a znalosti)*.
+      1. Nařízení: *rozšiřuj vědění, chraň magii před zneužitím a archivuj znalosti.*
+      2. Hříchy: *ničení knih, svitků a archivů.*
+3. **Chaotické:**
+   1. **Velký plenitel** \[ **Ξ** \] *(síla a válka)*.
+      1. Nařízení: *ber si co se ti zamane a respektuj pouze sílu.*
+      2. Hříchy: *projev zbabělosti a slabost.*
+   2. **Temná vědma** \[ **Ѫ** \] *(ambice a kletby)*.
+      1. Nařízení: *následuj své ambice a využij všechny dostupné prostředky bez ohledu na okolí.*
+      2. Hříchy: *skromnost a odpírání svých potřeb.*
 
 ## Vybavení
 
@@ -478,7 +496,7 @@ Drobné předměty získané ze zázemí jsou zdarma k nošení.
 
 ##### **Extra kněžská kouzla od božstva T1**:  
 - **Odhodlání**: \[*Svaté světlo*, 6 kol, na dosah\], \+k6 dočasných životů navíc nad normální maximální limit životů.
-- **Pravdivý úder**: \[*Architektka stvoření*, 6 kol, na dosah\], jeden příští útok cíle, který by minul se místo toho stane zásahem.
+- **Pravdivý úder**: \[*Inženýrka stvoření*, 6 kol, na dosah\], jeden příští útok cíle, který by minul se místo toho stane zásahem.
 - **Trny**: \[*Matka příroda*, 6 kol, na dosah\], trny na cíli dávají k4 zranění útočníkovi, který zasáhne nositele trnů útokem zblízka.
 - **Detekce magie**: \[*Strážce vědění*, soustředění, blízko\], cítíš přítomnost blízké magie, po dvou kolech rozeznáš obecné vlastnosti.
 - **Probuzení vzteku**: \[*Velký plenitel*, 6 kol, na dosah\], \+k4 útok a poškození zblízka, výhody na sílu, musí útočit jinak kouzlo končí.
@@ -513,7 +531,7 @@ Drobné předměty získané ze zázemí jsou zdarma k nošení.
 ##### **Extra kněžská kouzla od božstva T2**:  
 
 - **Klid**: \[*Svaté světlo,* 6 kol, blízko\], uklidníš agresi a nepřátelství vybraných žíjících tvorů v blízkosti, úrovně 4 a nižší. Po dobu trvání tvorové neútočí na tebe a tvé spojence. Kouzlo končí pokusem o napadení tvorů. Po skončení se tvorové vrátí zpět do původního emočního rozpoložení.  
-- **Rozžhav**: \[*Architektka stvoření,* soustředění, blízko\], rozžhavíš jeden předmět vyrobený z kovu jako například zbraň, zbroj a nebo štít. Tvor držící rozžhavený předmět dostane k4 magického poškození, pokud předmět může upustit, musí hodit odolnost vs hod na seslání kouzla, jinak je předmět upuštěn. Pokud předmět neupustí a nebo upustit nemůže *(např.: zbroj)*, má nevýhody na všechny hody k20 a každé kolo dostává k4 magického poškození.
+- **Rozžhav**: \[*Inženýrka stvoření,* soustředění, blízko\], rozžhavíš jeden předmět vyrobený z kovu jako například zbraň, zbroj a nebo štít. Tvor držící rozžhavený předmět dostane k4 magického poškození, pokud předmět může upustit, musí hodit odolnost vs hod na seslání kouzla, jinak je předmět upuštěn. Pokud předmět neupustí a nebo upustit nemůže *(např.: zbroj)*, má nevýhody na všechny hody k20 a každé kolo dostává k4 magického poškození.
 - **Pavoučí šplh**: \[*Matka příroda*, soustředění, na sebe\], narostou ti čtyři pavoučí končetiny, které se dokáží libovolně přilepit k jakémukoliv terénu a umožňují ti pohyb po stěnách a stropech, stejně tak jednoduše, jako kdyby to byla obyčejná podlaha.  
 - **Kryptografie**: \[*Strážce vědění*, okamžitě, na dosah\], zašifruješ a nebo odšifruješ svitek nebo text, tebou zašifrovaný text přečteš jen ty.  
 - **Obětina**: \[*Velký plenitel*, okamžitě, na dosah\], obětuješ bezbranného tvora úrovně 2 a vyšší svému bohu. Ty a nebo vybraný spojenec dostanete kostku božské inspirace k6, tuto kostku lze přidat k navýšení hodu k20 *(Každý max jedna kostka božské inspirace).*  
@@ -533,7 +551,7 @@ Drobné předměty získané ze zázemí jsou zdarma k nošení.
 ##### **Extra kněžská kouzla od božstva T3**:  
 
 - **Vyhoštění**: \[*Svaté světlo,* okamžité, blízko\], modlitbou pošleš tvora úrovně 6 a nižší, z jiné dimenze, zpět do jeho původní dimenze. 
-- **Najdi předmět**: \[*Architektka stvoření*, soustředění, daleko\], svatá energie ti ukáže směr k hledanému předmětu, předmět může být obecné povahy *(např: schody, meč)* a nebo specifické povahy, k hledání specifického předmětu však musíš vědět jak vypadá.  
+- **Najdi předmět**: \[*Inženýrka stvoření*, soustředění, daleko\], svatá energie ti ukáže směr k hledanému předmětu, předmět může být obecné povahy *(např: schody, meč)* a nebo specifické povahy, k hledání specifického předmětu však musíš vědět jak vypadá.  
 - **Forma šelmy**: \[*Matka příroda*, 6 kol, na sebe\], se svým vybavením se proměníš na velkou magickou šelmu. Když padnou ŽV šelmy na 0, proměníš se zpět. *Šelma: TZ: 15, ŽV: 15, pohyb: 2\*blízká, 2*kousnutí: \+5 k6, nemůžeš kouzlit*.   
 - **Rozptýlení magie**: \[*Strážce vědění*, okamžité, blízko\], jedno kouzlo nebo kouzelný efekt, který vidíš, okamžitě končí.  
 - **Vysátí života**: \[*Velký plenitel*, okamžité, na dosah\], cíli způsobíš k12 magického poškození a vylečíš se za počet životů, který je rovný způsobenému poškození.   
