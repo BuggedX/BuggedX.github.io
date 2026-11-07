@@ -103,7 +103,7 @@ Verze 0.3.7 - příručka hráče.
 
 #### 1. **Válečník**  
 - **Mistrovství se zbraní:** vyber si zbraň a přičti 1+½ tvé úrovně k hodům na útok a zranění při používání této zbraně *(zaokrouhleno dolů)*.  
-- **Kuráž:** máš výhodu na hody na sílu a obratnost u manévrů, překonání protivníka a uhnutí nebezpečí.
+- **Kuráž:** máš výhodu na hody na sílu a obratnost u manévrů, překonání protivníka *(např.: odstrčení, odzbrojení)* a uhnutí nebezpečí *(např.: výbuch)*.
 - **Nosič:** odolnost ti přidává navíc inventářové pole.
 - **Životy:** k10 za každou úroveň.
 - **Vybavení:** všechny obyčejné zbraně, zbroje a štíty.
