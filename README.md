@@ -496,7 +496,7 @@ Drobné předměty získané ze zázemí jsou zdarma k nošení.
 
 ##### **Extra kněžská kouzla od božstva T1**:  
 - **Odhodlání**: \[*Svaté světlo*, 6 kol, na dosah\], \+k6 dočasných životů navíc nad normální maximální limit životů.
-- **Pravdivý úder**: \[*Inženýrka stvoření*, 6 kol, na dosah\], jeden příští útok cíle, který by minul se místo toho stane zásahem.
+- **Pravdivý úder**: \[*Inženýrka stvoření*, 6 kol, na dosah\], jeden příští útok zbraní posvěcenou tímhle kouzlem, který by minul, se místo toho stane zásahem.
 - **Trny**: \[*Matka příroda*, 6 kol, na dosah\], trny na cíli dávají k4 zranění útočníkovi, který zasáhne nositele trnů útokem zblízka.
 - **Detekce magie**: \[*Strážce vědění*, soustředění, blízko\], cítíš přítomnost blízké magie, po dvou kolech rozeznáš obecné vlastnosti.
 - **Probuzení vzteku**: \[*Velký plenitel*, 6 kol, na dosah\], \+k4 útok a poškození zblízka, výhody na sílu, musí útočit jinak kouzlo končí.
