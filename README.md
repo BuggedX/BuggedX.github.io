@@ -80,8 +80,7 @@ Verze 0.3.7 - příručka hráče.
 
 0. Připrav si **deník postavy** *([vzor deníku postavy](#vzor-deníku-postavy))*.
 1. Vyber si **povolání** *(viz [povolání](#povolání))* a zaznač si schopnosti tvého povolání.  
-   1. Kněz: vyber si božstvo a přesvědčení *(viz [Božstva a přesvědčení](#božstva-a-přesvědčení))*. Vyber si dvě standardní kněžské inkantace *([kouzla]((#kněžská-kouzla-t1)))* a zaznač si jednu extra inkantaci *([kouzlo](#extra-kněžská-kouzla-od-božstva-t1))* od tvého božstva.  
-   2. Kouzelník: vyber si tři [kouzelnická kouzla třídy T1](#kouzelnická-kouzla-t1), které máš vyzkoumané a zapsané ve svém grimoáru.  
+   1. Kněz: vyber si božstvo a přesvědčení *(viz [Božstva a přesvědčení](#božstva-a-přesvědčení))*. 
 3. Vyber si **rasu** *(viz [rasy](#rasy))* a zaznač schopnost tvé rasy.  
 4. Vyber si **zázemí** *(viz [zázemí](#zázemí))*.  
 5. Vyber si **jazyky** *(rasa, povolání, zohledni zázemí, viz [jazyky](#jazyky))*.
@@ -92,8 +91,11 @@ Verze 0.3.7 - příručka hráče.
 7. Zapiš si **životy** ŽV *(na první úrovni maximum na tvé kostce povolání)* a pak přidej extra životy z odolnosti *(pouze na první úrovni)*.  
 8. Hoď si na **talent** svého povolání *(talent získáváš na lichých úrovních 1, 3, 5, 9)*.
 9. Hoď si na **zlaťáky** *(2k6 \* 5 zlatých)* a zjisti **nosnost** své postavy *(10+síla slotů, u válečníka ještě \+odolnost)*.  
-10. Kup si **vybavení** *(viz [vybavení](#vybavení))* a vypočítej svou **třídu zbroje** TZ *(TZ 10+obratnost a nebo nasazená zbroj+obratnost).*  
-11. Popiš svůj vzhled, zaznač svůj znak a jméno.
+10. Kup si **vybavení** *(viz [vybavení](#vybavení))* a vypočítej svou **třídu zbroje** TZ *(TZ 10+obratnost a nebo nasazená zbroj+obratnost).*
+11. Vyber si **kouzla**, pokud je má tvé povolání.
+    1. Kněz: vyber si dvě standardní kněžské inkantace *([kouzla]((#kněžská-kouzla-t1)))* a zaznač si jednu extra inkantaci *([kouzlo](#extra-kněžská-kouzla-od-božstva-t1))* od tvého božstva.  
+    2. Kouzelník: vyber si tři [kouzelnická kouzla třídy T1](#kouzelnická-kouzla-t1), které máš vyzkoumané a zapsané ve svém grimoáru.  
+12. Popiš svůj vzhled, zaznač svůj znak a jméno.
 
 ### Povolání
 
