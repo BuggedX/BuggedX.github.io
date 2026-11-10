@@ -137,7 +137,7 @@ Verze 0.3.7 - příručka hráče.
 #### 5. **Bard**  
 - **Magický amatér:** můžeš používat všechny svitky a hůlky, seslání přes charisma, při hodu 1 způsobíš kouzelnickou nehodu.
 - **Inspirace:** hoď charisma OB12, jeden blízký cíl získá inspiraci *(\+k6 k hodům s k20)*, při neúspěchu vyčerpání. Každý max jedna kostka inspirace.
-- **Zlomyslný výsměch**: OB12 charisma, blízký cíl ti musí rozumnět. *(\[½ úr\]\*k4)* psychického poškození a cíl má nevýhodu na další hod.  
+- **Zlomyslný výsměch**: OB12 charisma, blízký cíl ti musí rozumnět. Cíl dostane psychického poškození a má nevýhodu na další hod *(1k4 úr1+, 2k4 úr4+, 3k4 úr7+, 4k4 úr10)*.  
 - **Muzikant**: máš hudební nástroj *(zdarma k nošení)*. 
 - **Bardský um:** výhody při hodech na řečnění, umění, hudbu, svádění, znalostech a diplomacii.
 - **Jazyky navíc:** vyber si 3 obecné a 1 vzácný jazyk.
@@ -146,9 +146,9 @@ Verze 0.3.7 - příručka hráče.
 - **Talent(k6):** **1-2**: *\[+1 k libovolné vlastnosti\]*, **3**: *\[+1 k útokům a nebo \+1 k seslání kouzel\]*, **4**: *\[inspirace a nebo výsměch je OB9\]*, **5**: *\[+1 k maximu družiníků\]*, **6**: *\[změň kritický neúspěch na kritický úspěch, jednou za odpočinek\]*.
 
 #### 6. **Zloděj**  
-- **Skrytý útok:** přidej 1+½ tvé úrovně kostek zranění k hodům na zranění proti bytosti, která o tvém útoku neví *(zaokrouhlení dolů, skrývej se v boji)*.
+- **Zákeřný útok:** tvé útoky na které máš výhodu *(např.: jsi skrytý a cíl o tobě neví)*, způsobují extra poškození, přidej kostky poškození zbraně navíc *(+1kX úr1+, +2kX úr4+, +3kX úr7+, +4kX úr10)*.    
 - **Zlodějské nástroje:** umíš používat a máš u sebe vždy zlodějské náčiní *(zdarma k nošení)*.
-- **Zlodějina:** máš výhody na hody na lezení, skrývání, převleky, vybírání kapes, otevírání zámků, hledání a zneškodňování pastí.
+- **Zlodějina:** máš výhody na hody na lezení, skrývání, plýžení, převleky, vybírání kapes, odposlech, otevírání zámků, hledání a zneškodňování pastí.
 - **Životy:** k6 za každou úroveň.
 - **Vybavení:** lehké zbroje a zlodějské zbraně.
 - **Talent(k6):** **1-2**: *\[+1 k síle, obratnosti nebo charisma\]*, **3**: *\[+1 k útokům\]*, **4**: *\[zákeřný útok má \+kostku navíc\]* **5**: *\[vyhneš se útoku a nebo prozrazení, jednou za odpočinek\]*, **6**: *\[výhody na iniciativu (přehoď duplikát)\]*.
@@ -577,9 +577,9 @@ Učení fint trvá jeden oddech *(týden volného času)*. Fintu se můžou post
 
 - **Puškař**: kombinací zručnosti a mechanických inovací *(drážkovaná mušketa \-\> jehlovka)* zrychlíš přebíjení svých mušket z PN na N *(přebití zabere jen celý pohyb)*, tvé pistole mají dvě hlavně a mohou vystřelit dvakrát, než potřebují přebít. Palné zbraně jsou v tvých rukou bezpečnější a ignorují vlastnost Neb *(nebezpečná)*.
 
-- **Parýrovací dýka**: když máš jednoruční zbraň, v druhé volné ruce můžeš mít parýrovací dýku \+1 TZ, když se trefíš primární zbraní při útoku zblízka, hoď také poškození dýky (k4) a vyber lepší hodnotu jako poškození.
+- **Parýrovací dýka**: když máš jednoruční zbraň, v druhé volné ruce můžeš mít parýrovací dýku \+1 TZ, když se trefíš primární zbraní při útoku zblízka, hoď také poškození dýky *(k4)* a vyber lepší hodnotu jako poškození.
 
-- **Zákeřný útok**: můžeš provést skrytý útok i bez skrytí, pokud máš na útok proti cíli výhodu *(pouze zloděj)*.
+- **Neuvěřitelné uhýbání**: v reakci na příchozí poškození si můžeš hodit na OB 12 OBR, při úspěchu dostaneš jen poloviční poškození, při neúspěchu se vyčerpáš *(finta se obnoví po dalším odpočinku)*.
 
 - **Odstřelovač**: útoky na dálku *(tichou zbraní jako kuš, luk, vrh)*, které selžou, neodhalí tvou pozici a tvé skrytí.
 
