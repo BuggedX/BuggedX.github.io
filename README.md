@@ -674,10 +674,10 @@ Volnočasové aktivity trvají jeden oddech *(týden volného času)* v civiliza
    1. **1-3**: normální počasí, **4-5**: předzvěst nepříznivého počasí, **6**: nepříznivé počasí.  
    2. Když padne předzvěst podruhé, nastane nepříznivé počasí.  
    3. Nepříznivé počasí *(např.: bouře)*, způsobuje problémy s navigací a komplikuje odpočinek během táboření.  
-5. Dopravní prostředky:  
-   1. **Celá skupina na jízdních ořích**: během přesunu urazí skupina až dvě pole *(20km)*.  
-   2. **Přesun po cestě**: během přesunu po cestě pěšky nebo na ořích urazí skupina o jedno pole navíc *(+10km)*.  
-   3. **Jízda kočárem nebo lodí**: skupina urazí za jednu fázi přesunu až celkem pět polí *(50km)*.
+5. Rychlejší přesun:  
+   1. **Lehký přesun**: během přesunu po cestě a nebo v lehkém terénu *(např.: pláň)* urazí skupina o jedno pole navíc *(+10km)*.  
+   2. **Celá skupina na jízdních ořích**: během přesunu urazí skupina dvě pole *(20km)*.  
+   3. **Jízda kočárem nebo lodí**: skupina urazí za jednu fázi přesunu až celkem pět polí *(50km, pouze po cestě/vodě)*.
 
 ## Družiníci
 
@@ -696,9 +696,10 @@ Volnočasové aktivity trvají jeden oddech *(týden volného času)* v civiliza
 3. Morálka družiníků:  
    1. Když zemře a nebo upadne do bezvědomí půlka *(a víc)* skupiny, musí si hráčské postavy vedoucí družiníky hodit na morálku OB 15 CHA, při neúspěchu začne družiník panikařit a utíkat. Vypravěč může požadovat hod na morálku i v jiných stresujících situacích.  
    2. Pokud hráč zneužívá družiníka a nebo mu odmítá zaplatit, vypravěč tajně hodí OB 15 *(+CHA hráčské postavy)*. Při neúspěchu družiník zradí skupinu.  
-   3. Pokud se v civilizaci rozkřikne, že hráčská skupina zneužívá družiníky, musí při najímání nových družiníku hráčská postava hodit OB 15 CHA, při neúspěchu se družiníci odmítají přidat ke skupině.
+   3. Pokud se v civilizaci rozkřikne, že hráčská postava zneužívá družiníky, musí při najímání nových družiníku hráčská postava hodit OB 15 CHA, při neúspěchu se družiníci odmítají přidat ke skupině.
 
 ## Vzor deníku postavy
+
 [Zpět na obsah](#obsah)
 
 [Zpět na tvorbu postavy](#tvorba-postavy)
