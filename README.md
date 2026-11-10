@@ -579,7 +579,7 @@ Učení fint trvá jeden oddech *(týden volného času)*. Fintu se můžou post
 
 - **Parýrovací dýka**: když máš jednoruční zbraň, v druhé volné ruce můžeš mít parýrovací dýku \+1 TZ, když se trefíš primární zbraní při útoku zblízka, hoď také poškození dýky *(k4)* a vyber lepší hodnotu jako poškození.
 
-- **Neuvěřitelné uhýbání**: v reakci na příchozí poškození si můžeš hodit na OB 12 OBR, při úspěchu dostaneš jen poloviční poškození, při neúspěchu se vyčerpáš *(finta se obnoví po dalším odpočinku)*.
+- **Úhybný reflex**: v reakci na příchozí poškození si můžeš hodit na OB 12 OBR, při úspěchu dostaneš jen poloviční poškození, při neúspěchu se vyčerpáš *(finta se obnoví po dalším odpočinku)*.
 
 - **Odstřelovač**: útoky na dálku *(tichou zbraní jako kuš, luk, vrh)*, které selžou, neodhalí tvou pozici a tvé skrytí.
 
@@ -597,8 +597,8 @@ Učení fint trvá jeden oddech *(týden volného času)*. Fintu se můžou post
 
 - **Alchymické bomby**: nosíš u sebe soupravu na výrobu bomb *(zdarma k nošení)*. Při selhání se o výrobu bomb můžeš pokusit až po odpočinku. Bomba se stane po dalším odpočinku inertní.   
 \- **Záblesková bomba**: OB 12 INT na výrobu, zabírá jeden slot. Lze hodit až na blízkou vzdálenost, všichni v temnotě vidící tvorové, kteří zahlédnou záblesk si musí hodit OB 12 ODL, jinak dočasně oslepnou.  
-\- **Výbušná bomba**: OB 15 INT na výrobu, zabírá jeden slot. Před použitím je nutné zapálit knot. Lze hodit až na blízkou vzdálenost, všichni v blízké oblasti kolem bomby musí hodit OB 15 OBR, jinak je zasáhne výbuch šrapnelu za 3k6.  
-\- **Kouřová bomba**: OB 12 INT na výrobu, zabírá jeden slot. Lze hodit až na blízkou vzdálenost, v blízké oblasti kolem dopadu udělá oblak kouře na 4 kola, který se šíří kolem rohů, všichni uvnitř oblaku jsou oslepení a skrze oblak není vidět. Kouř může být otráven jedem omámení, zranění a paralýzy.
+\- **Výbušná bomba**: OB 15 INT na výrobu, zabírá jeden slot. Lze hodit až na blízkou vzdálenost, všichni v blízké oblasti kolem bomby musí hodit OB 15 OBR, jinak je zasáhne výbuch šrapnelu za 3k6.
+\- **Kouřová bomba**: OB 12 INT na výrobu, zabírá jeden slot. Lze hodit až na blízkou vzdálenost, v blízké oblasti kolem dopadu udělá oblak kouře na 4 kola, který se šíří kolem rohů, všichni uvnitř oblaku jsou oslepení a skrze oblak není vidět. Kouř může být otráven jedem zranění a nebo paralýzy.
 
 - **Přetížení**: můžeš se pokusit znovu seslat již vyčerpané kouzlo které znáš, bez ohledu na výsledek tě seslání stojí (k6\*třída kouzla) životů, při neúspěšném seslání se počítá jako kritické selhání.
 
@@ -607,17 +607,17 @@ Učení fint trvá jeden oddech *(týden volného času)*. Fintu se můžou post
 - **Používání jedů**: umíš bezpečně aplikovat jedy a nosíš u sebe jedovou soupravu *(zdarma k nošení)*. Při selhání se o výrobu můžeš pokusit až po odpočinku. Jed vydrží do dalšího odpočinku, pak se stane inertním.    
 \- **Jed zranění**: výroba OB 12 INT, jeden šíp nebo jeden úspěšný útok zbraní. OB 12 ODL, při neúspěchu dostane cíl k6 zranění.  
 \- **Jed paralýzy**: výroba OB 15 INT, jeden šíp nebo jeden úspěšný útok zbraní. OB 15 ODL, při neúspěchu paralýza.  
-\- **Jed smrti**: výroba OB 18 INT, jed musí být pozřen, OB 18 ODL, při neúspěchu cíl padne na 0hp do 4 kol.  
+\- **Jed smrti**: výroba OB 18 INT, jed musí být pozřen, OB 18 ODL, při neúspěchu cíl padne na 0 žv do 4 kol.  
 
 #### Finty MOUDROST
 
-- **Psí výcvik**: získáš věrného ohaře*.* TZ:11, ŽV:4, kousnutí: \+1 k6, schopnost: psí čich *(výhody na čich)*. Ohař jedná v tvém tahu. Při ztracení svého ohaře musíš strávit týden volného času hledáním a trénováním nového. Ohař získá \+k4 životů za každý další level jeho majitele a další \+1 k útoku a zranění za každý druhý level jeho majitele.
+- **Psí výcvik**: získáš věrného ohaře*.* TZ:11, ŽV:4, kousnutí: \+1 k4, schopnost: psí čich *(výhody na čich)*. Ohař jedná v tvém tahu. Při ztracení svého ohaře musíš strávit týden volného času hledáním a trénováním nového. Ohař získá \+k4 životů za každý další level jeho majitele a další \+1 k útoku a zranění za každý druhý level jeho majitele.
 
-- **Sběr trofejí**: dokážeš zpracovat úlovky, OB 12 MOU, (úrTvora\*k12) zl, trofej zabírá jeden inventářový slot.
+- **Sběr trofejí**: dokážeš zpracovat úlovky, OB 12 MOU, (úrTvora\*k12) zl, trofej zabírá jeden inventářový slot *(na každou mršinu lze použít jen jednou)*.
 
 - **Lékařství**: OB 12 MOU, na dosah, při úspěchu vyléčíš cíl pomocí své skromné lékárničky za k6 životů *(k8 žv úr4+, k10 žv úr7+, k12 žv úr10)*, lékárnička je k nošení zdarma, při selhání je tvá lékárnička vyčerpána a obnovíš si ji při odpočinku.
 
-- **Odhalení slabin**: OB 12 MOU, při úspěchu najdeš u cíle na dohled slabinu, díky které bude jeden útok *(do slabiny)* proti cíli s výhodou na trefu a poškození.
+- **Odhalení slabin**: OB 12 MOU, při úspěchu najdeš u cíle na dohled slabinu, díky které bude jeden útok *(do slabiny)* proti cíli s výhodou na trefu a poškození *(při selhání se finta vyčerpá a obnoví se po odpočinku)*.
 
 #### Finty CHARISMA
 
