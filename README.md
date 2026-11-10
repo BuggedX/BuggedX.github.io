@@ -243,7 +243,7 @@ Drobné předměty získané ze zázemí jsou zdarma k nošení.
       1. Nařízení: *tvoř, stav a udržuj předměty, budovy a stroje v dokonalém stavu.*
       2. Hříchy: *odfláknutá výroba a zanedbání údržby.*
 2. **Neutrální:**
-   1. **Matka příroda** \[ **Ῠ** \] *(příroda a počasí)*.
+   1. **Matka příroda** \[ **ϟ** \] *(příroda a počasí)*.
       1. Nařízení: *žij v souladu a rovnováze s přírodou.*
       2. Hříchy: *bezdůvodné plenění přírody a znečištění živlů.*
    2. **Strážce vědění** \[ **Ѳ** \] *(magie a znalosti)*.
