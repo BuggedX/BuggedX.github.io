@@ -300,7 +300,7 @@ Drobné předměty získané ze zázemí jsou zdarma k nošení.
 
 #### **Zdatnost dle povolání**:
 1. **Válečník**: všechny zbraně, zbroje a štíty.  
-2. **Hraničář**: pistole, bastard, kuš, luk, meč, dýka, kopí, hůl a lehké/střední zbroje.  
+2. **Hraničář**: mušketa, pistole, bastard, kuš, luk, meč, dýka, kopí, hůl a lehké/střední zbroje.  
 3. **Kněz**: pistole, kuš, palice, meč, palcát, dýka, kyj, hůl a všechny zbroje a štíty.  
 4. **Kouzelník**: pistole, dýka, hůl.  
 5. **Bard**: pistole, rapír, kuš, meč, palcát, dýka, kyj, hůl, prak a lehké/střední zbroje.  
