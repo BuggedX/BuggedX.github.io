@@ -1,7 +1,7 @@
 # Temné stíny
 
 *Odlehčená stolní hra na hrdiny*.  
-Verze 0.3.7 - příručka hráče.
+Verze 0.3.8 - příručka hráče.
 
 ### Obsah
 
