@@ -1,9 +1,9 @@
 # Temné stíny
 
 *Odlehčená stolní hra na hrdiny*.  
-Verze 0.3.8 - příručka hráče.
+Verze 0.3.9 - příručka hráče.
 
-### Obsah
+## Obsah
 
 [1. Přehled pravidel](#přehled-pravidel)
 
@@ -17,9 +17,12 @@ Verze 0.3.8 - příručka hráče.
 
 [6. Volnočasové aktivity](#volnočasové-aktivity)
 
-[7. Cestování po světě](#cestování-po-světě)
+[7. Družiníci](#družiníci)
 
-[8. Družiníci](#družiníci)
+[8. Cestování po světě](#cestování-po-světě)
+
+[9. Průzkum temných stínů](#průzkum-temných-stínů)
+
 
 ## Přehled pravidel
 1. Každá postava ve svém kole může udělat akci a pohyb.
@@ -654,6 +657,25 @@ Volnočasové aktivity trvají jeden oddech *(týden volného času)* v civiliza
 
 - **Odpustek**: obětuješ 100 zl a strávíš týden v chrámu svého božstva pykáním za své hříchy. Po dokončení si odečti k6 hříchů *(pouze kněz)*.
 
+## Družiníci
+
+[Zpět na obsah](#obsah)
+
+1. Družiníci jsou vedlejší postavy, které asistují hlavní hráčské postavě *(ovládá je hráč)*.  
+   1. Každá hráčská postava může mít maximálně jednoho družiníka.  
+   2. Družiníci se počítají jako nehráčské postavy a okamžitě umírají při 0 žv.  
+   3. Družiníci nemají definované vlastnosti, na všechny hody s k20 se přidává pouze jejich úroveň a nebo CHA hráčské postavy, podle toho co je vyšší.  
+2. Typy družiníků: *(k6: 1-3: pomocník, 4-5: bojovník, 6: sesilatel)*  
+   1. **Pomocník** *(úr: 0, TZ: 10, k3 žv, dýka/kyj/prak: k4, unese 10 slotů)*  
+   2. **Bojovník** *(úr: 1, TZ: 13, k6 žv, kopí/meč/palcát: k6 \+ štít, unese 10 slotů)*  
+   3. **Sesilatel** *(úr: 0, TZ: 10, k3 žv, hůl: k4, akolyta/učeň, unese 10 slotů)*  
+      1. **Akolyta**: léčivý dotek OB 10 *(okamžitě, na dosah)*: vyléčí k4 žv, dokáže používat kněžské svitky a hůlky.  
+      2. **Učeň**: učňova střela OB 10 *(okamžitě, daleko)*: k4 magické poškození, dokáže používat kouzelnické svitky a hůlky.  
+3. Morálka družiníků:  
+   1. Když zemře a nebo upadne do bezvědomí půlka *(a víc)* skupiny, musí si hráčské postavy vedoucí družiníky hodit na morálku OB 15 CHA, při neúspěchu začne družiník panikařit a utíkat. Vypravěč může požadovat hod na morálku i v jiných stresujících situacích.  
+   2. Pokud hráč zneužívá družiníka a nebo mu odmítá zaplatit, vypravěč tajně hodí OB 15 *(+CHA hráčské postavy)*. Při neúspěchu družiník zradí skupinu.  
+   3. Pokud se v civilizaci rozkřikne, že hráčská postava zneužívá družiníky, musí při najímání nových družiníku hráčská postava hodit OB 15 CHA, při neúspěchu se družiníci odmítají přidat ke skupině.
+
 ## Cestování po světě
 
 [Zpět na obsah](#obsah)
@@ -679,24 +701,34 @@ Volnočasové aktivity trvají jeden oddech *(týden volného času)* v civiliza
    2. **Celá skupina na jízdních ořích**: během přesunu urazí skupina dvě pole *(20km)*.  
    3. **Jízda kočárem nebo lodí**: skupina urazí za jednu fázi přesunu až celkem pět polí *(50km, pouze po cestě/vodě)*.
 
-## Družiníci
+## Průzkum temných stínů
 
 [Zpět na obsah](#obsah)
 
-1. Družiníci jsou vedlejší postavy, které asistují hlavní hráčské postavě *(ovládá je hráč)*.  
-   1. Každá hráčská postava může mít maximálně jednoho družiníka.  
-   2. Družiníci se počítají jako nehráčské postavy a okamžitě umírají při 0 žv.  
-   3. Družiníci nemají definované vlastnosti, na všechny hody s k20 se přidává pouze jejich úroveň a nebo CHA hráčské postavy, podle toho co je vyšší.  
-2. Typy družiníků: *(k6: 1-3: pomocník, 4-5: bojovník, 6: sesilatel)*  
-   1. **Pomocník** *(úr: 0, TZ: 10, k3 žv, dýka/kyj/prak: k4, unese 10 slotů)*  
-   2. **Bojovník** *(úr: 1, TZ: 13, k6 žv, kopí/meč/palcát: k6 \+ štít, unese 10 slotů)*  
-   3. **Sesilatel** *(úr: 0, TZ: 10, k3 žv, hůl: k4, akolyta/učeň, unese 10 slotů)*  
-      1. **Akolyta**: léčivý dotek OB 10 *(okamžitě, na dosah)*: vyléčí k4 žv, dokáže používat kněžské svitky a hůlky.  
-      2. **Učeň**: učňova střela OB 10 *(okamžitě, daleko)*: k4 magické poškození, dokáže používat kouzelnické svitky a hůlky.  
-3. Morálka družiníků:  
-   1. Když zemře a nebo upadne do bezvědomí půlka *(a víc)* skupiny, musí si hráčské postavy vedoucí družiníky hodit na morálku OB 15 CHA, při neúspěchu začne družiník panikařit a utíkat. Vypravěč může požadovat hod na morálku i v jiných stresujících situacích.  
-   2. Pokud hráč zneužívá družiníka a nebo mu odmítá zaplatit, vypravěč tajně hodí OB 15 *(+CHA hráčské postavy)*. Při neúspěchu družiník zradí skupinu.  
-   3. Pokud se v civilizaci rozkřikne, že hráčská postava zneužívá družiníky, musí při najímání nových družiníku hráčská postava hodit OB 15 CHA, při neúspěchu se družiníci odmítají přidat ke skupině.
+- Nebezpečným kobkám, podzemím a ruinám se říká ***temné stíny***.
+- V temných stínech je potřeba mít rozsvícené světlo: pochodeň, lucerna a nebo kouzelné světlo vydrží **30 minut** **reálného času**.
+  * Pochodeň a kouzelné světlo dosvítí až na blízkou vzdálenost *(cca 10m)*.
+  * Lucerna spalující petrolej dosvítí až na 2x blízkou vzdálenost *(cca 20m)*, lucerna může být připnuta hákem k opasku *(volné ruce)*.
+  * Pokud skupina příjde o světlo, jsou všechny jejich hody ve tmě s nevýhodou *(a monstra, která vidí ve tmě mají na vše výhody)*. Rozsvícení nového světla zabere celou akci.
+- Jakmile se poprvé během průzkumu rozsvítí světlo, spustí se fixní průzkumová iniciativa.
+  * Začíná hráč, který rozsvítíl a od něho se pokračuje dál po směru hodinových ručiček kolem stolu.
+  * Každý hráč popíše co chce během průzkumu v jeho tahu dělat *(skupina se může seskupit a pohybovat jako celek)* na konci svého tahu hráč posune své aktivní časovače *(různá kouzla)*.
+  * Jakmile dojde v průzkumné iniciativě na radu vypravěč, popíše akce temných stínů *(např.: objeví se monstra, nové nebezpečí)*, posune své aktivní časovače *(např.: potulné monstra)*.
+- Pokud začne souboj, přechází se z průzkumné iniciativy do bojové iniciativy.
+  * Všichni si hodí na novou iniciativu (k20+OBR), ten s nevyšší hodnotou začíná a následně se jede podle hodinových ručiček kolem stolu.
+  * Překvapená strana má nevýhodu na iniciativu a přepadávající má výhody na iniciativu.
+ 
+### Potulné monstra
+- Vypravěč po vstupu do temných stínů začne časovač náhodného setkání s potulným monstrem.
+- Časovač má standardně 6 segmentů *(může mít 8 pro klidný průzkum a nebo 4 pro nebezpečný průzkum)*.
+  * Na začátku každého svého průzkumného kola si vypravěč tajně hodí **k6**: **1-3**: nic, **4-5**: +1 k časovači, **6**: +2 k časovači.
+  * Jakmile dojde k naplnění časovače, dojde k setkání s náhodným potulným monstrem *(po vyřešení setkání se časovač resetuje)*.
+  * Pokud jsou hráči bez světla, hází vypravěč na časovač potulných monster s výhodou.
+
+### Pasti v temných stínech
+- Pokud skupina narazí na skrytou past, vypravěč tajně hodí k6 *(pokud je ve skupině přítomný zloděj, tak s výhodou)*.
+- **k6**: **1-3**: skupina spustí past, **4-5**: skupina objeví past, **6**: skupina se pasti vyhne a nebo jí ihned zneškodní.
+- Jestli vypravěč nemá pro past vymyšlený speciální efekt, dává past poškození dle nebezpečí podzemí a nebo průměrné úrovně skupiny **(k6 úr1+, 2k8 úr4+, 3k10 úr7+, 4k12 úr10)**.
 
 ## Vzor deníku postavy
 
