@@ -50,7 +50,7 @@ Verze 0.3.9 - příručka hráče.
     2. Během průzkumu temných stínu *(podzemí)*, běží pevná iniciativa, při prvním spuštění časovače světla začne hráč, který rozsvítil a iniciativa pokračuje po směru hodinových ručiček kolem stolu, hráči si předávají štafetu *(třeba smotaný papír)*.
 14. K úspěšnému **seslání kouzla** je třeba hodit **k20 \+ *bonus*** *(kouzelník INT, kněz MOU, bard CHA)*, obtížnost hodu je ***10 \+ třída kouzla***. Při kritickém neúspěchu u kouzelníka/barda dojde k magické nehodě, u kněze k nahněvaní božstva.
 15. Kouzla je možné **sesílat opakovaně** tak dlouho, dokud nedojde k selhání. **Selhané/vyčerpané kouzlo** se obnoví při řádném odpočinku.
-16. **Kouzelný svitek** je zničen při použití bez ohledu na úspěch, **kouzelná hůlka** je při normálním neúspěchu vybita a během řádného odpočinku se nabije. Při kritickém neúspěchu je hůlka zničena.
+16. **Kouzelný svitek** je zničen při použití bez ohledu na úspěch, **kouzelná hůlka** *(a nebo žezlo)* je při normálním neúspěchu vybita a během řádného odpočinku se nabije. Při kritickém neúspěchu je hůlka *(a nebo žezlo)* zničena.
 17. Některá kouzla vyžadují **soustředění**, postava se může soustředit jen na jedno kouzlo vyžadující soustředění. Na začátku každého kola a při rozptýlení si musí sesilatel hodit na soustředění *(normální hod na seslání kouzla)*.
 18. **Štěstí** umožňuje hráči přehodit jeden hod jeho kostkou. Každé sezení začíná každý hráč s jedním štěstím, každý může mít jen maximálně jedno aktivní štěstí.
     1. Smůla: štěstí nelze využít na kritické neúspěchy *(hod 1 na k20)*.
@@ -304,10 +304,10 @@ Drobné předměty získané ze zázemí jsou zdarma k nošení.
 #### **Zdatnost dle povolání**:
 1. **Válečník**: všechny zbraně, zbroje a štíty.  
 2. **Hraničář**: mušketa, pistole, bastard, kuš, luk, meč, dýka, kopí, hůl a lehké/střední zbroje.  
-3. **Kněz**: pistole, kuš, palice, meč, palcát, dýka, kyj, hůl a všechny zbroje a štíty.  
+3. **Kněz**: pistole, kuš, palice, palcát, dýka, kyj, hůl a všechny zbroje a štíty.  
 4. **Kouzelník**: pistole, dýka, hůl.  
 5. **Bard**: pistole, rapír, kuš, meč, palcát, dýka, kyj, hůl, prak a lehké/střední zbroje.  
-6. **Zloděj**: pistole, rapír, kuš, meč, dýka, kyj, prak a lehké zbroje.
+6. **Zloděj**: pistole, rapír, kuš, meč, dýka, kyj, prak a lehké zbroje.  
 
 #### **Zbroje**: 
 *\[zbroj, cena, sloty, třída zbroje, vlastnosti\].*
@@ -378,7 +378,7 @@ Drobné předměty získané ze zázemí jsou zdarma k nošení.
 
 [Zpět na obsah](#obsah)
 
-*Kouzelníci pouze kouzelnické hůlky a svitky, kněží pouze kněžské hůlky a svitky, bardi smí využívat všechny hůlky a svitky.* 
+*Kouzelníci pouze kouzelnické svitky a hůlky, kněží pouze kněžské svitky a žezla, bardi smí využívat všechny svitky, hůlky a žezla.* 
 
 [Kouzelnická kouzla T1](#kouzelnická-kouzla-t1)
 [Kouzelnická kouzla T2](#kouzelnická-kouzla-t2)
