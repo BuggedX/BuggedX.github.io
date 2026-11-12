@@ -490,7 +490,7 @@ Drobné předměty získané ze zázemí jsou zdarma k nošení.
 
 [Zpět na kouzla](#kouzla)
 
-- **Léčba zranění**: \[okamžitě, na dotek\], dotkneš se tvora a ten si okamžitě obnoví životy v hodnotě (1+½ tvé úrovně)\*k6.
+- **Léčba zranění**: \[okamžitě, na dotek\], dotkneš se tvora a ten si okamžitě obnoví životy *(2k6 úr1+, 3k6 úr4+, 4k6 úr7+, 5k6 úr10)*.
 - **Odvrácení nemrtvých**: \[okamžitě, blízko\], pomocí svého svatého symbolu odvrátíš nemrtvé, nemrví tvorové v blízkosti si musí ověřit charisma *(OB je rovná tvému hodu na seslání kouzla)*, jinak utečou. Pokud je nemrtvý rovné a nebo nižší úrovně než jsi ty a selže o více jak 10 bodů, je okamžitě zničen.
 - **Ochrana před nadpřirozeným**: \[soustředění, blízko\], démoni/víly/nemrtví mají proti cíli nevýhody na útok a kouzla, nemůžou cíl posednout. Pokud je kouzlo sesláno na již posednutý cíl, nadpřirozená bytost musí znovu ověřit posednutí.
 - **Svatá zbraň**: \[6 kol, blízko\], požehnáš jedné zbrani, zbraň se stane \+1 magickou *(+1 k útoku a zranění)*.
