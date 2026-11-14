@@ -43,7 +43,7 @@ Verze 0.3.9 - příručka hráče.
 10. Při **útoku** se nejdřív hází na **trefu** *(k20\+bonus)*, pokud je výsledné číslo stejné a nebo větší jak obrana *(třída zbroje, TZ)* protivníka, útok **zraňuje** životy cíle, kostkou zbraně *(k4, k6, k8, k10, k12)*.
 11. **Smrt a umírání**, při 0 životech upadá postava do bezvědomí a začne umírat. Vypravěč hodí *k4\+odolnost*, tolik kol zbývá postavě do smrti. Postava si každé kolo hodí čistě *k20*, při kritickém úspěchu se probouzí s jedním životem, jinak umírá dál.
     1. Spojenci na dosah se mohou pokusit o **stabilizaci**: *(k20\+ inteligence)*, OB 15, při úspěchu zůstává postava v bezvědomí a na 0 životech, ale už neumírá. Při vyléčení alespoň jednoho životu se postava probouzí.
-    2. Pokaždé když postava začně umírat *(0 životů)*, získá jednu jizvu, **jizva** zabírá jedno inventářové pole *(absolvuj léčebný pobyt v civilizaci k odstranění jizvy)*.
+    2. Pokaždé když postava začne umírat *(0 životů)*, získá jednu jizvu, **jizva** zabírá jedno inventářové pole *(absolvuj léčebný pobyt v civilizaci k odstranění jizvy)*.
 12. V temných stínech *(podzemí)* je potřeba mít **rozsvícené světlo**: pochodeň, lucerna a nebo kouzelné světlo vydrží **30 minut** **reálného času**. Temnota je smrtící *(nevýhody na všechno, monstra výhody)*.
 13. **Iniciativa**, při začátku souboje si každý hodí *k20\+obratnost*, ten s nejvyšší hodnotou začíná a po něm následuje hráč pro jeho levici *(po směru hodin kolem stolu)*.
     1. Při přepadení si překvapený hází na iniciativu s nevýhodou a útočník s výhodou.
@@ -151,7 +151,7 @@ Verze 0.3.9 - příručka hráče.
 #### 6. **Zloděj**  
 - **Zákeřný útok:** tvé útoky na které máš výhodu *(např.: jsi skrytý a cíl o tobě neví)*, způsobují extra poškození, přidej kostky poškození zbraně navíc *(+1kX úr1+, +2kX úr4+, +3kX úr7+, +4kX úr10)*.    
 - **Zlodějské nástroje:** umíš používat a máš u sebe vždy zlodějské náčiní *(zdarma k nošení)*.
-- **Zlodějina:** máš výhody na hody na lezení, skrývání, plýžení, převleky, vybírání kapes, odposlech, otevírání zámků, hledání a zneškodňování pastí.
+- **Zlodějina:** máš výhody na hody na lezení, skrývání, plížení, převleky, vybírání kapes, odposlech, otevírání zámků, hledání a zneškodňování pastí.
 - **Životy:** k6 za každou úroveň.
 - **Vybavení:** lehké zbroje a zlodějské zbraně.
 - **Talent(k6):** **1-2**: *\[+1 k síle, obratnosti nebo charisma\]*, **3**: *\[+1 k útokům\]*, **4**: *\[zákeřný útok má \+kostku navíc\]* **5**: *\[vyhneš se útoku a nebo prozrazení, jednou za odpočinek\]*, **6**: *\[výhody na iniciativu (přehoď duplikát)\]*.
@@ -161,26 +161,32 @@ Verze 0.3.9 - příručka hráče.
 [Zpět na tvorbu postavy](#tvorba-postavy)
 
 #### 1. **Člověk**  
+*±50 let, ±170cm, ±70kg. Nejpočetnější občané říše, jsou různorodí a všestranní.*
 - **Příležitostný**: hoď s výhodou na počáteční zlaťáky. 
 - **Přizpůsobivý**: při získání talentu si hoď dvakrát a vyber si.
 
 #### 2. **Půlelf**  
+*±150 let, ±180cm, ±60kg. Samostatní a cílevědomí kříženci.*
 - **Jazyk navíc**: vyber si navíc jeden obecný jazyk.   
 - **Ambiciózní**: jeden extra talent navíc na 1\. úrovni.
 
 #### 3. **Elf**  
+*±300 let, ±190cm, ±50kg. Štíhlí uprchlíci z jiného světa s náklonností k hmyzu a přírodě.*
 - **Jazyk navíc**: elfština.  
 - **Bystrý**: \+1 k hodům na útok na dálku a +1 k ověření seslání kouzla.
 
 #### 4. **Trpaslík**  
+*±150 let, ±150cm, ±80kg. Širocí, neústupní a industriální, původem z podzemí.*
 - **Jazyk navíc**: trpasličtina.  
 - **Statný**: \+2 životy na 1\. úrovni a +1 život za každou další úroveň.
 
 #### 5. **Půlork**  
+*±50 let, ±220cm, ±100kg. Velcí houževnatí kříženci na okrajích společnosti.*
 - **Tuhý**: pokud nemáš zbroj, tvá TZ je 11+obratnost.
 - **Mohutný**: \+1 k hodům na útok a zranění zblízka a \+1 inventářový slot.
 
 #### 6. **Půlčík**  
+*±100 let, ±90cm, ±20kg. Drobní chlupatí lidičkové, kteří mají odolný zažívají trakt.*
 - **Kradmý**: jednou za den se můžeš okamžitě skrýt, bez hodu, i kdyby to jinak normálně nebylo možné.  
 - **Drobný**: vejdeš se na těsná místa, ⅙ že jsi převlečený a domestikovaný goblin.
 
@@ -191,33 +197,34 @@ Verze 0.3.9 - příručka hráče.
 *Kdo jsi byl předtím, než jsi se stal dobrodruhem? (můžeš si vzít zázemí i od jiného povolání)*
 
 *Válečník*
-- **Voják**: sloužil jsi u organizované armády, máš varkoč v armádních barvách.
-- **Žoldák**: pracoval jsi jako ochranka a lovec odměn, máš žoldnéřskou licenci.
-- **Barbar**: pocházíš z kmene žijícího mimo civilizaci, máš zvířecí trofej.
+
+- **Strážný**: strážil jsi zákon, pořádek a nebo movitého patrona, máš pouta.
+- **Voják**: sloužil jsi u organizované armády a nebo kompanie, máš svůj bývalý tabard a nebo varkoč.
+- **Barbar**: pocházíš z kmene žijícího mimo civilizaci, máš trofej z monstra a nebo zvířete.
 
 *Hraničář*
-- **Myslivec**: staral ses o přírodu v okolí civilizace, máš malého mazlíčka.
+- **Myslivec**: staral ses o přírodu v okolí civilizace, máš v kapse malého mazlíčka.
 - **Průzkumník**: mapoval jsi neprobádaná místa mimo civilizaci, máš kompas.
-- **Vyhnanec**: byl jsi vykázán ze své domoviny, máš u sebe něco na památku.
+- **Vyhnanec**: byl jsi vykázán ze své domoviny, máš u sebe drobnost na památku.
 
 *Kněz*
 - **Ministrant**: sloužil jsi v chrámu vybraného božstva, máš náhrdelník se svatým symbolem.
 - **Ranhojič**: pracoval jsi jako felčar, máš operační nástroje.
-- **Okultista**: byl jsi členem tajného spolku, máš zakázanou knihu.
+- **Okultista**: byl jsi členem tajného spolku, máš knihu zakázaných rituálů.
 
 *Kouzelník*
-- **Učenec**: studoval jsi na vyhlášené univerzitě, máš učebnici historie.
-- **Šlechtic**: pocházíš z urozeného rodu, máš pečetní prsten.
-- **Nohsled**: asistoval jsi mocnému čaroději, máš poškozenou hůlku.
+- **Učenec**: studoval jsi na vyhlášené univerzitě, máš učebnici historie a nebo arkány.
+- **Šlechtic**: pocházíš z urozeného rodu, máš pečetní prsten se symbolem tvého rodu.
+- **Nohsled**: asistoval jsi mocnému čaroději, máš poškozenou kouzelnou hůlku.
 
 *Bard*
-- **Obchodník**: vydělával jsi na přeprodávání zboží, máš monokl a lupu.
+- **Obchodník**: vydělával jsi na přeprodávání zboží, máš klobouk a monokl.
 - **Cirkusák**: byl jsi putovním bavičem, máš převlek šaška.
 - **Podvodník**: podváděl jsi naivní měšťany, máš pytlík cinknutých kostek.
 
 *Zloděj*
-- **Špeh**: zabýval ses získáváním a předáváním informací, máš falešné dokumenty.
-- **Tulák**: putoval jsi krajem a dělal jsi co zrovna šlo, máš cestovní plášť.
+- **Špeh**: zabýval ses získáváním a předáváním informací, máš šifrovací kódovou knížku.
+- **Tulák**: putoval jsi krajem a dělal jsi co zrovna šlo, máš svůj věrný cestovní plášť.
 - **Zločinec**: živil ses nelegální činností, máš tetování zlodějského cechu.
 
 Drobné předměty získané ze zázemí jsou zdarma k nošení.
@@ -303,7 +310,7 @@ Drobné předměty získané ze zázemí jsou zdarma k nošení.
 
 #### **Zdatnost dle povolání**:
 1. **Válečník**: všechny zbraně, zbroje a štíty.  
-2. **Hraničář**: mušketa, pistole, bastard, kuš, luk, meč, dýka, kopí, hůl a lehké/střední zbroje.  
+2. **Hraničář**: pistole, bastard, kuš, luk, meč, dýka, kopí, hůl a lehké/střední zbroje.  
 3. **Kněz**: pistole, kuš, palice, palcát, dýka, kyj, hůl a všechny zbroje a štíty.  
 4. **Kouzelník**: pistole, dýka, hůl.  
 5. **Bard**: pistole, rapír, kuš, meč, palcát, dýka, kyj, hůl, prak a lehké/střední zbroje.  
